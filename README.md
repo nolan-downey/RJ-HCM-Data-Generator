@@ -11,7 +11,6 @@ Questions:
 * Do we want a CSV or is just JSON OK? 
 * How should point in the hiring process effect output? 
 * Which fields should be included in the dataset?  What fields should be modifiable?
-*   
 
 # Deadlines
 
