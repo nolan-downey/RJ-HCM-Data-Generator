@@ -14,6 +14,7 @@ def createPerson():
 
   person["gender"] = newGender()
   person["ethnicity"] = newEthnicity()
+  #person["employeeId"] = newEmployeeId(person["firstName"], person["lastName"])
 
   #Location Hierachy Here
   #Calls the location function returning a list into the variable location_list. This lets me index for the dictionary. Could be a better way to do this, check later
@@ -22,8 +23,8 @@ def createPerson():
   person["state"] = location_list[0]
   person["city"] = location_list[1]
   person["zip code"] = location_list[2]
-  #person["employeeId"] = newEmployeeId(person["firstName"], person["lastName"])
 
+  # Date Section
   person["dateApplied"] = newDateApplied()
   person["dateOffered"] = person["dateApplied"] + datetime.timedelta(days=random.randrange(20, 30))
   person["dateHired"] = person["dateOffered"] + datetime.timedelta(days=random.randrange(1, 14))
