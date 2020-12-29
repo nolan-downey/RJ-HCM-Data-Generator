@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-
-
 #
 # @func   createPerson
 # @desc   Creates person, calls other functions to generate data
@@ -13,6 +11,15 @@ def createPerson():
   person["gender"] = newGender()
   person["ethnicity"] = newEthnicity()
   person["employeeId"] = newEmployeeId(person["firstName"], person["lastName"])
+
+  #Location Hierachy Here
+  #Calls the location function returning a list into the variable location_list. This lets me index for the dictionary. Could be a better way to do this, check later
+  location_list = location()
+  person["country"] = "United States"
+  person["state"] = location_list[0]
+  person["city"] = location_list[1]
+  person["zip code"] = location_list[2]
+
   return person
 
   #
@@ -34,6 +41,16 @@ def newEthnicity():
   ethnicity = ""
 
   return ethnicity
+
+# @func   location
+# @desc   Gives a randomized city, state, and zip code in a list.
+# @param  none
+
+def location():
+
+  location = [" "," "," "]
+
+  return location
 
 # @func   newEmployeeId
 # @desc   Creates employee ID
