@@ -12,7 +12,7 @@ def createPerson():
 
   person["gender"] = newGender()
   person["ethnicity"] = newEthnicity()
-
+  person["employeeId"] = newEmployeeId(person["firstName"], person["lastName"])
   return person
 
   #
@@ -34,6 +34,17 @@ def newEthnicity():
   ethnicity = ""
 
   return ethnicity
+
+# @func   newEmployeeId
+# @desc   Creates employee ID
+# @param  None
+#
+def newEmployeeId(firstName, lastName):
+  ## to do make sure employee ID is unique
+  employeeId = firstName[0] + lastName
+
+  return employeeId
+
 
 def main():
   # Eventually, we'll want to worry about user input and size of the data
