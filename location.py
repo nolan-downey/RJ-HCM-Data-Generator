@@ -1,6 +1,6 @@
 #This is a test file for the location Function Returns a list with a random location (State, City, Zip Code)
 
-#Take a look at the States folder to get a better understanding of how this function works by looking at the text files!
+#Take a look at the States folder to get a better understanding of how this function works!
 #Essentially the states folder contains 50 text files 1.txt all the way to 50.txt. 
 #On the first row of the text file is the state name, followed by information of cities and zip codes in that state
 
