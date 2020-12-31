@@ -2,18 +2,21 @@
 
 import pymongo
 import ssl
+from decouple import config
 
-from address import createAddress 
-from person import createPerson
-from worker import createWorker 
-from jobApplicant import createJobApplicant 
-from jobRequisition import createJobRequisition 
+from address.address import createAddress 
+from person.person import createPerson
+from worker.worker import createWorker 
+from jobApplicant.jobApplicant import createJobApplicant 
+from jobRequisition.jobRequisition import createJobRequisition 
 
 def main():
   # Eventually, we'll want to worry about user input and size of the data
   # For now, lets create the ability to randomly generate ten people
 
-  client = pymongo.MongoClient("mongodb+srv://relianceAdmin:rjr1234!@cluster0.lx0nm.mongodb.net/hcm?retryWrites=true&w=majority", ssl_cert_reqs=ssl.CERT_NONE)
+  uri = "mongodb+srv://{user}:{password}@cluster0.lx0nm.mongodb.net/{db}?retryWrites=true&w=majority".format(user=config("USERNAME"),password=config("PASSWORD"),db=config("DB") )
+
+  client = pymongo.MongoClient(uri, ssl_cert_reqs=ssl.CERT_NONE)
   db = client.hcmData
 
   addresses = []
