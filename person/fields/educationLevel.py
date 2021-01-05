@@ -8,5 +8,5 @@ def newhighestEducation(percentages):
     tieredPercentages = [0] + list(np.cumsum(percentages))
     index = randint(0,100)
     for i in range(0,len(educationLevels)):
-        if index < tieredPercentages[i+1] and index > tieredPercentages[i]:
+        if index <= tieredPercentages[i+1] and index >= tieredPercentages[i]:
             return educationLevels[i]
