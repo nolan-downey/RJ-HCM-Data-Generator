@@ -1,5 +1,5 @@
 import datetime
 
 def newStartEndDate(applicant):
-  pass
-
+  age = datetime.datetime.now().year - applicant['person'].birthDate.year
+  
