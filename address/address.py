@@ -1,4 +1,4 @@
-from randomPercentages import generateRandomEntry
+from util.generateBiased import generateBiased
 import random
 import json
 
@@ -35,7 +35,7 @@ def createAddress(person):
 # @param  states
 #
 def newStateCode(states):
-  return generateRandomEntry(states, [2 for _ in range(52)])
+  return generateBiased(states, [2 for _ in range(52)])
 
 #
 # @func   newCityInfo()
@@ -43,7 +43,7 @@ def newStateCode(states):
 # @param  cities
 #
 def newCityInfo(cities):
-  return generateRandomEntry(cities, [100 / len(cities) for _ in range(len(cities))])
+  return generateBiased(cities, [100 / len(cities) for _ in range(len(cities))])
 
 #
 # @func   newLineOne()
