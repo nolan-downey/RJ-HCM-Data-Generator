@@ -5,7 +5,7 @@ import ssl
 from decouple import config
 
 from address.address import createAddress 
-from person.person import createPerson
+from person.createPerson import createPerson
 from worker.worker import createWorker 
 from jobApplicant.jobApplicant import createJobApplicant 
 from jobRequisition.jobRequisition import createJobRequisition 
