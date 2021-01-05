@@ -23,14 +23,14 @@ def newName(Person):
   inital_index = random.randint(0, 25)
 
   if Person['gender'] == MALE:
-      Person['name'] = male_names[name_index]
+      Person['firstName'] = male_names[name_index]
   elif Person['gender'] == FEMALE:
-      Person['name'] = female_names[name_index]
+      Person['firstName'] = female_names[name_index]
   else:
-      Person['name'] = male_names[name_index] if name_index % 2 == 0 else female_names[name_index]
+      Person['firstName'] = male_names[name_index] if name_index % 2 == 0 else female_names[name_index]
 
-  Person['surname'] = surnames[name_index]
-  Person['middleInitial'] = middle_initials[inital_index]
+  Person['lastName'] = surnames[name_index]
+  Person['middleName'] = middle_initials[inital_index]
 
   return Person
 
@@ -108,17 +108,6 @@ def newEmail(Person):
   index = random.randint(0, len(DOMAINS)-1)
   Person['email'] = Person['name'] + DOMAINS[index]
   return Person
-
-#
-# @func   location
-# @desc   Gives a randomized city, state, and zip code in a list.
-# @param  none
-#
-def location():
-
-  location = [" "," "," "]
-
-  return location
 
 # @func   newEmployeeId
 # @desc   Creates employee ID
