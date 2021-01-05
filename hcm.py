@@ -26,8 +26,8 @@ def main():
   jobApplicants = []
 
   for _ in range(10):
-    newAddress = createAddress()
     newPerson = createPerson()
+    newAddress = createAddress(newPerson)
     newWorker = createWorker()
     newJobRequistion = createJobRequisition()
     newJobApplicant = createJobApplicant()
