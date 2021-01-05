@@ -10,8 +10,7 @@ import json
 def createAddress(person):
   address = {}
 
-  address["nameCode"] = "Robert Reutiman"
-  # address["nameCode"] = person.personName.firstName + person.personName.lastName
+  address["nameCode"] = person.personName.firstName + person.personName.lastName
   address["countryCode"] = "USA"
 
   statesCities = json.load(open('statesCities.json', 'r'))    

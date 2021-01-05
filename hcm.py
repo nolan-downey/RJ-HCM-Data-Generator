@@ -6,9 +6,9 @@ from decouple import config
 
 from address.address import createAddress 
 from person.createPerson import createPerson
-from worker.worker import createWorker 
+from worker.createWorker import createWorker 
 from jobApplicant.jobApplicant import createJobApplicant 
-from jobRequisition.jobRequisition import createJobRequisition 
+from jobRequisition.createJobRequisition import createJobRequisition 
 
 def main():
   # Eventually, we'll want to worry about user input and size of the data
@@ -28,9 +28,12 @@ def main():
   for _ in range(10):
     newPerson = createPerson()
     newAddress = createAddress(newPerson)
+    newPerson["address"] = newAddress
     newWorker = createWorker()
     newJobRequistion = createJobRequisition()
     newJobApplicant = createJobApplicant()
+
+    print(newPerson)
 
     addresses.append(newAddress)
     people.append(newPerson)
