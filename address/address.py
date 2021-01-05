@@ -1,4 +1,5 @@
-from randomPercentages import generateRandomEntry
+from util.generateBiased import generateBiased
+import random
 import json
 
 #
@@ -13,16 +14,16 @@ def createAddress(person):
   # address["nameCode"] = person.personName.firstName + person.personName.lastName
   address["countryCode"] = "USA"
 
-  statesCities = json.load(open('statesCities.json', 'r'))
-
-  for key in list(statesCities.keys()):
-    
+  statesCities = json.load(open('statesCities.json', 'r'))    
 
   address["stateCode"] = newStateCode(list(statesCities.keys()))
-  address["cityName"], address["postalCode"] = newCityZip(statesCities[address["stateCode"]])
-  address["lineOne"] = newLineOne()
-  
-  # address["geoCoordinate"] = newGeoCoordinate()
+
+  cityInfo = newCityInfo(statesCities[address["stateCode"]])
+
+  address["cityName"]       = cityInfo["name"]
+  address["postalCode"]     = cityInfo["zipcode"]
+  address["lineOne"]        = newLineOne()
+  address["geoCoordinate"]  = {"longitude": cityInfo["longitude"], "latitude": cityInfo["latitude"]}
 
   person["address"] = address
 
@@ -31,25 +32,18 @@ def createAddress(person):
 #
 # @func   newStateCode()
 # @desc   Creates new state code
-# @param  None
+# @param  states
 #
 def newStateCode(states):
-  state = ""
-
-  state = generateRandomEntry(states, [2 for _ in range(50)])
-
-  return state
+  return generateBiased(states, [2 for _ in range(52)])
 
 #
-# @func   newCityZip()
-# @desc   Creates new city, zipcode
-# @param  None
+# @func   newCityInfo()
+# @desc   Creates new city profile
+# @param  cities
 #
-def newCityZip(cityZips):
-
-  cityZip = generateRandomEntry(cityZips, [100 / len(cityZips) for _ in range(len(cityZips))])
-
-  return cityZip[0], cityZip[1]
+def newCityInfo(cities):
+  return generateBiased(cities, [100 / len(cities) for _ in range(len(cities))])
 
 #
 # @func   newLineOne()
@@ -57,6 +51,14 @@ def newCityZip(cityZips):
 # @param  None
 #
 def newLineOne():
-  lineOne = ""
 
-  return lineOne
+  with open("Street_Names.csv", "r") as streetFile:
+
+    lineIndex = random.randrange(1, 2670)
+    streetNumber = random.randrange(1, 999)
+
+    streets = streetFile.readlines()
+    street = streets[lineIndex]
+    streetName = street.split(",")
+
+  return str(streetNumber) + " " + streetName[0]
