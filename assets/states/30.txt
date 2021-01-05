@@ -1,0 +1,227 @@
+New Mexico
+Algodones,87001
+Belen,87002
+Bernalillo,87004
+Bluewater,87005
+Bosque,87006
+Casa Blanca,87007
+Cedar Crest,87008
+Cerrillos,87010
+Claunch,87011
+Coyote,87012
+Cubero,87014
+Estancia,87016
+Gallina,87017
+Counselor,87018
+Grants,87020
+Isleta,87022
+Jarales,87023
+Jemez Pueblo,87024
+Jemez Springs,87025
+Laguna,87026
+Lindrith,87029
+Los Lunas,87031
+Pueblo Of Acoma,87034
+Moriarty,87035
+Mountainair,87036
+Nageezi,87037
+New Laguna,87038
+Paguate,87040
+Pena Blanca,87041
+Peralta,87042
+Placitas,87043
+Ponderosa,87044
+Prewitt,87045
+Sandia Park,87047
+Corrales,87048
+San Fidel,87049
+San Rafael,87051
+Santo Domingo Pueblo,87052
+San Ysidro,87053
+Tijeras,87059
+Torreon,87061
+Veguita,87062
+Bosque Farms,87068
+Clines Corners,87070
+Cochiti Pueblo,87072
+Cochiti Lake,87083
+Albuquerque,87102
+Kirtland Afb,87117
+Rio Rancho,87124
+Gallup,87301
+Brimhall,87310
+Church Rock,87311
+Continental Divide,87312
+Crownpoint,87313
+Fence Lake,87315
+Fort Wingate,87316
+Gamerco,87317
+Mentmore,87319
+Mexican Springs,87320
+Thoreau,87323
+Tohatchi,87325
+Vanderwagen,87326
+Navajo,87328
+Pinehill,87357
+Sheep Springs,87364
+Yatahey,87375
+Aztec,87410
+Flora Vista,87415
+Kirtland,87417
+Navajo Dam,87419
+Shiprock,87420
+Waterflow,87421
+Sanostee,87461
+Abiquiu,87510
+Alcalde,87511
+Amalia,87512
+Arroyo Hondo,87513
+Arroyo Seco,87514
+Canjilon,87515
+Canones,87516
+Cebolla,87518
+Cerro,87519
+Chamisal,87521
+Chimayo,87522
+Costilla,87524
+Taos Ski Valley,87525
+Dulce,87528
+El Prado,87529
+El Rito,87530
+Embudo,87531
+Espanola,87532
+Glorieta,87535
+Hernandez,87537
+Ilfeld,87538
+La Madera,87539
+Lamy,87540
+Los Alamos,87544
+Medanales,87548
+Ojo Caliente,87549
+Los Ojos,87551
+Penasco,87553
+Petaca,87554
+Questa,87556
+Ranchos De Taos,87557
+Red River,87558
+Ribera,87560
+San Cristobal,87564
+Ohkay Owingeh,87566
+Santa Cruz,87567
+Serafina,87569
+Taos,87571
+Tererro,87573
+Tesuque,87574
+Tierra Amarilla,87575
+Tres Piedras,87577
+Truchas,87578
+Vadito,87579
+Valdez,87580
+Vallecitos,87581
+Velarde,87582
+Villanueva,87583
+Las Vegas,87701
+Angel Fire,87710
+Anton Chico,87711
+Chacon,87713
+Eagle Nest,87718
+Guadalupita,87722
+Holman,87723
+La Loma,87724
+Mosquero,87733
+Ocate,87734
+Ojo Feliz,87735
+Raton,87740
+Rociada,87742
+Sapello,87745
+Solano,87746
+Ute Park,87749
+Valmora,87750
+Wagon Mound,87752
+Watrous,87753
+Socorro,87801
+Datil,87821
+Lemitar,87823
+Luna,87824
+Magdalena,87825
+Pie Town,87827
+Polvadera,87828
+San Acacia,87831
+Truth Or Consequences,87901
+Arrey,87930
+Caballo,87931
+Elephant Butte,87935
+Las Cruces,88001
+White Sands Missile Range,88002
+Santa Teresa,88008
+Playas,88009
+Animas,88020
+Arenas Valley,88022
+Berino,88024
+Chamberino,88027
+Cliff,88028
+Deming,88030
+Dona Ana,88032
+Fairacres,88033
+Faywood,88034
+Gila,88038
+Hachita,88040
+La Mesa,88044
+Lordsburg,88045
+Mesilla,88046
+Mesilla Park,88047
+Mimbres,88049
+Mule Creek,88051
+Organ,88052
+Pinos Altos,88053
+Redrock,88055
+Rodeo,88056
+Sunland Park,88063
+Vado,88072
+Chaparral,88081
+Clovis,88101
+Cannon Afb,88103
+Causey,88113
+Crossroads,88114
+Elida,88116
+Fort Sumner,88119
+House,88121
+Milnesand,88125
+Portales,88130
+Taiban,88134
+Yeso,88136
+Jal,88252
+Loco Hills,88255
+Mcdonald,88262
+Maljamar,88264
+Whites City,88268
+Carrizozo,88301
+Alamogordo,88310
+Bent,88314
+Capitan,88316
+Cloudcroft,88317
+Fort Stanton,88323
+High Rolls Mountain Park,88325
+Holloman Air Force Base,88330
+La Luz,88337
+Mayhill,88339
+Mescalero,88340
+Nogal,88341
+Orogrande,88342
+Ruidoso,88345
+Ruidoso Downs,88346
+San Patricio,88348
+Sunspot,88349
+Timberon,88350
+Tinnie,88351
+Tularosa,88352
+Weed,88354
+Tucumcari,88401
+Amistad,88410
+Bard,88411
+Conchas Dam,88416
+Cuervo,88417
+Garita,88421
+Mcalister,88427
+Nara Visa,88430
+San Jon,88434

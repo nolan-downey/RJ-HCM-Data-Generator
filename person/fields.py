@@ -13,9 +13,9 @@ def newName(Person):
   FEMALE = 'F'
   middle_initials = ['A', 'B', 'C', 'D', 'E', 'I', 'J', 'K', 'L', 'M',
                   'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
-  male_names = pd.read_csv('./referenceData/m_names.txt')['name']
-  female_names = pd.read_csv('./referenceData/f_names.txt')['name']
-  surnames = pd.read_csv('./referenceData/surnames.txt')['name']
+  male_names = pd.read_csv('../assets/names/m_names.txt')['name']
+  female_names = pd.read_csv('../assets/names/f_names.txt')['name']
+  surnames = pd.read_csv('../assets/names/surnames.txt')['name']
 
   # index for random name out of first 100000
   name_index = random.randint(0, 100000)

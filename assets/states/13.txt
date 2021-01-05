@@ -1,0 +1,619 @@
+Illinois
+Arlington Heights,60004
+Elk Grove Village,60007
+Rolling Meadows,60008
+Des Plaines,60016
+Fox River Grove,60021
+Golf,60029
+Grayslake,60030
+Gurnee,60031
+Island Lake,60042
+Lake Bluff,60044
+Lake Forest,60045
+Lake Villa,60046
+Lake Zurich,60047
+Morton Grove,60053
+Mount Prospect,60056
+Mundelein,60060
+Vernon Hills,60061
+Northbrook,60062
+North Chicago,60064
+Palatine,60067
+Lincolnshire,60069
+Prospect Heights,60070
+Skokie,60076
+Wauconda,60084
+Waukegan,60085
+Great Lakes,60088
+Buffalo Grove,60089
+Wilmette,60091
+Winnetka,60093
+Winthrop Harbor,60096
+Wonder Lake,60097
+Zion,60099
+Algonquin,60102
+Bensenville,60106
+Streamwood,60107
+Carpentersville,60110
+Dekalb,60115
+Elburn,60119
+Hanover Park,60133
+Gilberts,60136
+Glen Ellyn,60137
+Glendale Heights,60139
+Itasca,60143
+Kaneville,60144
+Kirkland,60146
+Lombard,60148
+Maple Park,60151
+Westchester,60154
+Lake In The Hills,60156
+Medinah,60157
+Melrose Park,60160
+Berkeley,60163
+Stone Park,60165
+Hoffman Estates,60169
+River Grove,60171
+Schaumburg,60173
+Schiller Park,60176
+South Elgin,60177
+Villa Park,60181
+West Chicago,60185
+Carol Stream,60188
+Wood Dale,60191
+River Forest,60305
+Beecher,60401
+Crest Hill,60403
+Shorewood,60404
+Blue Island,60406
+Braceville,60407
+Braidwood,60408
+Calumet City,60409
+Channahon,60410
+Chicago Heights,60411
+Chicago Ridge,60415
+Crete,60417
+Dolton,60419
+Dwight,60420
+Flossmoor,60422
+Hazel Crest,60429
+Homewood,60430
+Bolingbrook,60440
+Matteson,60443
+Mazon,60444
+Romeoville,60446
+Minooka,60447
+Mokena,60448
+Monee,60449
+New Lenox,60451
+Oak Forest,60452
+Oak Lawn,60453
+Bridgeview,60455
+Hickory Hills,60457
+Odell,60460
+Olympia Fields,60461
+Orland Park,60462
+Palos Heights,60463
+Palos Park,60464
+Palos Hills,60465
+Park Forest,60466
+Peotone,60468
+Richton Park,60471
+South Holland,60473
+South Wilmington,60474
+Steger,60475
+Tinley Park,60477
+Country Club Hills,60478
+Willow Springs,60480
+Worth,60482
+Homer Glen,60491
+Summit Argo,60501
+Clarendon Hills,60514
+Downers Grove,60515
+Eola,60519
+Oak Brook,60523
+La Grange Park,60526
+Willowbrook,60527
+Mooseheart,60539
+Naperville,60540
+North Aurora,60542
+Serena,60549
+Shabbona,60550
+Somonauk,60552
+Steward,60553
+Waterman,60556
+Wedron,60557
+Western Springs,60558
+Westmont,60559
+Chicago,60601
+Harwood Heights,60706
+Lincolnwood,60712
+Alsip,60803
+Evergreen Park,60805
+Kankakee,60901
+Aroma Park,60910
+Ashkum,60911
+Beaverville,60912
+Bonfield,60913
+Bourbonnais,60914
+Cabery,60919
+Campus,60920
+Chebanse,60922
+Cissna Park,60924
+Claytonville,60926
+Cullom,60929
+Donovan,60931
+Emington,60934
+Gibson City,60936
+Grant Park,60940
+Herscher,60941
+Hoopeston,60942
+Loda,60948
+Manteno,60950
+Martinton,60951
+Momence,60954
+Onarga,60955
+Pembroke Township,60958
+Piper City,60959
+Rankin,60960
+Saint Anne,60964
+Thawville,60968
+Union Hill,60969
+Watseka,60970
+Apple River,61001
+Chadwick,61014
+Chana,61015
+Davis Junction,61020
+East Dubuque,61025
+Eleroy,61027
+Forreston,61030
+Franklin Grove,61031
+Garden Prairie,61038
+German Valley,61039
+Harmon,61042
+Lanark,61046
+Leaf River,61047
+Lindenwood,61049
+Mc Connell,61050
+Monroe Center,61052
+Mount Carroll,61053
+Nachusa,61057
+Pearl City,61062
+Pecatonica,61063
+Polo,61064
+Poplar Grove,61065
+Ridott,61067
+Rock City,61070
+Savanna,61074
+Scales Mound,61075
+Shirland,61079
+South Beloit,61080
+Stillman Valley,61084
+Woosung,61091
+Loves Park,61111
+Machesney Park,61115
+Aledo,61231
+Annawan,61234
+Barstow,61236
+Carbon Cliff,61239
+Coal Valley,61240
+Colona,61241
+Deer Grove,61243
+East Moline,61244
+Hooppole,61258
+Illinois City,61259
+Joy,61260
+Lyndon,61261
+Lynn Center,61262
+Matherville,61263
+Orion,61273
+Osco,61274
+Preemption,61276
+Prophetstown,61277
+Rapids City,61278
+Sherrard,61281
+Silvis,61282
+Tampico,61283
+Taylor Ridge,61284
+Ancona,61311
+Buda,61314
+Bureau,61315
+Cedar Point,61316
+Cherry,61317
+Compton,61318
+Depue,61322
+Eldena,61324
+Hennepin,61327
+Kasbeer,61328
+Ladd,61329
+La Moille,61330
+Leonore,61332
+Long Point,61333
+Lostant,61334
+Mc Nabb,61335
+Mark,61340
+Marseilles,61341
+Neponset,61345
+Oglesby,61348
+Ohio,61349
+Seatonville,61359
+Standard,61363
+Streator,61364
+Sublette,61367
+Tiskilwa,61368
+Toluca,61369
+Tonica,61370
+Troy Grove,61372
+Van Orin,61374
+Varna,61375
+Wenona,61377
+West Brooklyn,61378
+Wyanet,61379
+Bardolph,61416
+Biggsville,61418
+Bishop Hill,61419
+Blandinsville,61420
+Camp Grove,61424
+Carman,61425
+Dahinda,61428
+East Galesburg,61430
+Fiatt,61433
+Gerlaw,61435
+Gilson,61436
+Ipava,61441
+Keithsburg,61442
+Kewanee,61443
+La Harpe,61450
+Lomax,61454
+Maquon,61458
+North Henderson,61466
+Ophiem,61468
+Oquawka,61469
+Seaton,61476
+Smithshire,61478
+Speer,61479
+Stronghurst,61480
+Table Grove,61482
+Toulon,61483
+Vermont,61484
+Wataga,61488
+Dunfermline,61524
+Edelstein,61526
+Glasford,61533
+Hanna City,61536
+Kingston Mines,61539
+Lacon,61540
+La Rose,61541
+London Mills,61544
+Lowpoint,61545
+Manito,61546
+Mossville,61552
+Princeville,61559
+South Pekin,61564
+Sparland,61565
+Trivoli,61569
+Yates City,61572
+Peoria,61602
+Creve Coeur,61610
+East Peoria,61611
+Peoria Heights,61616
+Anchor,61720
+Armington,61721
+Arrowsmith,61722
+Bellflower,61724
+Carlock,61725
+Chenoa,61726
+Congerville,61729
+Cropsey,61731
+Downs,61736
+El Paso,61738
+Fairbury,61739
+Flanagan,61740
+Forrest,61741
+Goodfield,61742
+Graymont,61743
+Gridley,61744
+Heyworth,61745
+Kenney,61749
+Mackinaw,61755
+Maroa,61756
+Minier,61759
+Minonk,61760
+Normal,61761
+Saunemin,61769
+Saybrook,61770
+Secor,61771
+Strawn,61775
+Wapella,61777
+Alvin,61811
+Bement,61813
+Broadlands,61816
+Catlin,61817
+Champaign,61820
+Collison,61831
+De Land,61839
+Dewey,61840
+Farmer City,61842
+Fithian,61844
+Foosland,61845
+Ivesdale,61851
+Longview,61852
+Mahomet,61853
+Milmine,61855
+Pesotum,61863
+Rantoul,61866
+Ridge Farm,61870
+Sadorus,61872
+Sidell,61876
+Thomasboro,61878
+Tolono,61880
+White Heath,61884
+Ashmore,61912
+Camargo,61919
+Chrisman,61924
+Dalton City,61925
+Gays,61928
+Hindsboro,61930
+La Place,61936
+Lovington,61937
+Metcalf,61940
+Newman,61942
+Redmon,61949
+Tuscola,61953
+Villa Grove,61956
+Alhambra,62001
+Batchtown,62006
+Benld,62009
+Bethalto,62010
+Coffeen,62017
+Cottage Hills,62018
+Dorsey,62021
+Dow,62022
+Eagarville,62023
+East Alton,62024
+Edwardsville,62025
+Elsah,62028
+Fidelity,62030
+Fieldon,62031
+Gillespie,62033
+Glen Carbon,62034
+Godfrey,62035
+Golden Eagle,62036
+Granite City,62040
+Hillview,62050
+Jerseyville,62052
+Kampsville,62053
+Marine,62061
+Michael,62065
+Moro,62067
+Mozier,62070
+New Douglas,62074
+Ohlman,62076
+Piasa,62079
+Roodhouse,62082
+Rosamond,62083
+Sorento,62086
+South Roxana,62087
+Taylor Springs,62089
+Walshville,62091
+Witt,62094
+Wood River,62095
+Wrights,62098
+East Saint Louis,62201
+Fairview Heights,62208
+Addieville,62214
+Albers,62215
+Aviston,62216
+Bartelso,62218
+Beckemeyer,62219
+Scott Air Force Base,62225
+Breese,62230
+Carlyle,62231
+Caseyville,62232
+Coulterville,62237
+Dupo,62239
+East Carondelet,62240
+Ellis Grove,62241
+Fults,62244
+Hecker,62248
+Keyesport,62253
+Lenzburg,62255
+Marissa,62257
+Mascoutah,62258
+Millstadt,62260
+Mulberry Grove,62262
+New Athens,62264
+New Baden,62265
+New Memphis,62266
+O Fallon,62269
+Okawville,62271
+Percy,62272
+Pierron,62273
+Pinckneyville,62274
+Prairie Du Rocher,62277
+Red Bud,62278
+Renault,62279
+Saint Jacob,62281
+Saint Libory,62282
+Smithboro,62284
+Steeleville,62288
+Tilden,62292
+Valmeyer,62295
+Walsh,62297
+Basco,62313
+Baylis,62314
+Bowen,62316
+Camp Point,62320
+Coatsburg,62325
+Dallas City,62330
+Elvaston,62334
+Ferris,62336
+Griggsville,62340
+La Prairie,62346
+Loraine,62349
+Paloma,62359
+Payson,62360
+Sutter,62373
+Tennessee,62374
+Timewell,62375
+Ursa,62376
+Beecher City,62414
+Cowden,62422
+Dieterich,62424
+Hidalgo,62432
+Hutsonville,62433
+Ingraham,62434
+Lerna,62440
+Mode,62444
+Mount Erie,62446
+Neoga,62447
+Oblong,62449
+Sainte Marie,62459
+Saint Francisville,62460
+Shumway,62461
+Stewardson,62463
+Teutopolis,62467
+Trilla,62469
+West York,62478
+Argenta,62501
+Assumption,62510
+Beason,62512
+Blue Mound,62513
+Boody,62514
+Bulpitt,62517
+Chestnut,62518
+Cornland,62519
+Divernon,62530
+Elwin,62532
+Glenarm,62536
+Harristown,62537
+Harvel,62538
+Illiopolis,62539
+Lake Fork,62541
+Mount Pulaski,62548
+Mt Zion,62549
+Moweaqua,62550
+Oreana,62554
+Owaneco,62555
+Pana,62557
+Pawnee,62558
+Taylorville,62568
+Tovey,62570
+Tower Hill,62571
+Waggoner,62572
+Alsey,62610
+Arenzville,62611
+Beardstown,62618
+Bluffs,62621
+Bluff Springs,62622
+Cantrall,62625
+Carlinville,62626
+Chandlerville,62627
+Emden,62635
+Greenview,62642
+Hartsburg,62643
+Hettick,62649
+Loami,62661
+Meredosia,62665
+Modesto,62667
+Nilwood,62672
+Oakford,62673
+Pleasant Plains,62677
+San Jose,62682
+Tallula,62688
+Virden,62690
+Woodson,62695
+Centralia,62801
+Hoyleton,62803
+Barnhill,62809
+Belle Rive,62810
+Bellmont,62811
+Bluford,62814
+Bone Gap,62815
+Bonnie,62816
+Broughton,62817
+Browns,62818
+Burnt Prairie,62820
+Carmi,62821
+Christopher,62822
+Cisne,62823
+Coello,62825
+Dix,62830
+Du Quoin,62832
+Ellery,62833
+Farina,62838
+Freeman Spur,62841
+Geff,62842
+Golden Gate,62843
+Grayville,62844
+Ina,62846
+Keenes,62851
+Keensburg,62852
+Kell,62853
+Kinmundy,62854
+Mc Leansboro,62859
+Maunie,62861
+Mill Shoals,62862
+Mulkeytown,62865
+Noble,62868
+Norris City,62869
+Opdyke,62872
+Radom,62876
+Richview,62877
+Rinard,62878
+Sailor Springs,62879
+Sandoval,62882
+Scheller,62883
+Sesser,62884
+Shobonier,62885
+Springerton,62887
+Tamaroa,62888
+Texico,62889
+Walnut Hill,62893
+Waltonville,62894
+Wayne City,62895
+West Frankfort,62896
+Whittington,62897
+Alto Pass,62905
+Belknap,62908
+Brookport,62910
+Buncombe,62912
+Campbell Hill,62916
+Carrier Mills,62917
+Carterville,62918
+Cave In Rock,62919
+Cobden,62920
+Colp,62921
+Creal Springs,62922
+Dongola,62926
+Elkville,62932
+Energy,62933
+Galatia,62935
+Golconda,62938
+Goreville,62939
+Grand Chain,62941
+Grand Tower,62942
+Herod,62947
+Herrin,62948
+Hurst,62949
+Jacob,62950
+Johnston City,62951
+Junction,62954
+Karnak,62956
+Makanda,62958
+Metropolis,62960
+Millcreek,62961
+Mounds,62964
+Muddy,62965
+Murphysboro,62966
+New Burnside,62967
+Olmsted,62970
+Rosiclare,62982
+Shawneetown,62984
+Stonefort,62987
+Tamms,62988
+Thebes,62990
+Ullin,62992
+Villa Ridge,62996
+Willisville,62997
+Zeigler,62999

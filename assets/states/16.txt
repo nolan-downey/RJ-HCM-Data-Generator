@@ -1,0 +1,246 @@
+Kansas
+Atchison,66002
+Baldwin City,66006
+Basehor,66007
+Bendena,66008
+Bonner Springs,66012
+Colony,66015
+Eudora,66025
+Fort Leavenworth,66027
+New Century,66031
+La Cygne,66040
+Lecompton,66050
+Mc Louth,66054
+Muscotah,66058
+Olathe,66061
+Osawatomie,66064
+Ozawkie,66070
+Paola,66071
+Pleasanton,66075
+Stilwell,66085
+Tonganoxie,66086
+Wathena,66090
+Welda,66091
+Overland Park,66204
+Leawood,66206
+Prairie Village,66208
+Lenexa,66215
+Axtell,66403
+Beattie,66406
+Belvue,66407
+Bern,66408
+Berryton,66409
+Blue Rapids,66411
+Burlingame,66413
+Delia,66418
+Eskridge,66423
+Everest,66424
+Goff,66428
+Harveyville,66431
+Havensville,66432
+Hoyt,66440
+Fort Riley,66442
+Leonardville,66449
+Mc Farland,66501
+Mayetta,66509
+Melvern,66510
+Netawaka,66516
+Oketo,66518
+Olsburg,66520
+Onaga,66521
+Osage City,66523
+Overbrook,66524
+Paxico,66526
+Powhattan,66527
+Quenemo,66528
+Sabetha,66534
+Wamego,66547
+Fort Scott,66701
+Arma,66712
+Baxter Springs,66713
+Chanute,66720
+Elsmore,66732
+Farlington,66734
+Hepler,66746
+Mc Cune,66753
+Neodesha,66757
+Neosho Falls,66758
+Opolis,66760
+Savonburg,66772
+Scammon,66773
+Stark,66775
+Treece,66778
+West Mineral,66782
+Yates Center,66783
+Admire,66830
+Burdick,66838
+Cassoday,66842
+Cottonwood Falls,66845
+Council Grove,66846
+Elmdale,66850
+Lebo,66856
+Lost Springs,66859
+Matfield Green,66862
+Neal,66863
+Neosho Rapids,66864
+Olpe,66865
+Strong City,66869
+White City,66872
+Wilsey,66873
+Agenda,66930
+Barnes,66933
+Esbon,66941
+Formoso,66942
+Hollenberg,66946
+Mahaska,66955
+Morrowville,66958
+Munden,66959
+Narka,66960
+Smith Center,66967
+Webber,66970
+Andale,67001
+Argonia,67004
+Arkansas City,67005
+Burden,67019
+Burrton,67020
+Byers,67021
+Cedar Vale,67024
+Cheney,67025
+Colwich,67030
+Conway Springs,67031
+Douglass,67039
+Elbing,67041
+El Dorado,67042
+Garden Plain,67050
+Geuda Springs,67051
+Goddard,67052
+Goessel,67053
+Halstead,67056
+Hardtner,67057
+Haysville,67060
+Kechi,67067
+Kiowa,67070
+Maize,67101
+Medicine Lodge,67104
+Moundridge,67107
+Mullinville,67109
+Mulvane,67110
+North Newton,67117
+Potwin,67123
+Protection,67127
+Rosalia,67132
+Severy,67137
+Spivey,67142
+Sun City,67143
+Valley Center,67147
+Wichita,67202
+Caney,67333
+Cherryvale,67335
+Chetopa,67336
+Coffeyville,67337
+Edna,67342
+Elk City,67344
+Elk Falls,67345
+Grenola,67346
+Longton,67352
+Mound Valley,67354
+Niotaze,67355
+Sedan,67361
+Abilene,67410
+Assaria,67416
+Bushton,67427
+Cawker City,67430
+Chapman,67431
+Falun,67442
+Glen Elder,67446
+Green,67447
+Herington,67449
+Holyrood,67450
+Kanopolis,67454
+Lindsborg,67456
+Longford,67458
+Mcpherson,67460
+Miltonvale,67466
+Osborne,67473
+Portis,67474
+Solomon,67480
+Sylvan Grove,67481
+Talmage,67482
+Tescott,67484
+South Hutchinson,67505
+Abbyville,67510
+Albert,67511
+Bazine,67516
+Beeler,67518
+Brownell,67521
+Buhler,67522
+Claflin,67525
+Ellinwood,67526
+Haven,67543
+Hoisington,67544
+Kinsley,67547
+Larned,67550
+Liebenthal,67553
+Mc Cracken,67556
+Macksville,67557
+Ness City,67560
+Nickerson,67561
+Offerle,67563
+Olmitz,67564
+Pawnee Rock,67567
+Pretty Prairie,67570
+Rozel,67574
+Rush Center,67575
+St John,67576
+Sylvia,67581
+Turon,67583
+Agra,67621
+Bogue,67625
+Collyer,67631
+Damar,67632
+Dorrance,67634
+Ellis,67637
+Glade,67639
+Kirwin,67644
+Lenora,67645
+Morland,67650
+Natoma,67651
+Norcatur,67653
+Ogallah,67656
+Palco,67657
+Penokee,67659
+Pfeifer,67660
+Prairie View,67664
+Schoenchen,67667
+Wakeeney,67672
+Woodston,67675
+Bird City,67731
+Edson,67733
+Gem,67734
+Gove,67736
+Grainfield,67737
+Hoxie,67740
+Kanorado,67741
+Ludell,67744
+Monument,67747
+Park,67751
+Quinter,67752
+Weskan,67762
+Dodge City,67801
+Cimarron,67835
+Ensign,67841
+Hanston,67849
+Healy,67850
+Jetmore,67854
+Kismet,67859
+Lakin,67860
+Leoti,67861
+Manter,67862
+Marienthal,67863
+Meade,67864
+Minneola,67865
+Pierceville,67868
+Satanta,67870
+Spearville,67876
+Tribune,67879
+Hugoton,67951

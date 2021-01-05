@@ -1,0 +1,462 @@
+New Jersey
+Avenel,7001
+Bayonne,7002
+Boonton,7005
+Caldwell,7006
+Carteret,7008
+Cedar Grove,7009
+Cliffside Park,7010
+Clifton,7011
+Cranford,7016
+East Orange,7017
+Edgewater,7020
+Essex Fells,7021
+Fairview,7022
+Fanwood,7023
+Fort Lee,7024
+Garfield,7026
+Garwood,7027
+Glen Ridge,7028
+Hoboken,7030
+North Arlington,7031
+Kearny,7032
+Kenilworth,7033
+Lake Hiawatha,7034
+Lincoln Park,7035
+Linden,7036
+Livingston,7039
+Maplewood,7040
+Millburn,7041
+Montclair,7042
+Verona,7044
+Mountain Lakes,7046
+North Bergen,7047
+West Orange,7052
+Parsippany,7054
+Passaic,7055
+Wallington,7057
+Pine Brook,7058
+Port Reading,7064
+Rahway,7065
+Clark,7066
+Colonia,7067
+Roseland,7068
+Watchung,7069
+Rutherford,7070
+Lyndhurst,7071
+Carlstadt,7072
+East Rutherford,7073
+Moonachie,7074
+Wood Ridge,7075
+Scotch Plains,7076
+Sewaren,7077
+Short Hills,7078
+South Orange,7079
+South Plainfield,7080
+Towaco,7082
+Weehawken,7086
+Union City,7087
+Vauxhall,7088
+Mountainside,7092
+West New York,7093
+Secaucus,7094
+Newark,7102
+Belleville,7109
+Nutley,7110
+Irvington,7111
+Elizabeth,7201
+Roselle,7203
+Roselle Park,7204
+Hillside,7205
+Elizabethport,7206
+Jersey City,7302
+Allendale,7401
+Bloomingdale,7403
+Butler,7405
+Elmwood Park,7407
+Fair Lawn,7410
+Franklin Lakes,7417
+Glenwood,7418
+Hamburg,7419
+Haskell,7420
+Hewitt,7421
+Highland Lakes,7422
+Ho Ho Kus,7423
+Little Falls,7424
+Mahwah,7430
+Midland Park,7432
+Newfoundland,7435
+Oak Ridge,7438
+Ogdensburg,7439
+Pequannock,7440
+Pompton Lakes,7442
+Pompton Plains,7444
+Ramsey,7446
+Ridgewood,7450
+Glen Rock,7452
+Ringwood,7456
+Riverdale,7457
+Saddle River,7458
+Sussex,7461
+Waldwick,7463
+Wanaque,7465
+West Milford,7480
+Wyckoff,7481
+Paterson,7501
+Hawthorne,7506
+Haledon,7508
+Totowa,7512
+Hackensack,7601
+Bogota,7603
+Hasbrouck Heights,7604
+Leonia,7605
+South Hackensack,7606
+Maywood,7607
+Teterboro,7608
+Alpine,7620
+Bergenfield,7621
+Closter,7624
+Cresskill,7626
+Demarest,7627
+Dumont,7628
+Emerson,7630
+Englewood,7631
+Englewood Cliffs,7632
+Harrington Park,7640
+Haworth,7641
+Hillsdale,7642
+Little Ferry,7643
+Lodi,7644
+Montvale,7645
+Northvale,7647
+Oradell,7649
+Palisades Park,7650
+Paramus,7652
+Park Ridge,7656
+Ridgefield Park,7660
+River Edge,7661
+Rochelle Park,7662
+Saddle Brook,7663
+Teaneck,7666
+Tenafly,7670
+Township Of Washington,7676
+Woodcliff Lake,7677
+Red Bank,7701
+Fort Monmouth,7703
+Allenhurst,7711
+Asbury Park,7712
+Atlantic Highlands,7716
+Avon By The Sea,7717
+Belford,7718
+Belmar,7719
+Bradley Beach,7720
+Cliffwood,7721
+Colts Neck,7722
+Deal,7723
+Eatontown,7724
+Englishtown,7726
+Freehold,7728
+Hazlet,7730
+Howell,7731
+Highlands,7732
+Holmdel,7733
+Keansburg,7734
+Keyport,7735
+Leonardo,7737
+Lincroft,7738
+Little Silver,7739
+Long Branch,7740
+Marlboro,7746
+Matawan,7747
+Monmouth Beach,7750
+Morganville,7751
+Neptune,7753
+Oakhurst,7755
+Ocean Grove,7756
+Oceanport,7757
+Port Monmouth,7758
+Rumson,7760
+Spring Lake,7762
+West Long Branch,7764
+Mine Hill,7803
+Allamuchy,7820
+Belvidere,7823
+Blairstown,7825
+Branchville,7826
+Budd Lake,7828
+Califon,7830
+Delaware,7833
+Denville,7834
+Flanders,7836
+Great Meadows,7838
+Hackettstown,7840
+Hibernia,7842
+Hopatcong,7843
+Johnsonburg,7846
+Kenvil,7847
+Lafayette,7848
+Lake Hopatcong,7849
+Landing,7850
+Layton,7851
+Ledgewood,7852
+Long Valley,7853
+Mount Arlington,7856
+Netcong,7857
+Port Murray,7865
+Rockaway,7866
+Schooleys Mountain,7870
+Sparta,7871
+Stanhope,7874
+Succasunna,7876
+Mount Tabor,7878
+Wallpack Center,7881
+Wharton,7885
+Summit,7901
+Basking Ridge,7920
+Bedminster,7921
+Berkeley Heights,7922
+Bernardsville,7924
+Brookside,7926
+Cedar Knolls,7927
+Far Hills,7931
+Florham Park,7932
+Gillette,7933
+Gladstone,7934
+Green Village,7935
+East Hanover,7936
+Lyons,7939
+Mendham,7945
+Millington,7946
+Morris Plains,7950
+Morristown,7960
+Convent Station,7961
+Mount Freedom,7970
+New Providence,7974
+New Vernon,7976
+Peapack,7977
+Pottersville,7979
+Stirling,7980
+Whippany,7981
+Alloway,8001
+Cherry Hill,8002
+Atco,8004
+Barnegat,8005
+Barnegat Light,8006
+Beach Haven,8008
+Birmingham,8011
+Blackwood,8012
+Browns Mills,8015
+Chatsworth,8019
+Clarksboro,8020
+Clementon,8021
+Columbus,8022
+Deepwater,8023
+Gibbsboro,8026
+Gibbstown,8027
+Glassboro,8028
+Glendora,8029
+Gloucester City,8030
+Bellmawr,8031
+Haddonfield,8033
+Haddon Heights,8035
+Hainesport,8036
+Hammonton,8037
+Hancocks Bridge,8038
+Harrisonville,8039
+Jobstown,8041
+Juliustown,8042
+Voorhees,8043
+Lawnside,8045
+Willingboro,8046
+Lumberton,8048
+Magnolia,8049
+Manahawkin,8050
+Mantua,8051
+Maple Shade,8052
+Marlton,8053
+Mount Laurel,8054
+Mickleton,8056
+Moorestown,8057
+Mount Ephraim,8059
+Mount Royal,8061
+Mullica Hill,8062
+National Park,8063
+New Lisbon,8064
+Paulsboro,8066
+Pedricktown,8067
+Pemberton,8068
+Penns Grove,8069
+Pennsville,8070
+Pitman,8071
+Quinton,8072
+Rancocas,8073
+Richwood,8074
+Runnemede,8078
+Sewell,8080
+Sicklerville,8081
+Somerdale,8083
+Swedesboro,8085
+Thorofare,8086
+Tuckerton,8087
+Vincentown,8088
+Waterford Works,8089
+Wenonah,8090
+West Berlin,8091
+West Creek,8092
+Westville,8093
+Winslow,8095
+Woodbury Heights,8097
+Woodstown,8098
+Audubon,8106
+Oaklyn,8107
+Collingswood,8108
+Merchantville,8109
+Pennsauken,8110
+Absecon,8201
+Avalon,8202
+Brigantine,8203
+Cape May,8204
+Cape May Court House,8210
+Cape May Point,8212
+Egg Harbor City,8215
+Elwood,8217
+Marmora,8223
+New Gretna,8224
+Ocean City,8226
+Ocean View,8230
+Pleasantville,8232
+Egg Harbor Township,8234
+Pomona,8240
+Port Republic,8241
+Sea Isle City,8243
+Somers Point,8244
+South Seaville,8246
+Stone Harbor,8247
+Strathmere,8248
+Villas,8251
+Wildwood,8260
+Woodbine,8270
+Bridgeton,8302
+Buena,8310
+Cedarville,8311
+Clayton,8312
+Delmont,8314
+Dorothy,8317
+Elmer,8318
+Estell Manor,8319
+Fairton,8320
+Fortescue,8321
+Franklinville,8322
+Heislerville,8324
+Landisville,8326
+Leesburg,8327
+Malaga,8328
+Mauricetown,8329
+Mays Landing,8330
+Milmay,8340
+Minotola,8341
+Monroeville,8343
+Port Elizabeth,8348
+Port Norris,8349
+Richland,8350
+Rosenhayn,8352
+Shiloh,8353
+Vineland,8360
+Atlantic City,8401
+Margate City,8402
+Longport,8403
+Ventnor City,8406
+Allentown,8501
+Belle Mead,8502
+Bordentown,8505
+Millstone Township,8510
+Cookstown,8511
+Cranbury,8512
+Cream Ridge,8514
+Hightstown,8520
+Hopewell,8525
+Lambertville,8530
+New Egypt,8533
+Pennington,8534
+Plainsboro,8536
+Princeton Junction,8550
+Ringoes,8551
+Roebling,8554
+Roosevelt,8555
+Skillman,8558
+Stockton,8559
+Titusville,8560
+Wrightstown,8562
+Trenton,8608
+Joint Base Mdl,8640
+Lawrence Township,8648
+Robbinsville,8691
+Lakewood,8701
+Allenwood,8720
+Bayville,8721
+Beachwood,8722
+Brick,8723
+Brielle,8730
+Forked River,8731
+Island Heights,8732
+Lakehurst,8733
+Lanoka Harbor,8734
+Lavallette,8735
+Manasquan,8736
+Mantoloking,8738
+Ocean Gate,8740
+Pine Beach,8741
+Point Pleasant Beach,8742
+Sea Girt,8750
+Seaside Heights,8751
+Seaside Park,8752
+Toms River,8753
+Waretown,8758
+Manchester Township,8759
+Annandale,8801
+Asbury,8802
+Bloomsbury,8804
+Bound Brook,8805
+Broadway,8808
+Dayton,8810
+Dunellen,8812
+East Brunswick,8816
+Edison,8817
+Flagtown,8821
+Flemington,8822
+Franklin Park,8823
+Kendall Park,8824
+Frenchtown,8825
+Glen Gardner,8826
+Helmetta,8828
+High Bridge,8829
+Iselin,8830
+Monroe Township,8831
+Keasbey,8832
+Martinsville,8836
+Metuchen,8840
+Middlesex,8846
+Milltown,8850
+Monmouth Junction,8852
+Neshanic Station,8853
+Piscataway,8854
+Old Bridge,8857
+Oldwick,8858
+Parlin,8859
+Perth Amboy,8861
+Fords,8863
+Phillipsburg,8865
+Pittstown,8867
+Raritan,8869
+Sayreville,8872
+South Amboy,8879
+South Bound Brook,8880
+South River,8882
+Spotswood,8884
+Stewartsville,8886
+Three Bridges,8887
+Whitehouse Station,8889
+Zarephath,8890
+New Brunswick,8901
+North Brunswick,8902
+Highland Park,8904

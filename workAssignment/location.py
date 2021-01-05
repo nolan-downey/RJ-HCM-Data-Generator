@@ -1,6 +1,6 @@
 #This is a test file for the location Function Returns a list with a random location (State, City, Zip Code)
 
-#Take a look at the States folder to get a better understanding of how this function works!
+#Take a look at the states folder to get a better understanding of how this function works!
 #Essentially the states folder contains 50 text files 1.txt all the way to 50.txt. 
 #On the first row of the text file is the state name, followed by information of cities and zip codes in that state
 
@@ -14,13 +14,13 @@ from random import randint
 
 x = str(randint(1,50))
 
-#Concatanating the random integer to match the file path where the data is located. The data should be located in the States folder in your working directory
+#Concatanating the random integer to match the file path where the data is located. The data should be located in the states folder in your working directory
 
-x = "States/" + x + '.txt'
+x = "states/" + x + '.txt'
 
 #Reading in the data. 
 
-with open('States/1.txt', 'r') as f: 
+with open('states/1.txt', 'r') as f: 
     file_data = f.readlines()
 
 #Each line of the file we read into should correspond to an element in the list file_data

@@ -1,0 +1,27 @@
+Delaware
+Bear,19701
+Claymont,19703
+Delaware City,19706
+Hockessin,19707
+Montchanin,19710
+Port Penn,19731
+Saint Georges,19733
+Winterthur,19735
+Yorklyn,19736
+Dover Afb,19902
+Bethany Beach,19930
+Camden Wyoming,19934
+Cheswold,19936
+Dagsboro,19939
+Ellendale,19941
+Fenwick Island,19944
+Frankford,19945
+Frederica,19946
+Harbeson,19951
+Hartly,19953
+Kenton,19955
+Lewes,19958
+Marydel,19964
+Rehoboth Beach,19971
+Selbyville,19975
+Viola,19979

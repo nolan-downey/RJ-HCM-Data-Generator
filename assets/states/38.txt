@@ -1,0 +1,56 @@
+Rhode Island
+Albion,2802
+Ashaway,2804
+Barrington,2806
+Block Island,2807
+Bradford,2808
+Bristol,2809
+Chepachet,2814
+Clayville,2815
+Coventry,2816
+West Greenwich,2817
+East Greenwich,2818
+Exeter,2822
+Foster,2825
+Greene,2827
+Greenville,2828
+Harrisville,2830
+Hope,2831
+Hope Valley,2832
+Jamestown,2835
+Kenyon,2836
+Little Compton,2837
+Manville,2838
+Mapleville,2839
+Newport,2840
+Middletown,2842
+North Kingstown,2852
+North Scituate,2857
+Oakland,2858
+Pascoag,2859
+Pawtucket,2860
+Central Falls,2863
+Cumberland,2864
+Portsmouth,2871
+Prudence Island,2872
+Rockville,2873
+Saunderstown,2874
+Shannock,2875
+Slatersville,2876
+Tiverton,2878
+Narragansett,2882
+Westerly,2891
+West Kingston,2892
+West Warwick,2893
+Wood River Junction,2894
+Woonsocket,2895
+North Smithfield,2896
+Wyoming,2898
+Providence,2903
+Cranston,2910
+North Providence,2911
+East Providence,2914
+Riverside,2915
+Rumford,2916
+Smithfield,2917
+Johnston,2919

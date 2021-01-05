@@ -1,0 +1,552 @@
+Virginia
+Aldie,20105
+Amissville,20106
+Manassas,20109
+Marshall,20115
+Catlett,20119
+Centreville,20120
+Paeonian Springs,20129
+Purcellville,20132
+Bluemont,20135
+Bristow,20136
+Broad Run,20137
+Casanova,20139
+Round Hill,20141
+Catharpin,20143
+Delaplane,20144
+Ashburn,20147
+Chantilly,20151
+Haymarket,20169
+Lovettsville,20180
+Nokesville,20181
+Upperville,20184
+Warrenton,20186
+Reston,20190
+The Plains,20198
+Dumfries,22025
+Dunn Loring,22027
+Fairfax Station,22039
+Falls Church,22041
+Fort Belvoir,22060
+Great Falls,22066
+Lorton,22079
+Oakton,22124
+Occoquan,22125
+Triangle,22172
+Fort Myer,22211
+Bowling Green,22427
+Burgess,22432
+Burr Hill,22433
+Callao,22435
+Caret,22436
+Center Cross,22437
+Colonial Beach,22443
+Dahlgren,22448
+Dunnsville,22454
+Heathsville,22473
+Hustle,22476
+Kilmarnock,22482
+King George,22485
+Kinsale,22488
+Laneview,22504
+Locust Grove,22508
+Lottsburg,22511
+Montross,22520
+Oldhams,22529
+Ophelia,22530
+Partlow,22534
+Rappahannock Academy,22538
+Reedville,22539
+Rhoadesville,22542
+Ruther Glen,22546
+Sharps,22548
+Spotsylvania,22551
+Tappahannock,22560
+Weems,22576
+White Stone,22578
+Wicomico Church,22579
+Woodford,22580
+Bentonville,22610
+Berryville,22611
+Boyce,22620
+Chester Gap,22623
+Clear Brook,22624
+Cross Junction,22625
+Flint Hill,22627
+Front Royal,22630
+Gore,22637
+Hume,22639
+Huntly,22640
+Markham,22643
+Maurertown,22644
+Rileyville,22650
+Fort Valley,22652
+Star Tannery,22654
+Stephens City,22655
+Stephenson,22656
+Toms Brook,22660
+White Post,22663
+Culpeper,22701
+Aroda,22709
+Banco,22711
+Bealeton,22712
+Brandy Station,22714
+Brightwood,22715
+Elkwood,22718
+Etlan,22719
+Goldvein,22720
+Haywood,22722
+Hood,22723
+Jeffersonton,22724
+Lignum,22726
+Mitchells,22729
+Oakpark,22730
+Pratts,22731
+Radiant,22732
+Rapidan,22733
+Remington,22734
+Reva,22735
+Richardsville,22736
+Rixeyville,22737
+Rochelle,22738
+Sperryville,22740
+Stevensburg,22741
+Sumerduck,22742
+Syria,22743
+Woodville,22749
+Harrisonburg,22801
+Basye,22810
+Bergton,22811
+Criders,22820
+Fulks Run,22830
+Hinton,22831
+Keezletown,22832
+Linville,22834
+Luray,22835
+Mc Gaheysville,22840
+Mount Crawford,22841
+Mount Jackson,22842
+Mount Solon,22843
+Orkney Springs,22845
+Penn Laird,22846
+Quicksburg,22847
+Singers Glen,22850
+Timberville,22853
+Charlottesville,22901
+Arrington,22922
+Barboursville,22923
+Covesville,22931
+Crozet,22932
+Dyke,22935
+Earlysville,22936
+Esmont,22937
+Faber,22938
+Fishersville,22939
+Free Union,22940
+Gordonsville,22942
+Keswick,22947
+Locust Dale,22948
+Lovingston,22949
+Nellysford,22958
+North Garden,22959
+Piney River,22964
+Ruckersville,22968
+Schuyler,22969
+Shipman,22971
+Stanardsville,22973
+Tyro,22976
+Woodberry Forest,22989
+Amelia Court House,23002
+Arvonia,23004
+Aylett,23009
+Barhamsville,23011
+Beaverdam,23015
+Bohannon,23021
+Bremo Bluff,23022
+Bruington,23023
+Bumpass,23024
+Cardinal,23025
+Cartersville,23027
+Charles City,23030
+Church View,23032
+Cobbs Creek,23035
+Crozier,23039
+Deltaville,23043
+Diggs,23045
+Doswell,23047
+Dutton,23050
+Fork Union,23055
+Glen Allen,23059
+Gloucester Point,23062
+Goochland,23063
+Grimstead,23064
+Gum Spring,23065
+Gwynn,23066
+Hallieford,23068
+Hardyville,23070
+Hartfield,23071
+Hayes,23072
+Henrico,23075
+Hudgins,23076
+Jetersville,23083
+Kents Store,23084
+King And Queen Court House,23085
+King William,23086
+Lanexa,23089
+Little Plymouth,23091
+Locust Hill,23092
+Louisa,23093
+Maidens,23102
+Manakin Sabot,23103
+Manquin,23106
+Mascot,23108
+Mathews,23109
+Mattaponi,23110
+Millers Tavern,23115
+Mineral,23117
+Moon,23119
+Moseley,23120
+New Canton,23123
+New Kent,23124
+New Point,23125
+North,23128
+Oilville,23129
+Onemo,23130
+Port Haywood,23138
+Powhatan,23139
+Providence Forge,23140
+Saint Stephens Church,23148
+Saluda,23149
+Sandston,23150
+Shacklefords,23156
+State Farm,23160
+Susan,23163
+Toano,23168
+Topping,23169
+Urbanna,23175
+Wake,23176
+Walkerton,23177
+Water View,23180
+Accomac,23301
+Assawoman,23302
+Battery Park,23304
+Belle Haven,23306
+Birdsnest,23307
+Bloxom,23308
+Cape Charles,23310
+Capeville,23313
+Carrollton,23314
+Carrsville,23315
+Cheriton,23316
+Chesapeake,23320
+Chincoteague Island,23336
+Wallops Island,23337
+Eastville,23347
+Exmore,23350
+Franktown,23354
+Greenbackville,23356
+Hacksneck,23358
+Hallwood,23359
+Harborton,23389
+Horntown,23395
+Keller,23401
+Machipongo,23405
+Mappsville,23407
+Marionville,23408
+Mears,23409
+Melfa,23410
+Nassawadox,23413
+Nelsonia,23414
+New Church,23415
+Oak Hall,23416
+Onancock,23417
+Onley,23418
+Painter,23420
+Parksley,23421
+Pungoteague,23422
+Quinby,23423
+Saxis,23427
+Suffolk,23432
+Tangier,23440
+Tasley,23441
+Temperanceville,23442
+Virginia Beach,23451
+Wachapreague,23480
+Willis Wharf,23486
+Withams,23488
+Newport News,23601
+Fort Eustis,23604
+Fort Monroe,23651
+Poquoson,23662
+Yorktown,23690
+Virginia State University,23806
+Alberta,23821
+Boykins,23827
+Capron,23829
+Carson,23830
+Church Road,23833
+Colonial Heights,23834
+Courtland,23837
+Dendron,23839
+Dewitt,23840
+Dinwiddie,23841
+Disputanta,23842
+Dolphin,23843
+Drewryville,23844
+Ebony,23845
+Elberon,23846
+Emporia,23847
+Ford,23850
+Freeman,23856
+Gasburg,23857
+Ivor,23866
+Jarratt,23867
+Mc Kenney,23872
+Newsoms,23874
+Prince George,23875
+Sedley,23878
+Skippers,23879
+Sutherland,23885
+Valentines,23887
+Warfield,23889
+Wilsons,23894
+Yale,23897
+Zuni,23898
+Farmville,23901
+Baskerville,23915
+Boydton,23917
+Bracey,23919
+Brodnax,23920
+Burkeville,23922
+Charlotte Court House,23923
+Chase City,23924
+Crewe,23930
+Cullen,23934
+Dillwyn,23936
+Drakes Branch,23937
+Dundas,23938
+Green Bay,23942
+Hampden Sydney,23943
+Kenbridge,23944
+Keysville,23947
+La Crosse,23950
+Meherrin,23954
+Pamplin,23958
+Phenix,23959
+Red House,23963
+Red Oak,23964
+Rice,23966
+Saxe,23967
+Skipwith,23968
+South Hill,23970
+Victoria,23974
+Wylliesburg,23976
+Roanoke,24011
+Ararat,24053
+Axton,24054
+Bassett,24055
+Belspring,24058
+Bent Mountain,24059
+Blacksburg,24060
+Blue Ridge,24064
+Boones Mill,24065
+Catawba,24070
+Check,24072
+Christiansburg,24073
+Claudville,24076
+Cloverdale,24077
+Copper Hill,24079
+Critz,24082
+Daleville,24083
+Eagle Rock,24085
+Eggleston,24086
+Elliston,24087
+Ferrum,24088
+Fieldale,24089
+Fincastle,24090
+Floyd,24091
+Glade Hill,24092
+Glen Lyn,24093
+Goodview,24095
+Hardy,24101
+Henry,24102
+Huddleston,24104
+Indian Valley,24105
+Meadows Of Dan,24120
+Moneta,24121
+Narrows,24124
+Paint Bank,24131
+Parrott,24132
+Patrick Springs,24133
+Pearisburg,24134
+Penhook,24137
+Pilot,24138
+Radford,24141
+Rich Creek,24147
+Ridgeway,24148
+Riner,24149
+Ripplemead,24150
+Rocky Mount,24151
+Sandy Level,24161
+Shawsville,24162
+Staffordsville,24167
+Stanleytown,24168
+Stuart,24171
+Thaxton,24174
+Union Hall,24176
+Vinton,24179
+Wirtz,24184
+Woolwine,24185
+Appalachia,24216
+Bee,24217
+Big Stone Gap,24219
+Birchleaf,24220
+Blackwater,24221
+Castlewood,24224
+Clinchco,24226
+Clintwood,24228
+Coeburn,24230
+Dante,24237
+Duffield,24244
+Dungannon,24245
+East Stone Gap,24246
+Ewing,24248
+Fort Blackmore,24250
+Gate City,24251
+Haysi,24256
+Hiltons,24258
+Honaker,24260
+Jonesville,24263
+Keokee,24265
+Mendota,24270
+Nickelsville,24271
+Nora,24272
+Pennington Gap,24277
+Pound,24279
+Rose Hill,24281
+Saint Charles,24282
+Saint Paul,24283
+Weber City,24290
+Whitetop,24292
+Wise,24293
+Atkins,24311
+Austinville,24312
+Barren Springs,24313
+Bastian,24314
+Bland,24315
+Broadford,24316
+Cana,24317
+Chilhowie,24319
+Cripple Creek,24322
+Crockett,24323
+Draper,24324
+Dugspur,24325
+Elk Creek,24326
+Fancy Gap,24328
+Fries,24330
+Galax,24333
+Glade Spring,24340
+Hiwassee,24347
+Independence,24348
+Ivanhoe,24350
+Lambsburg,24351
+Laurel Fork,24352
+Max Meadows,24360
+Meadowview,24361
+Mouth Of Wilson,24363
+Rocky Gap,24366
+Rural Retreat,24368
+Saltville,24370
+Speedwell,24374
+Troutdale,24378
+Willis,24380
+Woodlawn,24381
+Wytheville,24382
+Staunton,24401
+Augusta Springs,24411
+Bacova,24412
+Blue Grass,24413
+Brownsburg,24415
+Clifton Forge,24422
+Craigsville,24430
+Crimora,24431
+Doe Hill,24433
+Fort Defiance,24437
+Grottoes,24441
+Head Waters,24442
+Hot Springs,24445
+Iron Gate,24448
+Low Moor,24457
+Mc Dowell,24458
+Middlebrook,24459
+Millboro,24460
+Montebello,24464
+Mount Sidney,24467
+Raphine,24472
+Rockbridge Baths,24473
+Selma,24474
+Steeles Tavern,24476
+Stuarts Draft,24477
+Swoope,24479
+Vesuvius,24483
+Warm Springs,24484
+West Augusta,24485
+Weyers Cave,24486
+Lynchburg,24501
+Altavista,24517
+Appomattox,24522
+Big Island,24526
+Blairs,24527
+Brookneal,24528
+Buffalo Junction,24529
+Callands,24530
+Clover,24534
+Coleman Falls,24536
+Crystal Hill,24539
+Dry Fork,24549
+Evington,24550
+Forest,24551
+Gladys,24554
+Glasgow,24555
+Goode,24556
+Gretna,24557
+Howardsville,24562
+Hurt,24563
+Java,24565
+Keeling,24566
+Lowry,24570
+Lynch Station,24571
+Madison Heights,24572
+Nathalie,24577
+Natural Bridge Station,24579
+Rustburg,24588
+Spout Spring,24593
+Sutherlin,24594
+Sweet Briar,24595
+Vernon Hill,24597
+Virgilina,24598
+Wingina,24599
+Amonate,24601
+Bandy,24602
+Big Rock,24603
+Bishop,24604
+Bluefield,24605
+Boissevain,24606
+Breaks,24607
+Cedar Bluff,24609
+Doran,24612
+Falls Mills,24613
+Grundy,24614
+Jewell Ridge,24622
+Maxie,24628
+North Tazewell,24630
+Oakwood,24631
+Pilgrims Knob,24634
+Pocahontas,24635
+Pounding Mill,24637
+Raven,24639
+Richlands,24641
+Swords Creek,24649
+Tazewell,24651
+Vansant,24656
+Whitewood,24657

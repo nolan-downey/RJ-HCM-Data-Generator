@@ -1,0 +1,296 @@
+Oklahoma
+Alex,73002
+Amber,73004
+Anadarko,73005
+Apache,73006
+Binger,73009
+Cashion,73016
+Cement,73017
+Chickasha,73018
+Choctaw,73020
+Corn,73024
+Coyle,73027
+Cyril,73029
+Eakly,73033
+El Reno,73036
+Fort Cobb,73038
+Geary,73040
+Gotebo,73041
+Gracemont,73042
+Harrah,73045
+Hydro,73048
+Lookeba,73053
+Minco,73059
+Mulhall,73063
+Mustang,73064
+Nicoma Park,73066
+Ninnekah,73067
+Pauls Valley,73075
+Rush Springs,73082
+Verden,73092
+Weatherford,73096
+Oklahoma City,73102
+Countyline,73425
+Burneyville,73430
+Elmore City,73433
+Healdton,73438
+Loco,73442
+Lone Grove,73443
+Madill,73446
+Milburn,73450
+Ravia,73455
+Springer,73458
+Thackerville,73459
+Wapanucka,73461
+Ratliff City,73481
+Tatums,73487
+Velma,73491
+Fort Sill,73503
+Addington,73520
+Cache,73527
+Comanche,73529
+Devol,73531
+Faxon,73540
+Geronimo,73543
+Grandfield,73546
+Granite,73547
+Headrick,73549
+Indiahoma,73552
+Mangum,73554
+Medicine Park,73557
+Mountain Park,73559
+Olustee,73560
+Randlett,73562
+Terral,73569
+Vinson,73571
+Walters,73572
+Waurika,73573
+Arapaho,73620
+Bessie,73622
+Burns Flat,73624
+Canute,73626
+Cheyenne,73628
+Cordell,73632
+Dill City,73641
+Erick,73645
+Fay,73646
+Foss,73647
+Hammon,73650
+Leedey,73654
+Lone Wolf,73655
+Reydon,73660
+Rocky,73661
+Seiling,73663
+Sentinel,73664
+Taloga,73667
+Aline,73716
+Amorita,73719
+Carmen,73726
+Carrier,73727
+Cleo Springs,73729
+Dacoma,73731
+Goltry,73739
+Hennessey,73742
+Hopeton,73746
+Jet,73749
+Kingfisher,73750
+Lahoma,73754
+Longdale,73755
+Lucien,73757
+Meno,73760
+Nash,73761
+Okarche,73762
+Okeene,73763
+Pond Creek,73766
+Wakita,73771
+Watonga,73772
+Waukomis,73773
+Fort Supply,73841
+Gage,73843
+Gate,73844
+Laverne,73848
+May,73851
+Mutual,73853
+Shattuck,73858
+Vici,73859
+Waynoka,73860
+Balko,73931
+Boise City,73933
+Felt,73937
+Forgan,73938
+Goodwell,73939
+Guymon,73942
+Hardesty,73944
+Hooker,73945
+Keyes,73947
+Texhoma,73949
+Turpin,73950
+Avant,74001
+Barnsdall,74002
+Bartlesville,74003
+Broken Arrow,74011
+Catoosa,74015
+Claremore,74017
+Copan,74022
+Drumright,74030
+Glenpool,74033
+Hallett,74034
+Hominy,74035
+Inola,74036
+Jenks,74037
+Kellyville,74039
+Kiefer,74041
+Lenapah,74042
+Mannford,74044
+Maramec,74045
+Milfay,74046
+Nowata,74048
+Ochelata,74051
+Oilton,74052
+Oologah,74053
+Owasso,74055
+Pawhuska,74056
+Prue,74060
+Sapulpa,74066
+Shamrock,74068
+Skiatook,74070
+Slick,74071
+S Coffeyville,74072
+Stroud,74079
+Talala,74080
+Terlton,74081
+Vera,74082
+Wann,74083
+Wynona,74084
+Tulsa,74103
+Vinita,74301
+Big Cabin,74332
+Bluejacket,74333
+Chouteau,74337
+Disney,74340
+Eucha,74342
+Grove,74344
+Ketchum,74349
+North Miami,74358
+Picher,74360
+Quapaw,74363
+Spavinaw,74366
+Twin Oaks,74368
+Muskogee,74401
+Beggs,74421
+Braggs,74423
+Canadian,74425
+Checotah,74426
+Cookson,74427
+Council Hill,74428
+Coweta,74429
+Dewar,74431
+Fort Gibson,74434
+Henryetta,74437
+Hitchita,74438
+Okay,74446
+Okmulgee,74447
+Oktaha,74450
+Park Hill,74451
+Peggs,74452
+Porum,74455
+Redbird,74458
+Rentiesville,74459
+Schulter,74460
+Stigler,74462
+Tahlequah,74464
+Wagoner,74467
+Wainwright,74468
+Webbers Falls,74470
+Welling,74471
+Mcalester,74501
+Antlers,74523
+Blanco,74528
+Bromide,74530
+Centrahoma,74534
+Clarita,74535
+Coalgate,74538
+Haileyville,74546
+Hartshorne,74547
+Honobia,74549
+Kinta,74552
+Krebs,74554
+Moyers,74557
+Nashoba,74558
+Rattan,74562
+Snow,74567
+Stringtown,74569
+Talihina,74571
+Tuskahoma,74574
+Wardville,74576
+Ponca City,74601
+Braman,74632
+Kaw City,74641
+Marland,74644
+Nardin,74646
+Newkirk,74647
+Red Rock,74651
+Shidler,74652
+Tonkawa,74653
+Achille,74720
+Battiest,74722
+Bokchito,74726
+Caddo,74729
+Eagletown,74734
+Fort Towson,74735
+Hendrix,74741
+Idabel,74745
+Kemp,74747
+Kenefic,74748
+Platter,74753
+Ringold,74754
+Rufe,74755
+Soper,74759
+Swink,74761
+Valliant,74764
+Asher,74826
+Boley,74829
+Bowlegs,74830
+Byars,74831
+Castle,74833
+Connerville,74836
+Dustin,74839
+Earlsboro,74840
+Fittstown,74842
+Fitzhugh,74843
+Francis,74844
+Holdenville,74848
+Konawa,74849
+Mcloud,74851
+Maud,74854
+Meeker,74855
+Newalla,74857
+Okemah,74859
+Paden,74860
+Roff,74865
+Sasakwa,74867
+Wanette,74878
+Weleetka,74880
+Wetumka,74883
+Wewoka,74884
+Arkoma,74901
+Pocola,74902
+Bokoshe,74930
+Bunch,74931
+Fanshawe,74935
+Gans,74936
+Heavener,74937
+Hodgen,74939
+Leflore,74942
+Lequire,74943
+Mccurtain,74944
+Marble City,74945
+Moffett,74946
+Muldrow,74948
+Poteau,74953
+Sallisaw,74955
+Shady Point,74956
+Spiro,74959
+Vian,74962
+Watts,74964
+Wister,74966

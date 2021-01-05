@@ -1,0 +1,212 @@
+North Dakota
+Abercrombie,58001
+Absaraka,58002
+Argusville,58005
+Ayr,58007
+Casselton,58012
+Christine,58015
+Cogswell,58017
+Enderlin,58027
+Fingal,58031
+Forman,58032
+Fort Ransom,58033
+Grandin,58038
+Gwinner,58040
+Hankinson,58041
+Horace,58047
+Kathryn,58049
+Kindred,58051
+Lidgerwood,58053
+Mcleod,58057
+Mantador,58058
+Milnor,58060
+Mooreton,58061
+Nome,58062
+Oriska,58063
+Pillsbury,58065
+Stirum,58069
+Wahpeton,58075
+West Fargo,58078
+Wyndmere,58081
+Grand Forks,58201
+Grand Forks Afb,58204
+Aneta,58212
+Arvilla,58214
+Bathgate,58216
+Cavalier,58220
+Cummings,58223
+Dahlen,58224
+Emerado,58228
+Fordville,58231
+Forest River,58233
+Gilby,58235
+Hannah,58239
+Hatton,58240
+Hensel,58241
+Hoople,58243
+Langdon,58249
+Lankin,58250
+Larimore,58251
+Mcville,58254
+Manvel,58256
+Mekinock,58258
+Michigan,58259
+Minto,58261
+Neche,58265
+Osnabrock,58269
+Park River,58270
+Pembina,58271
+Pisek,58273
+Devils Lake,58301
+Alsen,58311
+Belcourt,58316
+Bisbee,58317
+Bottineau,58318
+Brocket,58321
+Cando,58324
+Churchs Ferry,58325
+Crary,58327
+Dunseith,58329
+Egeland,58331
+Esmond,58332
+Fort Totten,58335
+Hansboro,58339
+Maddock,58348
+Minnewaukan,58351
+Munich,58352
+Mylo,58353
+Nekoma,58355
+New Rockford,58356
+Oberon,58357
+Perth,58363
+Rocklake,58365
+Rolette,58366
+Rolla,58367
+Sarles,58372
+Sheyenne,58374
+Starkweather,58377
+Tokio,58379
+Tolna,58380
+Willow City,58384
+Wolford,58385
+Binford,58416
+Carrington,58421
+Cathay,58422
+Chaseley,58423
+Courtenay,58426
+Dazey,58429
+Denhoff,58430
+Dickey,58431
+Edgeley,58433
+Fessenden,58438
+Fullerton,58441
+Gackle,58442
+Grace City,58445
+Hannaford,58448
+Hurdsfield,58451
+Jessie,58452
+Jud,58454
+Kensal,58455
+Kulm,58456
+Lamoure,58458
+Lehr,58460
+Litchville,58461
+Mcclusky,58463
+Mchenry,58464
+Oakes,58474
+Pettibone,58475
+Pingree,58476
+Regan,58477
+Spiritwood,58481
+Streeter,58483
+Sykeston,58486
+Tappen,58487
+Tuttle,58488
+Wimbledon,58492
+Wishek,58495
+Woodworth,58496
+Bismarck,58501
+Cannon Ball,58528
+Coleharbor,58531
+Driscoll,58532
+Flasher,58535
+Fort Yates,58538
+Golden Valley,58541
+Hazelton,58544
+Hazen,58545
+Kintyre,58549
+Mandan,58554
+Menoken,58558
+Moffit,58560
+New Leipzig,58562
+Selfridge,58568
+Shields,58569
+Solen,58570
+Zap,58580
+Amidon,58620
+Beach,58621
+Belfield,58622
+Dunn Center,58626
+Glen Ullin,58631
+Golva,58632
+Grassy Butte,58634
+Halliday,58636
+Hettinger,58639
+Killdeer,58640
+Lefor,58641
+Marmarth,58643
+Mott,58646
+New England,58647
+Reeder,58649
+Regent,58650
+Rhame,58651
+Richardton,58652
+Sentinel Butte,58654
+South Heart,58655
+Minot Afb,58704
+Anamoose,58710
+Antler,58711
+Balfour,58712
+Bantry,58713
+Berthold,58718
+Bowbells,58721
+Butte,58723
+Carpio,58725
+Deering,58731
+Des Lacs,58733
+Donnybrook,58734
+Drake,58736
+Flaxton,58737
+Glenburn,58740
+Karlsruhe,58744
+Kenmare,58746
+Kramer,58748
+Lignite,58752
+Makoti,58756
+Mandaree,58757
+Maxbass,58760
+Mohall,58761
+New Town,58763
+Noonan,58765
+Parshall,58770
+Plaza,58771
+Powers Lake,58773
+Roseglen,58775
+Ross,58776
+Ruso,58778
+Ryder,58779
+Souris,58783
+Surrey,58785
+Tolley,58787
+Towner,58788
+Upham,58789
+Velva,58790
+Voltaire,58792
+Westhope,58793
+Wildrose,58795
+Arnegard,58835
+Cartwright,58838
+Fortuna,58844
+Grenora,58845
+Watford City,58854
+Zahl,58856

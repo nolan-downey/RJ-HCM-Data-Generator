@@ -1,0 +1,184 @@
+New Hampshire
+Candia,3034
+Derry,3038
+Epping,3042
+Francestown,3043
+Fremont,3044
+Goffstown,3045
+Dunbarton,3046
+Hollis,3049
+Litchfield,3052
+Londonderry,3053
+Merrimack,3054
+Mont Vernon,3057
+Nashua,3060
+New Boston,3070
+New Ipswich,3071
+Pelham,3076
+Raymond,3077
+Lyndeborough,3082
+Temple,3084
+Wilton,3086
+Windham,3087
+Hooksett,3106
+Waterville Valley,3215
+Barnstead,3218
+Campton,3223
+Canterbury,3224
+Center Barnstead,3225
+Center Harbor,3226
+Center Sandwich,3227
+Contoocook,3229
+Danbury,3230
+East Andover,3231
+Elkins,3233
+Epsom,3234
+Gilmanton,3237
+Glencliff,3238
+Hebron,3241
+Henniker,3242
+Hill,3243
+Hillsborough,3244
+Holderness,3245
+Laconia,3246
+Gilford,3249
+Meredith,3253
+Moultonborough,3254
+New Hampton,3256
+New London,3257
+Chichester,3258
+North Sandwich,3259
+North Sutton,3260
+Northwood,3261
+North Woodstock,3262
+Rumney,3266
+Sanbornton,3269
+South Sutton,3273
+Suncook,3275
+Tilton,3276
+Warner,3278
+Washington,3280
+Weare,3281
+Wentworth,3282
+Thornton,3285
+Wilmot,3287
+Nottingham,3290
+West Nottingham,3291
+Woodstock,3293
+Bow,3304
+Loudon,3307
+Keene,3431
+Antrim,3440
+Ashuelot,3441
+Bennington,3442
+Dublin,3444
+Sullivan,3445
+Swanzey,3446
+Fitzwilliam,3447
+Gilsum,3448
+Hancock,3449
+Jaffrey,3452
+Marlow,3456
+Nelson,3457
+Peterborough,3458
+Rindge,3461
+Spofford,3462
+Stoddard,3464
+Troy,3465
+Westmoreland,3467
+Bethlehem,3574
+Bretton Woods,3575
+Colebrook,3576
+Errol,3579
+Franconia,3580
+Gorham,3581
+Groveton,3582
+Lisbon,3585
+Sugar Hill,3586
+Milan,3588
+North Stratford,3590
+Pittsburg,3592
+Twin Mountain,3595
+West Stewartstown,3597
+Whitefield,3598
+Acworth,3601
+Alstead,3602
+Drewsville,3604
+Lempster,3605
+South Acworth,3607
+North Walpole,3609
+Bath,3740
+Canaan,3741
+Claremont,3743
+Cornish,3745
+Cornish Flat,3746
+Enfield,3748
+Etna,3750
+Georges Mills,3751
+Grantham,3753
+Guild,3754
+Lebanon,3766
+Lyme,3768
+Meriden,3770
+Monroe,3771
+North Haverhill,3774
+Orford,3777
+Piermont,3779
+Pike,3780
+Sunapee,3782
+West Lebanon,3784
+Woodsville,3785
+Alton,3809
+Alton Bay,3810
+Atkinson,3811
+Bartlett,3812
+Center Conway,3813
+Center Ossipee,3814
+Center Tuftonboro,3816
+Chocorua,3817
+Danville,3819
+Madbury,3823
+Durham,3824
+East Hampstead,3826
+East Kingston,3827
+East Wakefield,3830
+Eaton Center,3832
+Farmington,3835
+Freedom,3836
+Gilmanton Iron Works,3837
+Glen,3838
+Greenland,3840
+Hampstead,3841
+Hampton,3842
+Hampton Falls,3844
+Intervale,3845
+Jackson,3846
+Kearsarge,3847
+Madison,3849
+Melvin Village,3850
+Milton Mills,3852
+Mirror Lake,3853
+New Castle,3854
+New Durham,3855
+Newfields,3856
+Newmarket,3857
+North Conway,3860
+North Hampton,3862
+Ossipee,3864
+Plaistow,3865
+Rollinsford,3869
+Rye,3870
+Rye Beach,3871
+Sanbornville,3872
+Sandown,3873
+Seabrook,3874
+Silver Lake,3875
+Somersworth,3878
+Effingham,3882
+South Tamworth,3883
+Strafford,3884
+Stratham,3885
+Tamworth,3886
+Union,3887
+West Ossipee,3890
+Wolfeboro,3894

@@ -1,0 +1,307 @@
+Indiana
+Fishers,46037
+Fortville,46040
+Frankton,46044
+Goldsmith,46045
+Hobbs,46047
+Ingalls,46048
+Kirklin,46050
+Lapel,46051
+Mccordsville,46055
+Markleville,46056
+Michigantown,46057
+Noblesville,46060
+Orestes,46063
+Thorntown,46071
+Tipton,46072
+Whitestown,46075
+Windfall,46076
+Amo,46103
+Bargersville,46106
+Boggstown,46110
+Camby,46113
+Edinburgh,46124
+Fairland,46126
+Fountaintown,46130
+Gwynneville,46144
+Knightstown,46148
+Lizton,46149
+Manilla,46150
+Mays,46155
+New Palestine,46163
+Paragon,46166
+Reelsville,46171
+Roachdale,46172
+Stilesville,46180
+Trafalgar,46181
+Waldron,46182
+Whiteland,46184
+Indianapolis,46201
+Beverly Shores,46301
+Cedar Lake,46303
+Chesterton,46304
+Demotte,46310
+East Chicago,46312
+Griffith,46319
+Munster,46321
+Hanna,46340
+Kingsbury,46345
+Kingsford Heights,46346
+Kouts,46347
+Lake Village,46349
+La Porte,46350
+North Judson,46366
+Rolling Prairie,46371
+Saint John,46373
+San Pierre,46374
+Schererville,46375
+Schneider,46376
+Sumava Resorts,46379
+Thayer,46381
+Wanatah,46390
+Wheatfield,46392
+Wheeler,46393
+Lake Station,46405
+Merrillville,46410
+Argos,46501
+Bourbon,46504
+Burket,46508
+Claypool,46510
+Culver,46511
+Elkhart,46514
+Etna Green,46524
+Granger,46530
+Grovertown,46531
+Lapaz,46537
+Mishawaka,46544
+Nappanee,46550
+North Liberty,46554
+North Webster,46555
+Notre Dame,46556
+Pierceton,46562
+Shipshewana,46565
+Topeka,46571
+Wakarusa,46573
+Winona Lake,46590
+Wyatt,46595
+South Bend,46601
+Avilla,46710
+Columbia City,46725
+Corunna,46730
+Craigville,46731
+Grabill,46741
+Hoagland,46745
+Howe,46746
+Huntertown,46748
+Kendallville,46755
+Keystone,46759
+Kimmell,46760
+Laotto,46763
+Larwill,46764
+Leo,46765
+Markle,46770
+Mongo,46771
+Ossian,46777
+Pleasant Lake,46779
+Poneto,46781
+Rome City,46784
+Saint Joe,46785
+South Milford,46786
+South Whitley,46787
+Wawaka,46794
+Wolcottville,46795
+Yoder,46798
+Fort Wayne,46802
+Amboy,46911
+Bringhurst,46913
+Delong,46922
+Delphi,46923
+Fowlerton,46930
+Galveston,46932
+Gas City,46933
+Kewanna,46939
+La Fontaine,46940
+Lagro,46941
+Laketon,46943
+Liberty Mills,46946
+Logansport,46947
+Lucerne,46950
+Macy,46951
+New Waverly,46961
+North Manchester,46962
+Onward,46967
+Ora,46968
+Roann,46974
+Royal Center,46978
+Russiaville,46979
+Star City,46985
+Swayzee,46986
+Sweetser,46987
+Twelve Mile,46988
+Upland,46989
+Wabash,46992
+Winamac,46996
+Young America,46998
+West College Corner,47003
+Holton,47023
+Moores Hill,47032
+New Trenton,47035
+Oldenburg,47036
+Sunman,47041
+Vevay,47043
+Borden,47106
+Depauw,47115
+Eckerty,47116
+English,47118
+Floyds Knobs,47119
+Grantsburg,47123
+Leavenworth,47137
+Mauckport,47142
+Nabb,47147
+New Salisbury,47161
+Otisco,47163
+Pekin,47165
+Sellersburg,47172
+Taswell,47175
+Underwood,47177
+Butlerville,47223
+Commiskey,47227
+Crothersville,47229
+Deputy,47230
+Dupont,47231
+Freetown,47235
+Medora,47260
+North Vernon,47265
+Paris Crossing,47270
+Scipio,47273
+Vallonia,47281
+Muncie,47302
+Cambridge City,47327
+Connersville,47331
+Dunreith,47337
+Economy,47339
+Farmland,47340
+Fountain City,47341
+Greens Fork,47345
+Hartford City,47348
+Kennard,47351
+Losantville,47354
+Mooreland,47360
+Mount Summit,47361
+Parker City,47368
+Pennville,47369
+Redkey,47373
+Salamonia,47381
+Spiceland,47385
+Springport,47386
+Straughn,47387
+Ellettsville,47429
+French Lick,47432
+Gosport,47433
+Heltonville,47436
+Jasonville,47438
+Linton,47441
+Oolitic,47451
+Owensburg,47453
+Patricksburg,47455
+Solsberry,47459
+Stinesville,47464
+Switz City,47465
+West Baden Springs,47469
+Bicknell,47512
+Birdseye,47513
+Bruceville,47516
+Cannelburg,47519
+Celestine,47521
+Crane,47522
+Decker,47524
+Dubois,47527
+Edwardsport,47528
+Elnora,47529
+Evanston,47531
+Ferdinand,47532
+Freelandville,47535
+Fulda,47536
+Gentryville,47537
+Huntingburg,47542
+Leopold,47551
+Lincoln City,47552
+Loogootee,47553
+Monroe City,47557
+Oaktown,47561
+Odon,47562
+Otwell,47564
+Saint Anthony,47575
+Saint Croix,47576
+Saint Meinrad,47577
+Sandborn,47578
+Santa Claus,47579
+Schnellville,47580
+Shoals,47581
+Spurgeon,47584
+Stendal,47585
+Tell City,47586
+Velpen,47590
+Vincennes,47591
+Westphalia,47596
+Chandler,47610
+Chrisney,47611
+Elberfeld,47613
+New Harmony,47631
+Poseyville,47633
+Tennyson,47637
+Wadesville,47638
+Haubstadt,47639
+Fort Branch,47648
+Francisco,47649
+Mackey,47654
+Oakland City,47660
+Patoka,47666
+Evansville,47708
+Terre Haute,47802
+Brazil,47834
+Carbon,47837
+Centerpoint,47840
+Cory,47846
+Dugger,47848
+Fairbanks,47849
+Farmersburg,47850
+Hymera,47855
+Knightsville,47857
+Mecca,47860
+Merom,47861
+New Goshen,47863
+Pimento,47866
+Prairie Creek,47869
+Riley,47871
+Saint Mary Of The Woods,47876
+Shelburn,47879
+Shepardsville,47880
+Universal,47884
+West Terre Haute,47885
+Ambia,47917
+Battle Ground,47920
+Brook,47922
+Brookston,47923
+Buck Creek,47924
+Burnettsville,47926
+Chalmers,47929
+Crawfordsville,47933
+Earl Park,47942
+Fair Oaks,47943
+Francesville,47946
+Idaville,47950
+Kentland,47951
+Ladoga,47954
+Medaryville,47957
+Mellott,47958
+Monon,47959
+Morocco,47963
+Mount Ayr,47964
+New Ross,47968
+Otterbein,47970
+Pine Village,47975
+Stockwell,47983
+Veedersburg,47987
+Waynetown,47990
+Yeoman,47997

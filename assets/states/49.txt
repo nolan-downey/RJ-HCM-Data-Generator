@@ -1,0 +1,93 @@
+Wyoming
+Fe Warren Afb,82005
+Albin,82050
+Bosler,82051
+Centennial,82055
+Granite Canon,82059
+Horse Creek,82061
+Jelm,82063
+Laramie,82070
+Pine Bluffs,82082
+Rock River,82083
+Tie Siding,82084
+Yellowstone National Park,82190
+Chugwater,82210
+Fort Laramie,82212
+Glendo,82213
+Hawk Springs,82217
+Jay Em,82219
+Lance Creek,82222
+Lingle,82223
+Lusk,82225
+Van Tassell,82242
+Veteran,82243
+Rawlins,82301
+Baggs,82321
+Bairoil,82322
+Elk Mountain,82324
+Encampment,82325
+Medicine Bow,82329
+Savery,82332
+Wamsutter,82336
+Worland,82401
+Cowley,82420
+Deaver,82421
+Emblem,82422
+Frannie,82423
+Greybull,82426
+Hyattville,82428
+Meeteetse,82433
+Shell,82441
+Ten Sleep,82442
+Thermopolis,82443
+Wapiti,82450
+Crowheart,82512
+Fort Washakie,82514
+Kinnear,82516
+Lander,82520
+Pavillion,82523
+Casper,82601
+Alcova,82620
+Arminto,82630
+Glenrock,82637
+Hiland,82638
+Kaycee,82639
+Linch,82640
+Lysite,82642
+Midwest,82643
+Natrona,82646
+Powder River,82648
+Shoshoni,82649
+Aladdin,82710
+Devils Tower,82714
+Four Corners,82715
+Hulett,82720
+Moorcroft,82721
+Recluse,82725
+Rozet,82727
+Sundance,82729
+Big Horn,82833
+Leiter,82837
+Ranchester,82839
+Wolf,82844
+Wyarno,82845
+Cora,82925
+Little America,82929
+Farson,82932
+Fort Bridger,82933
+Green River,82935
+Lonetree,82936
+Mc Kinnon,82938
+Pinedale,82941
+Robertson,82944
+Moose,83012
+Teton Village,83025
+Kemmerer,83101
+Big Piney,83113
+Cokeville,83114
+Daniel,83115
+Diamondville,83116
+Frontier,83121
+La Barge,83123
+Opal,83124
+Thayne,83127

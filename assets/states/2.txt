@@ -1,0 +1,174 @@
+Alaska
+Anchorage,99501
+Jber,99505
+Indian,99540
+Adak,99546
+Atka,99547
+Chignik Lake,99548
+Port Heiden,99549
+Port Lions,99550
+Akiachak,99551
+Akiak,99552
+Akutan,99553
+Alakanuk,99554
+Aleknagik,99555
+Anchor Point,99556
+Aniak,99557
+Anvik,99558
+Chefornak,99561
+Chevak,99563
+Chignik,99564
+Chignik Lagoon,99565
+Chitina,99566
+Chugiak,99567
+Clam Gulch,99568
+Clarks Point,99569
+Cold Bay,99571
+Cooper Landing,99572
+Copper Center,99573
+Crooked Creek,99575
+Dillingham,99576
+Eek,99578
+Egegik,99579
+Ekwok,99580
+Emmonak,99581
+False Pass,99583
+Gakona,99586
+Girdwood,99587
+Glennallen,99588
+Goodnews Bay,99589
+Saint George Island,99591
+Hooper Bay,99604
+Iliamna,99606
+Kalskag,99607
+Kasigluk,99609
+Kasilof,99610
+Kenai,99611
+King Cove,99612
+King Salmon,99613
+Kipnuk,99614
+Kodiak,99615
+Kotlik,99620
+Kwethluk,99621
+Kwigillingok,99622
+Larsen Bay,99624
+Levelock,99625
+Lower Kalskag,99626
+Manokotak,99628
+Mekoryuk,99630
+Moose Pass,99631
+Mountain Village,99632
+Naknek,99633
+Napakiak,99634
+New Stuyahok,99636
+Toksook Bay,99637
+Nikolski,99638
+Ninilchik,99639
+Nondalton,99640
+Nunapitchuk,99641
+Old Harbor,99643
+Ouzinkie,99644
+Pedro Bay,99647
+Pilot Station,99650
+Platinum,99651
+Port Alsworth,99653
+Wasilla,99654
+Quinhagak,99655
+Red Devil,99656
+Russian Mission,99657
+Saint Paul Island,99660
+Sand Point,99661
+Scammon Bay,99662
+Seldovia,99663
+Shageluk,99665
+Nunam Iqua,99666
+Skwentna,99667
+Sleetmute,99668
+Soldotna,99669
+South Naknek,99670
+Stebbins,99671
+Talkeetna,99676
+Tatitlek,99677
+Togiak,99678
+Tuluksak,99679
+Tuntutuliak,99680
+Tununak,99681
+Tyonek,99682
+Trapper Creek,99683
+Unalakleet,99684
+Unalaska,99685
+Yakutat,99689
+Nightmute,99690
+Nikolai,99691
+Dutch Harbor,99692
+Eielson Afb,99702
+Fort Wainwright,99703
+Clear,99704
+North Pole,99705
+Salcha,99714
+Allakaket,99720
+Anaktuvuk Pass,99721
+Arctic Village,99722
+Barrow,99723
+Bettles Field,99726
+Cantwell,99729
+Chicken,99732
+Prudhoe Bay,99734
+Delta Junction,99737
+Elim,99739
+Fort Yukon,99740
+Gambell,99742
+Huslia,99746
+Kaktovik,99747
+Kaltag,99748
+Kiana,99749
+Kivalina,99750
+Kobuk,99751
+Kotzebue,99752
+Koyuk,99753
+Koyukuk,99754
+Denali National Park,99755
+Manley Hot Springs,99756
+Lake Minchumina,99757
+Point Lay,99759
+Nenana,99760
+Noatak,99761
+Noorvik,99763
+Northway,99764
+Nulato,99765
+Point Hope,99766
+Rampart,99767
+Savoonga,99769
+Selawik,99770
+Shaktoolik,99771
+Shishmaref,99772
+Shungnak,99773
+Stevens Village,99774
+Tanacross,99776
+Tanana,99777
+Teller,99778
+Tok,99780
+Venetie,99781
+White Mountain,99784
+Brevig Mission,99785
+Chalkyitsik,99788
+Nuiqsut,99789
+Atqasuk,99791
+Angoon,99820
+Elfin Cove,99825
+Gustavus,99826
+Hoonah,99829
+Kake,99830
+Port Alexander,99836
+Skagway,99840
+Tenakee Springs,99841
+Ketchikan,99901
+Meyers Chuck,99903
+Coffman Cove,99918
+Thorne Bay,99919
+Hydaburg,99922
+Hyder,99923
+Klawock,99925
+Metlakatla,99926
+Point Baker,99927
+Wrangell,99929

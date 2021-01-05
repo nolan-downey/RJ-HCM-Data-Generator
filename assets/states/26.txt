@@ -1,0 +1,187 @@
+Nebraska
+Abie,68001
+Boys Town,68010
+Cedar Bluffs,68015
+Cedar Creek,68016
+Fort Calhoun,68023
+Hooper,68031
+Malmo,68040
+Mead,68041
+Papillion,68046
+Pender,68047
+Plattsmouth,68048
+Prague,68050
+Rosalie,68055
+Scribner,68057
+Tekamah,68061
+Uehling,68063
+Wahoo,68066
+Walthill,68067
+Yutan,68073
+Offutt Afb,68113
+La Vista,68128
+Alvo,68304
+Barneston,68309
+Beaver Crossing,68313
+Bennet,68317
+Brock,68320
+Bruning,68322
+Burchard,68323
+Burr,68324
+Clatonia,68328
+Davey,68336
+Daykin,68338
+Diller,68342
+Falls City,68355
+Filley,68357
+Firth,68358
+Friend,68359
+Gilead,68362
+Goehner,68364
+Hallam,68368
+Jansen,68377
+Mc Cool Junction,68401
+Manley,68403
+Martell,68404
+Milligan,68406
+Nebraska City,68410
+Nehawka,68413
+Ohiowa,68416
+Otoe,68417
+Pawnee City,68420
+Pickrell,68422
+Pleasant Dale,68423
+Roca,68430
+Rulo,68431
+Shickley,68436
+Shubert,68437
+Sprague,68438
+Staplehurst,68439
+Steele City,68440
+Steinauer,68441
+Strang,68444
+Table Rock,68447
+Ong,68452
+Tobias,68453
+Verdon,68457
+Weeping Water,68463
+Western,68464
+Wilber,68465
+Wymore,68466
+Clarks,68628
+David City,68632
+Ericson,68637
+Humphrey,68642
+Leigh,68643
+Morse Bluff,68648
+Platte Center,68653
+Primrose,68655
+Rising City,68658
+Saint Edward,68660
+Snyder,68664
+Stromsburg,68666
+Beemer,68716
+Chambers,68725
+Coleridge,68727
+Emmet,68734
+Fordyce,68736
+Hartington,68739
+Hoskins,68740
+Mclean,68747
+Magnet,68749
+Maskell,68751
+Meadow Grove,68752
+Naper,68755
+Neligh,68756
+Newman Grove,68758
+Niobrara,68760
+Oneill,68763
+Osmond,68765
+Pierce,68767
+Pilger,68768
+Ponca,68770
+Saint Helena,68774
+South Sioux City,68776
+Springview,68778
+Verdigre,68783
+Wausa,68786
+Winnetoon,68789
+Winside,68790
+Wisner,68791
+Wynot,68792
+Alda,68810
+Anselmo,68813
+Ansley,68814
+Boelus,68820
+Broken Bow,68822
+Burwell,68823
+Dannebrog,68831
+Dunning,68833
+Elm Creek,68836
+Giltner,68841
+Hordville,68846
+Loup City,68853
+Merna,68856
+North Loup,68859
+Ord,68862
+Overton,68863
+Wolbach,68882
+Beaver City,68926
+Bladen,68928
+Deweese,68934
+Funk,68940
+Glenvil,68941
+Guide Rock,68942
+Heartwell,68945
+Hendley,68946
+Hildreth,68947
+Holdrege,68949
+Inavale,68952
+Inland,68954
+Juniata,68955
+Kenesaw,68956
+Loomis,68958
+Naponee,68960
+Oak,68964
+Ragan,68969
+Red Cloud,68970
+Republican City,68971
+Saronville,68975
+Mc Cook,69001
+Benkelman,69021
+Enders,69027
+Farnam,69029
+Haigler,69030
+Hayes Center,69032
+Parks,69041
+Stockville,69042
+Wauneta,69045
+North Platte,69101
+Broadwater,69125
+Cozad,69130
+Elsmere,69135
+Gothenburg,69138
+Halsey,69142
+Lewellen,69147
+Lisco,69148
+Mullen,69152
+Ogallala,69153
+Purdum,69157
+Thedford,69166
+Willow Island,69171
+Valentine,69201
+Cody,69211
+Kilgore,69216
+Long Pine,69217
+Merriman,69218
+Nenzel,69219
+Chadron,69337
+Gering,69341
+Hay Springs,69347
+Hemingford,69348
+Mcgrew,69353
+Marsland,69354
+Melbeta,69355
+Minatare,69356
+Scottsbluff,69361
+Whiteclay,69365

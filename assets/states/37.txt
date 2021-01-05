@@ -1,0 +1,1369 @@
+Pennsylvania
+Aliquippa,15001
+Ambridge,15003
+Atlasburg,15004
+Baden,15005
+Bairdford,15006
+Bakerstown,15007
+Beaver,15009
+Belle Vernon,15012
+Brackenridge,15014
+Bradfordwoods,15015
+Bridgeville,15017
+Buena Vista,15018
+Bulger,15019
+Bunola,15020
+Burgettstown,15021
+Charleroi,15022
+Cheswick,15024
+Clairton,15025
+Coulters,15028
+Creighton,15030
+Cuddy,15031
+Donora,15033
+Dravosburg,15034
+East Mc Keesport,15035
+Elrama,15038
+Gibsonia,15044
+Glassport,15045
+Crescent,15046
+Greenock,15047
+Harwick,15049
+Hookstown,15050
+Indianola,15051
+Industry,15052
+Joffre,15053
+Langeloth,15054
+Leetsdale,15056
+Mc Donald,15057
+Midland,15059
+Midway,15060
+Monaca,15061
+Monessen,15062
+Monongahela,15063
+Natrona Heights,15065
+New Brighton,15066
+New Eagle,15067
+New Kensington,15068
+Pricedale,15072
+Rural Ridge,15075
+Russellton,15076
+Shippingport,15077
+Slovan,15078
+South Heights,15081
+Sturgeon,15082
+Sutersville,15083
+Tarentum,15084
+Trafford,15085
+Warrendale,15086
+West Elizabeth,15088
+Wexford,15090
+Allison Park,15101
+Bethel Park,15102
+Braddock,15104
+Carnegie,15106
+Coraopolis,15108
+Duquesne,15110
+East Pittsburgh,15112
+Glenshaw,15116
+Homestead,15120
+West Mifflin,15122
+Imperial,15126
+South Park,15129
+Mckeesport,15131
+Mc Kees Rocks,15136
+North Versailles,15137
+Oakmont,15139
+Pitcairn,15140
+Presto,15142
+Sewickley,15143
+Springdale,15144
+Turtle Creek,15145
+Wilmerding,15148
+Pittsburgh,15201
+Aleppo,15310
+Amity,15311
+Avella,15312
+Beallsville,15313
+Bentleyville,15314
+Bobtown,15315
+Brave,15316
+Canonsburg,15317
+Carmichaels,15320
+Cecil,15321
+Claysville,15323
+Cokeburg,15324
+Crucible,15325
+Dilliner,15327
+Prosperity,15329
+Eighty Four,15330
+Finleyville,15332
+Fredericktown,15333
+Garards Fort,15334
+Graysville,15337
+Hickory,15340
+Houston,15342
+Marianna,15345
+Mather,15346
+Meadow Lands,15347
+Millsboro,15348
+Muse,15350
+Nemacolin,15351
+New Freeport,15352
+Rices Landing,15357
+Richeyville,15358
+Rogersville,15359
+Scenery Hill,15360
+Southview,15361
+Spraggs,15362
+Strabane,15363
+Sycamore,15364
+Van Voorhis,15366
+Venetia,15367
+Vestaburg,15368
+Waynesburg,15370
+West Alexander,15376
+West Finley,15377
+Westland,15378
+West Middletown,15379
+Wind Ridge,15380
+Uniontown,15401
+Adah,15410
+Allenport,15412
+Allison,15413
+California,15419
+Cardale,15420
+Chalk Hill,15421
+Chestnut Ridge,15422
+Coal Center,15423
+Confluence,15424
+Connellsville,15425
+Daisytown,15427
+Dawson,15428
+Denbo,15429
+Dickerson Run,15430
+Dunbar,15431
+Dunlevy,15432
+East Millsboro,15433
+Elco,15434
+Fairbank,15435
+Fairchance,15436
+Fayette City,15438
+Gibbon Glade,15440
+Grindstone,15442
+Hibbs,15443
+Hiller,15444
+Hopwood,15445
+Indian Head,15446
+Isabella,15447
+Jacobs Creek,15448
+Keisterville,15449
+La Belle,15450
+Lake Lynn,15451
+Leckrone,15454
+Leisenring,15455
+Lemont Furnace,15456
+Mc Clellandtown,15458
+Markleysburg,15459
+Martin,15460
+Masontown,15461
+Melcroft,15462
+Merrittstown,15463
+Mill Run,15464
+Newell,15466
+New Geneva,15467
+Normalville,15469
+Ohiopyle,15470
+Oliver,15472
+Perryopolis,15473
+Point Marion,15474
+Republic,15475
+Ronco,15476
+Smithton,15479
+Smock,15480
+Star Junction,15482
+Stockdale,15483
+Uledi,15484
+Vanderbilt,15486
+West Leisenring,15489
+White,15490
+Wickhaven,15492
+Hidden Valley,15502
+Acosta,15520
+Alum Bank,15521
+Boswell,15531
+Boynton,15532
+Breezewood,15533
+Buffalo Mills,15534
+Clearville,15535
+Crystal Spring,15536
+Fairhope,15538
+Fishertown,15539
+Fort Hill,15540
+Friedens,15541
+Garrett,15542
+Hyndman,15545
+Jenners,15546
+Jennerstown,15547
+Manns Choice,15550
+Markleton,15551
+Meyersdale,15552
+New Paris,15554
+Quecreek,15555
+Schellsburg,15559
+Shanksville,15560
+Sipesville,15561
+Springs,15562
+Stoystown,15563
+Wellersburg,15564
+Greensburg,15601
+Acme,15610
+Adamsburg,15611
+Alverton,15612
+Apollo,15613
+Ardara,15615
+Armbrust,15616
+Arona,15617
+Avonmore,15618
+Bradenville,15620
+Calumet,15621
+Champion,15622
+Claridge,15623
+Crabtree,15624
+Darragh,15625
+Donegal,15628
+East Vandergrift,15629
+Everson,15631
+Export,15632
+Forbes Road,15633
+Grapeville,15634
+Hannastown,15635
+Harrison City,15636
+Herminie,15637
+Hostetter,15638
+Hunker,15639
+Hutchinson,15640
+Irwin,15642
+Jeannette,15644
+Jones Mills,15646
+Larimer,15647
+Latrobe,15650
+Laughlintown,15655
+Leechburg,15656
+Ligonier,15658
+Lowber,15660
+Loyalhanna,15661
+Luxor,15662
+Manor,15665
+Mount Pleasant,15666
+Murrysville,15668
+New Alexandria,15670
+New Derry,15671
+New Stanton,15672
+North Apollo,15673
+Penn,15675
+Pleasant Unity,15676
+Rector,15677
+Rillton,15678
+Ruffs Dale,15679
+Salina,15680
+Saltsburg,15681
+Scottdale,15683
+Slickville,15684
+Spring Church,15686
+Stahlstown,15687
+Tarrs,15688
+United,15689
+Vandergrift,15690
+Wendel,15691
+Westmoreland City,15692
+Whitney,15693
+Wyano,15695
+Youngwood,15697
+Yukon,15698
+Indiana,15701
+Alverda,15710
+Anita,15711
+Arcadia,15712
+Aultman,15713
+Northern Cambria,15714
+Big Run,15715
+Black Lick,15716
+Blairsville,15717
+Burnside,15721
+Carrolltown,15722
+Chambersville,15723
+Cherry Tree,15724
+Clarksburg,15725
+Clune,15727
+Commodore,15729
+Coolspring,15730
+Coral,15731
+Creekside,15732
+De Lancey,15733
+Dixonville,15734
+Elderton,15736
+Elmora,15737
+Emeigh,15738
+Ernest,15739
+Gipsy,15741
+Glen Campbell,15742
+Heilwood,15745
+Home,15747
+Homer City,15748
+Josephine,15750
+La Jose,15753
+Lucernemines,15754
+Mc Intyre,15756
+Mahaffey,15757
+Marion Center,15759
+Marsteller,15760
+Mentcle,15761
+Nicktown,15762
+Oliveburg,15764
+Penn Run,15765
+Punxsutawney,15767
+Ringgold,15770
+Rochester Mills,15771
+Rossiter,15772
+Saint Benedict,15773
+Shelocta,15774
+Spangler,15775
+Sprankle Mills,15776
+Starford,15777
+Timblin,15778
+Torrance,15779
+Valier,15780
+Walston,15781
+Worthville,15784
+Du Bois,15801
+Benezett,15821
+Brockway,15824
+Brookville,15825
+Byrnedale,15827
+Clarington,15828
+Corsica,15829
+Driftwood,15832
+Emporium,15834
+Falls Creek,15840
+Force,15841
+Kersey,15846
+Knox Dale,15847
+Luthersburg,15848
+Reynoldsville,15851
+Ridgway,15853
+Rockton,15856
+Saint Marys,15857
+Sigel,15860
+Sinnamahoning,15861
+Stump Creek,15863
+Summerville,15864
+Sykesville,15865
+Troutville,15866
+Weedville,15868
+Wilcox,15870
+Armagh,15920
+Beaverdale,15921
+Belsano,15922
+Cairnbrook,15924
+Cassandra,15925
+Central City,15926
+Colver,15927
+Davidsville,15928
+Dilltown,15929
+Dunlo,15930
+Ebensburg,15931
+Elton,15934
+Hollsopple,15935
+Hooversville,15936
+Jerome,15937
+Lilly,15938
+Loretto,15940
+Mineral Point,15942
+Nanty Glo,15943
+New Florence,15944
+Parkhill,15945
+Revloc,15948
+Robinson,15949
+Saint Michael,15951
+Salix,15952
+Seanor,15953
+Seward,15954
+Sidman,15955
+South Fork,15956
+Strongstown,15957
+Summerhill,15958
+Twin Rocks,15960
+Vintondale,15961
+Wilmore,15962
+Windber,15963
+Boyers,16020
+Bruin,16022
+Callery,16024
+Chicora,16025
+Connoquenessing,16027
+East Brady,16028
+East Butler,16029
+Eau Claire,16030
+Evans City,16033
+Fenelton,16034
+Foxburg,16036
+Hilliards,16040
+Karns City,16041
+Lyndora,16045
+Mars,16046
+North Washington,16048
+Parker,16049
+Petrolia,16050
+Portersville,16051
+Renfrew,16053
+Saint Petersburg,16054
+Sarver,16055
+Saxonburg,16056
+Slippery Rock,16057
+Valencia,16059
+West Sunbury,16061
+Zelienople,16063
+Cranberry Township,16066
+Adamsville,16110
+Atlantic,16111
+Bessemer,16112
+Clarks Mills,16114
+Darlington,16115
+Edinburg,16116
+Ellwood City,16117
+Enon Valley,16120
+Farrell,16121
+Fombell,16123
+Grove City,16127
+Hartstown,16131
+Hillsville,16132
+Jackson Center,16133
+Koppel,16136
+Mercer,16137
+New Galilee,16141
+New Wilmington,16142
+Sandy Lake,16145
+Hermitage,16148
+Sharpsville,16150
+Sheakleyville,16151
+Stoneboro,16153
+Transfer,16154
+Villa Maria,16155
+Volant,16156
+Wampum,16157
+West Middlesex,16159
+West Pittsburg,16160
+Wheatland,16161
+Kittanning,16201
+Adrian,16210
+Beyer,16211
+Cadogan,16212
+Callensburg,16213
+Clarion,16214
+Cooksburg,16217
+Cowansville,16218
+Distant,16223
+Fairmount City,16224
+Ford City,16226
+Ford Cliff,16228
+Hawthorn,16230
+Knox,16232
+Leeper,16233
+Lucinda,16235
+Mc Grann,16236
+Marienville,16239
+Mayport,16240
+New Bethlehem,16242
+Nu Mine,16244
+Plumville,16246
+Rimersburg,16248
+Rural Valley,16249
+Seminole,16253
+Shippenville,16254
+Sligo,16255
+Smicksburg,16256
+Strattanville,16258
+Vowinckel,16260
+Yatesboro,16263
+Oil City,16301
+Carlton,16311
+Chandlers Valley,16312
+Clarendon,16313
+Cochranton,16314
+Conneaut Lake,16316
+Cranberry,16319
+East Hickory,16321
+Endeavor,16322
+Fryburg,16326
+Guys Mills,16327
+Hydetown,16328
+Irvine,16329
+Kossuth,16331
+Lickingville,16332
+Marble,16334
+Meadville,16335
+Polk,16342
+Reno,16343
+Rouseville,16344
+Seneca,16346
+Sugar Grove,16350
+Tidioute,16351
+Tiona,16352
+Tionesta,16353
+Townville,16360
+Tylersburg,16361
+Venus,16364
+West Hickory,16370
+Clintonville,16372
+Emlenton,16373
+Kennerdell,16374
+Bear Lake,16402
+Cambridge Springs,16403
+Conneautville,16406
+Corry,16407
+Cranesville,16410
+Edinboro,16412
+Girard,16417
+Grand Valley,16420
+Harborcreek,16421
+Harmonsburg,16422
+Lake City,16423
+Linesville,16424
+Mc Kean,16426
+Mill Village,16427
+North East,16428
+Saegertown,16433
+Spartansburg,16434
+Springboro,16435
+Spring Creek,16436
+Venango,16440
+Wattsburg,16442
+Erie,16501
+Altoona,16601
+Alexandria,16611
+Beccaria,16616
+Bellwood,16617
+Blandburg,16619
+Brisbin,16620
+Broad Top,16621
+Calvin,16622
+Chest Springs,16624
+Claysburg,16625
+Coalport,16627
+Cresson,16630
+Curryville,16631
+Defiance,16633
+Duncansville,16635
+Dysart,16636
+East Freedom,16637
+Entriken,16638
+Fallentimber,16639
+Flinton,16640
+Gallitzin,16641
+Glen Hope,16645
+Hesston,16647
+Hollidaysburg,16648
+Houtzdale,16651
+Huntingdon,16652
+Imler,16655
+Irvona,16656
+James Creek,16657
+Loysburg,16659
+Madera,16661
+New Enterprise,16664
+Osceola Mills,16666
+Osterburg,16667
+Patton,16668
+Queen,16670
+Ramey,16671
+Riddlesburg,16672
+Roaring Spring,16673
+Robertsdale,16674
+Sandy Ridge,16677
+Saxton,16678
+Six Mile Run,16679
+Smithmill,16680
+Sproul,16682
+Spruce Creek,16683
+Todd,16685
+Tyrone,16686
+Waterfall,16689
+Wells Tannery,16691
+Westover,16692
+Wood,16694
+Austin,16720
+Crosby,16724
+Custer City,16725
+Cyclone,16726
+Derrick City,16727
+De Young,16728
+Duke Center,16729
+East Smethport,16730
+Gifford,16732
+Hazel Hurst,16733
+James City,16734
+Kane,16735
+Lewis Run,16738
+Mount Jewett,16740
+Port Allegany,16743
+Rew,16744
+Rixford,16745
+Roulette,16746
+Shinglehouse,16748
+Smethport,16749
+Turtlepoint,16750
+State College,16801
+University Park,16802
+Aaronsburg,16820
+Allport,16821
+Beech Creek,16822
+Bellefonte,16823
+Bigler,16825
+Blanchard,16826
+Boalsburg,16827
+Centre Hall,16828
+Clearfield,16830
+Coburn,16832
+Curwensville,16833
+Drifting,16834
+Fleming,16835
+Glen Richey,16837
+Grampian,16838
+Grassflat,16839
+Hawk Run,16840
+Howard,16841
+Hyde,16843
+Julian,16844
+Karthaus,16845
+Kylertown,16847
+Lamar,16848
+Lanse,16849
+Lemont,16851
+Madisonburg,16852
+Milesburg,16853
+Millheim,16854
+Mineral Springs,16855
+Morrisdale,16858
+Moshannon,16859
+Munson,16860
+New Millport,16861
+Olanta,16863
+Pennsylvania Furnace,16865
+Philipsburg,16866
+Pine Grove Mills,16868
+Port Matilda,16870
+Pottersdale,16871
+Rebersburg,16872
+Snow Shoe,16874
+Spring Mills,16875
+Wallaceton,16876
+Warriors Mark,16877
+West Decatur,16878
+Winburne,16879
+Woodland,16881
+Woodward,16882
+Wellsboro,16901
+Arnot,16911
+Blossburg,16912
+Columbia Cross Roads,16914
+Coudersport,16915
+Covington,16917
+Elkland,16920
+Gaines,16921
+Galeton,16922
+Genesee,16923
+Gillett,16925
+Granville Summit,16926
+Harrison Valley,16927
+Knoxville,16928
+Lawrenceville,16929
+Mainesburg,16932
+Middlebury Center,16935
+Mills,16937
+Morris Run,16939
+Osceola,16942
+Sabinsville,16943
+Tioga,16946
+Ulysses,16948
+Allensville,17002
+Annville,17003
+Berrysburg,17005
+Blain,17006
+Boiling Springs,17007
+Campbelltown,17010
+Camp Hill,17011
+Dalmatia,17017
+Dauphin,17018
+Dillsburg,17019
+Duncannon,17020
+East Waterford,17021
+Elizabethville,17023
+Elliottsburg,17024
+Enola,17025
+Fredericksburg,17026
+Grantville,17028
+Gratz,17030
+Hershey,17033
+Highspire,17034
+Honey Grove,17035
+Hummelstown,17036
+Ickesburg,17037
+Jonestown,17038
+Kleinfeltersville,17039
+Landisburg,17040
+Lawn,17041
+Lemoyne,17043
+Lewistown,17044
+Loysville,17047
+Lykens,17048
+Mc Alisterville,17049
+Mechanicsburg,17050
+Mc Veytown,17051
+Mapleton Depot,17052
+Marysville,17053
+Mifflin,17058
+Mifflintown,17059
+Mill Creek,17060
+Millersburg,17061
+Millerstown,17062
+Milroy,17063
+Mount Gretna,17064
+Mount Holly Springs,17065
+Mount Union,17066
+Myerstown,17067
+New Bloomfield,17068
+New Buffalo,17069
+New Cumberland,17070
+New Germantown,17071
+New Kingstown,17072
+Newmanstown,17073
+Newton Hamilton,17075
+Oakland Mills,17076
+Ono,17077
+Pillow,17080
+Port Royal,17082
+Quentin,17083
+Reedsville,17084
+Richfield,17086
+Schaefferstown,17088
+Shermans Dale,17090
+Summerdale,17093
+Thompsontown,17094
+Wiconisco,17097
+Yeagertown,17099
+Harrisburg,17101
+Chambersburg,17201
+Amberson,17210
+Artemas,17211
+Big Cove Tannery,17212
+Blairs Mills,17213
+Blue Ridge Summit,17214
+Burnt Cabins,17215
+Doylesburg,17219
+Dry Run,17220
+Fannettsburg,17221
+Fort Littleton,17223
+Fort Loudon,17224
+Greencastle,17225
+Hustontown,17229
+Mc Connellsburg,17233
+Mercersburg,17236
+Mont Alto,17237
+Needmore,17238
+Neelyton,17239
+Newburg,17240
+Newville,17241
+Orbisonia,17243
+Orrstown,17244
+Pleasant Hall,17246
+Rockhill Furnace,17249
+Rouzerville,17250
+Saint Thomas,17252
+Saltillo,17253
+Shade Gap,17255
+Shady Grove,17256
+Shippensburg,17257
+Shirleysburg,17260
+South Mountain,17261
+Spring Run,17262
+State Line,17263
+Three Springs,17264
+Upperstrasburg,17265
+Walnut Bottom,17266
+Warfordsburg,17267
+Waynesboro,17268
+Willow Hill,17271
+Zullinger,17272
+Abbottstown,17301
+Airville,17302
+Aspers,17304
+Bendersville,17306
+Biglerville,17307
+Brogue,17309
+Codorus,17311
+Dallastown,17313
+Delta,17314
+East Prospect,17317
+Emigsville,17318
+Etters,17319
+Fawn Grove,17321
+Felton,17322
+Gardners,17324
+Gettysburg,17325
+Glenville,17329
+Lewisberry,17339
+Littlestown,17340
+Mc Knightstown,17343
+Mc Sherrystown,17344
+Mount Wolf,17347
+New Freedom,17349
+New Oxford,17350
+New Park,17352
+Orrtanna,17353
+Railroad,17355
+Red Lion,17356
+Seven Valleys,17360
+Spring Grove,17362
+Stewartstown,17363
+Thomasville,17364
+Wrightsville,17368
+York Haven,17370
+York New Salem,17371
+York Springs,17372
+Bird In Hand,17505
+Brownstown,17508
+Christiana,17509
+Conestoga,17516
+Drumore,17518
+East Earl,17519
+East Petersburg,17520
+Ephrata,17522
+Gap,17527
+Gordonville,17529
+Holtwood,17532
+Kinzers,17535
+Leola,17540
+Lititz,17543
+Manheim,17545
+Maytown,17550
+Millersville,17551
+Mount Joy,17552
+Mountville,17554
+Narvon,17555
+New Holland,17557
+Paradise,17562
+Peach Bottom,17563
+Pequea,17565
+Quarryville,17566
+Reinholds,17569
+Rheems,17570
+Ronks,17572
+Smoketown,17576
+Stevens,17578
+Strasburg,17579
+Terre Hill,17581
+Washington Boro,17582
+Willow Street,17584
+Williamsport,17701
+Avis,17721
+Cammal,17723
+Cedar Run,17727
+Cogan Station,17728
+Cross Fork,17729
+Dewart,17730
+Eagles Mere,17731
+Hughesville,17737
+Jersey Mills,17739
+Jersey Shore,17740
+Lairdsville,17742
+Lock Haven,17745
+Loganton,17747
+Mc Elhattan,17748
+Mc Ewensville,17749
+Mackeyville,17750
+Mill Hall,17751
+Montoursville,17754
+Muncy,17756
+Muncy Valley,17758
+North Bend,17760
+Picture Rocks,17762
+Ralston,17763
+Renovo,17764
+Roaring Branch,17765
+Shunk,17768
+Trout Run,17771
+Turbotville,17772
+Unityville,17774
+Watsontown,17777
+Woolrich,17779
+Sunbury,17801
+Beaver Springs,17812
+Beavertown,17813
+Benton,17814
+Bloomsburg,17815
+Catawissa,17820
+Dornsife,17823
+Elysburg,17824
+Freeburg,17827
+Hartleton,17829
+Herndon,17830
+Marion Heights,17832
+Kulpmont,17834
+Laurelton,17835
+Leck Kill,17836
+Lewisburg,17837
+Locust Gap,17840
+Mc Clure,17841
+Middleburg,17842
+Mifflinburg,17844
+Millmont,17845
+Montandon,17850
+Mount Carmel,17851
+Mount Pleasant Mills,17853
+New Columbia,17856
+Northumberland,17857
+Orangeville,17859
+Paxinos,17860
+Paxtonville,17861
+Penns Creek,17862
+Port Trevorton,17864
+Potts Grove,17865
+Coal Township,17866
+Rebuck,17867
+Selinsgrove,17870
+Shamokin,17872
+Shamokin Dam,17876
+Swengel,17880
+Trevorton,17881
+Weikert,17885
+West Milton,17886
+White Deer,17887
+Wilburton,17888
+Winfield,17889
+Pottsville,17901
+Aristes,17920
+Branchdale,17923
+Cressona,17929
+Cumbola,17930
+Frackville,17931
+Friedensburg,17933
+Gilberton,17934
+Girardville,17935
+Gordon,17936
+Hegins,17938
+Klingerstown,17941
+Lavelle,17943
+Llewellyn,17944
+Locustdale,17945
+Lost Creek,17946
+Mahanoy City,17948
+Mahanoy Plane,17949
+Mar Lin,17951
+Mary D,17952
+Minersville,17954
+Muir,17957
+New Philadelphia,17959
+New Ringgold,17960
+Orwigsburg,17961
+Pine Grove,17963
+Port Carbon,17965
+Ringtown,17967
+Sacramento,17968
+Saint Clair,17970
+Schuylkill Haven,17972
+Seltzer,17974
+Shenandoah,17976
+Summit Station,17979
+Tower City,17980
+Tremont,17981
+Tuscarora,17982
+Valley View,17983
+Zion Grove,17985
+Alburtis,18011
+Bowmanstown,18030
+Breinigsville,18031
+Catasauqua,18032
+Center Valley,18034
+Cherryville,18035
+Coopersburg,18036
+Coplay,18037
+Danielsville,18038
+East Greenville,18041
+East Texas,18046
+Emmaus,18049
+Fogelsville,18051
+Germansville,18053
+Green Lane,18054
+Hellertown,18055
+Hereford,18056
+Kunkletown,18058
+Laurys Station,18059
+Macungie,18062
+Martins Creek,18063
+Nazareth,18064
+New Tripoli,18066
+Old Zionsville,18068
+Orefield,18069
+Palm,18070
+Palmerton,18071
+Pen Argyl,18072
+Pennsburg,18073
+Perkiomenville,18074
+Red Hill,18076
+Riegelsville,18077
+Schnecksville,18078
+Slatedale,18079
+Slatington,18080
+Springtown,18081
+Stockertown,18083
+Tatamy,18085
+Treichlers,18086
+Trexlertown,18087
+Walnutport,18088
+Wind Gap,18091
+Zionsville,18092
+Hazleton,18201
+Albrightsville,18210
+Andreas,18211
+Barnesville,18214
+Beaver Meadows,18216
+Coaldale,18218
+Conyngham,18219
+Delano,18220
+Drifton,18221
+Drums,18222
+Ebervale,18223
+Freeland,18224
+Harleigh,18225
+Jim Thorpe,18229
+Junedale,18230
+Kelayres,18231
+Lansford,18232
+Lattimer Mines,18234
+Lehighton,18235
+Mcadoo,18237
+Milnesville,18239
+Nesquehoning,18240
+Nuremberg,18241
+Parryville,18244
+Quakake,18245
+Rock Glen,18246
+Sheppton,18248
+Sugarloaf,18249
+Summit Hill,18250
+Sybertsville,18251
+Tamaqua,18252
+Tresckow,18254
+Weatherly,18255
+East Stroudsburg,18301
+Bartonsville,18321
+Brodheadsville,18322
+Buck Hill Falls,18323
+Bushkill,18324
+Canadensis,18325
+Cresco,18326
+Delaware Water Gap,18327
+Dingmans Ferry,18328
+Effort,18330
+Gilbert,18331
+Henryville,18332
+Kresgeville,18333
+Long Pond,18334
+Marshalls Creek,18335
+Matamoras,18336
+Millrift,18340
+Mountainhome,18342
+Mount Bethel,18343
+Mount Pocono,18344
+Pocono Summit,18346
+Pocono Lake,18347
+Pocono Manor,18349
+Pocono Pines,18350
+Reeders,18352
+Saylorsburg,18353
+Sciota,18354
+Scotrun,18355
+Shawnee On Delaware,18356
+Skytop,18357
+Stroudsburg,18360
+Swiftwater,18370
+Tamiment,18371
+Archbald,18403
+Beach Lake,18405
+Carbondale,18407
+Clarks Summit,18411
+Clifford,18413
+Damascus,18415
+Equinunk,18417
+Factoryville,18419
+Fleetville,18420
+Forest City,18421
+Greeley,18425
+Greentown,18426
+Hawley,18428
+Herrick Center,18430
+Honesdale,18431
+Jermyn,18433
+Jessup,18434
+Lackawaxen,18435
+Lake Ariel,18436
+Lake Como,18437
+Lenoxville,18441
+Milanville,18443
+Moscow,18444
+Nicholson,18446
+Olyphant,18447
+Paupack,18451
+Peckville,18452
+Pleasant Mount,18453
+Poyntelle,18454
+Preston Park,18455
+Prompton,18456
+Rowland,18457
+Shohola,18458
+South Canaan,18459
+South Sterling,18460
+Starlight,18461
+Starrucca,18462
+Tafton,18464
+Tobyhanna,18466
+Tyler Hill,18469
+Union Dale,18470
+Waymart,18472
+White Mills,18473
+Scranton,18503
+Moosic,18507
+Taylor,18517
+Bear Creek,18602
+Blakeslee,18610
+Dallas,18612
+Dushore,18614
+Falls,18615
+Forksville,18616
+Glen Lyon,18617
+Harveys Lake,18618
+Hillsgrove,18619
+Hunlock Creek,18621
+Huntington Mills,18622
+Laceyville,18623
+Lake Harmony,18624
+Lake Winola,18625
+Laporte,18626
+Lopez,18628
+Mehoopany,18629
+Meshoppen,18630
+Mifflinville,18631
+Mildred,18632
+Nanticoke,18634
+Nescopeck,18635
+Noxen,18636
+Pittston,18640
+Duryea,18642
+Ransom,18653
+Shickshinny,18655
+Sweet Valley,18656
+Tunkhannock,18657
+Wapwallopen,18660
+White Haven,18661
+Wilkes Barre,18701
+Mountain Top,18707
+Shavertown,18708
+Luzerne,18709
+Brackney,18812
+Dimock,18816
+East Smithfield,18817
+Friendsville,18818
+Hallstead,18822
+Hop Bottom,18824
+Kingsley,18826
+Lawton,18828
+Le Raysville,18829
+Little Meadows,18830
+Monroeton,18832
+New Albany,18833
+Sayre,18840
+South Gibson,18842
+South Montrose,18843
+Stevensville,18845
+Sugar Run,18846
+Susquehanna,18847
+Towanda,18848
+Ulster,18850
+Warren Center,18851
+Wyalusing,18853
+Wysox,18854
+Doylestown,18901
+Buckingham,18912
+Carversville,18913
+Chalfont,18914
+Colmar,18915
+Erwinna,18920
+Fountainville,18923
+Furlong,18925
+Jamison,18929
+Kintnersville,18930
+Line Lexington,18932
+Milford Square,18935
+Montgomeryville,18936
+New Hope,18938
+Ottsville,18942
+Perkasie,18944
+Pipersville,18947
+Point Pleasant,18950
+Quakertown,18951
+Richboro,18954
+Richlandtown,18955
+Sellersville,18960
+Silverdale,18962
+Souderton,18964
+Telford,18969
+Trumbauersville,18970
+Upper Black Eddy,18972
+Warminster,18974
+Warrington,18976
+Washington Crossing,18977
+Wycombe,18980
+Ambler,19002
+Ardmore,19003
+Bala Cynwyd,19004
+Huntingdon Valley,19006
+Broomall,19008
+Bryn Athyn,19009
+Bryn Mawr,19010
+Cheltenham,19012
+Aston,19014
+Chester Heights,19017
+Clifton Heights,19018
+Bensalem,19020
+Croydon,19021
+Crum Lynne,19022
+Darby,19023
+Dresher,19025
+Drexel Hill,19026
+Elkins Park,19027
+Essington,19029
+Fairless Hills,19030
+Flourtown,19031
+Folcroft,19032
+Folsom,19033
+Fort Washington,19034
+Gladwyne,19035
+Glenolden,19036
+Glenside,19038
+Hatboro,19040
+Haverford,19041
+Horsham,19044
+Jenkintown,19046
+Langhorne,19047
+Lansdowne,19050
+Feasterville Trevose,19053
+Garnet Valley,19060
+Marcus Hook,19061
+Media,19063
+Merion Station,19066
+Morton,19070
+Narberth,19072
+Newtown Square,19073
+Oreland,19075
+Prospect Park,19076
+Ridley Park,19078
+Sharon Hill,19079
+Swarthmore,19081
+Upper Darby,19082
+Havertown,19083
+Villanova,19085
+Willow Grove,19090
+Woodlyn,19094
+Wyncote,19095
+Wynnewood,19096
+Paoli,19301
+Atglen,19310
+Avondale,19311
+Berwyn,19312
+Brandamore,19316
+Chadds Ford,19317
+Cheyney,19319
+Coatesville,19320
+Cochranville,19330
+Devon,19333
+Downingtown,19335
+Exton,19341
+Glen Mills,19342
+Glenmoore,19343
+Honey Brook,19344
+Immaculata,19345
+Kennett Square,19348
+Landenberg,19350
+Lincoln University,19352
+Malvern,19355
+Parkesburg,19365
+Pomeroy,19367
+Thorndale,19372
+Toughkenamon,19374
+West Chester,19380
+West Grove,19390
+Norristown,19401
+King Of Prussia,19406
+Blue Bell,19422
+Chester Springs,19425
+Collegeville,19426
+Conshohocken,19428
+Frederick,19435
+Gwynedd,19436
+Gwynedd Valley,19437
+Harleysville,19438
+Kimberton,19442
+Lafayette Hill,19444
+Lansdale,19446
+Mont Clare,19453
+North Wales,19454
+Oaks,19456
+Parker Ford,19457
+Phoenixville,19460
+Plymouth Meeting,19462
+Pottstown,19464
+Royersford,19468
+Sassamansville,19472
+Schwenksville,19473
+Skippack,19474
+Spring City,19475
+Spring House,19477
+Zieglerville,19492
+Adamstown,19501
+Bally,19503
+Barto,19504
+Bechtelsville,19505
+Bernville,19506
+Birdsboro,19508
+Blandon,19510
+Bowers,19511
+Boyertown,19512
+Douglassville,19518
+Elverson,19520
+Fleetwood,19522
+Geigertown,19523
+Kempton,19529
+Kutztown,19530
+Leesport,19533
+Lenhartsville,19534
+Limekiln,19535
+Lyon Station,19536
+Maxatawny,19538
+Mertztown,19539
+Mohnton,19540
+Mohrsville,19541
+Morgantown,19543
+Mount Aetna,19544
+New Berlinville,19545
+Oley,19547
+Port Clinton,19549
+Rehrersburg,19550
+Robesonia,19551
+Shartlesville,19554
+Shoemakersville,19555
+Strausstown,19559
+Topton,19562
+Virginville,19564
+Wernersville,19565
+Womelsdorf,19567

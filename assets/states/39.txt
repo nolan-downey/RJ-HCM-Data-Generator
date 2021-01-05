@@ -1,0 +1,240 @@
+South Carolina
+Alcolu,29001
+Bamberg,29003
+Batesburg,29006
+Bethune,29009
+Blackstock,29014
+Blythewood,29016
+Bowman,29018
+Cassatt,29032
+Cayce,29033
+Chapin,29036
+Chappells,29037
+Cope,29038
+Dalzell,29040
+Eastover,29044
+Elgin,29045
+Elliott,29046
+Elloree,29047
+Eutawville,29048
+Gable,29051
+Gadsden,29052
+Greeleyville,29056
+Heath Springs,29058
+Holly Hill,29059
+Hopkins,29061
+Horatio,29062
+Irmo,29063
+Jenkinsville,29065
+Kershaw,29067
+Leesville,29070
+Liberty Hill,29074
+Little Mountain,29075
+Lugoff,29078
+Lydia,29079
+Ehrhardt,29081
+Lodge,29082
+Mc Bee,29101
+Manning,29102
+Mayesville,29104
+Monetta,29105
+Neeses,29107
+Newberry,29108
+New Zion,29111
+Peak,29122
+Pelion,29123
+Pinewood,29125
+Pomaria,29126
+Rembert,29128
+Ridge Spring,29129
+Rowesville,29133
+Saint Matthews,29135
+Salley,29137
+Santee,29142
+Silverstreet,29145
+State Park,29147
+Summerton,29148
+Sumter,29150
+Shaw Afb,29152
+Timmonsville,29161
+Turbeville,29162
+Vance,29163
+Wagener,29164
+Ward,29166
+Wedgefield,29168
+Whitmire,29178
+Winnsboro,29180
+Spartanburg,29301
+Campobello,29322
+Chesnee,29323
+Converse,29329
+Cowpens,29330
+Cross Anchor,29331
+Cross Hill,29332
+Drayton,29333
+Duncan,29334
+Enoree,29335
+Fingerville,29338
+Gaffney,29340
+Inman,29349
+Joanna,29351
+Kinards,29355
+Landrum,29356
+Lockhart,29364
+Lyman,29365
+Mayo,29368
+Moore,29369
+Pacolet,29372
+Pacolet Mills,29373
+Pauline,29374
+Reidville,29375
+Roebuck,29376
+Startex,29377
+Una,29378
+Wellford,29385
+Woodruff,29388
+Charleston Afb,29404
+North Charleston,29405
+Hanahan,29410
+Adams Run,29426
+Awendaw,29429
+Bonneau,29431
+Cordesville,29434
+Cross,29436
+Edisto Island,29438
+Folly Beach,29439
+Goose Creek,29445
+Green Pond,29446
+Harleyville,29448
+Huger,29450
+Isle Of Palms,29451
+Jacksonboro,29452
+Johns Island,29455
+Ladson,29456
+Mc Clellanville,29458
+Moncks Corner,29461
+Pinopolis,29469
+Ravenel,29470
+Reevesville,29471
+Ridgeville,29472
+Round O,29474
+Saint George,29477
+Saint Stephen,29479
+Smoaks,29481
+Sullivans Island,29482
+Wadmalaw Island,29487
+Walterboro,29488
+Williams,29493
+Aynor,29511
+Bennettsville,29512
+Blenheim,29516
+Cades,29518
+Centenary,29519
+Cheraw,29520
+Clio,29525
+Coward,29530
+Dillon,29536
+Galivants Ferry,29544
+Green Sea,29545
+Gresham,29546
+Hamer,29547
+Hartsville,29550
+Hemingway,29554
+Kingstree,29556
+Lane,29564
+Latta,29565
+Little River,29566
+Little Rock,29567
+Longs,29568
+Loris,29569
+Mc Coll,29570
+Myrtle Beach,29572
+Mullins,29574
+Murrells Inlet,29576
+Nesmith,29580
+North Myrtle Beach,29582
+Pamplico,29583
+Patrick,29584
+Pawleys Island,29585
+Salters,29590
+Sellers,29592
+Society Hill,29593
+Tatum,29594
+Abbeville,29620
+Anderson,29621
+Belton,29627
+Calhoun Falls,29628
+Central,29630
+Clemson,29631
+Donalds,29638
+Due West,29639
+Easley,29640
+Fair Play,29643
+Fountain Inn,29644
+Gray Court,29645
+Greer,29650
+Hodges,29653
+Honea Path,29654
+Iva,29655
+Long Creek,29658
+Lowndesville,29659
+Mauldin,29662
+Mountain Rest,29664
+Ninety Six,29666
+Norris,29667
+Pelzer,29669
+Simpsonville,29680
+Six Mile,29682
+Slater,29683
+Starr,29684
+Tamassee,29686
+Taylors,29687
+Travelers Rest,29690
+Walhalla,29691
+Ware Shoals,29692
+Fort Mill,29707
+Edgemoor,29712
+Fort Lawn,29714
+Hickory Grove,29717
+Lando,29724
+Mc Connells,29726
+Mount Croghan,29727
+Pageland,29728
+Aiken,29801
+New Ellenton,29809
+Barnwell,29812
+Blackville,29817
+Clarks Hill,29821
+Edgefield,29824
+Elko,29826
+Gloverville,29828
+Langley,29834
+Mc Cormick,29835
+Modoc,29838
+North Augusta,29841
+Beech Island,29842
+Olar,29843
+Plum Branch,29845
+Ulmer,29849
+Vaucluse,29850
+Warrenville,29851
+Parris Island,29905
+Okatie,29909
+Bluffton,29910
+Brunson,29911
+Coosawhatchie,29912
+Daufuskie Island,29915
+Early Branch,29916
+Estill,29918
+Saint Helena Island,29920
+Furman,29921
+Garnett,29922
+Hilton Head Island,29926
+Hardeeville,29927
+Islandton,29929
+Pineland,29934
+Ridgeland,29936
+Scotia,29939
+Tillman,29943
+Varnville,29944
+Yemassee,29945

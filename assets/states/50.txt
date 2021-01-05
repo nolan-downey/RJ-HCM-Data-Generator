@@ -1,0 +1,399 @@
+Missouri
+Ballwin,63011
+Barnhart,63012
+Berger,63014
+Crystal City,63019
+Dittmer,63023
+Festus,63028
+Florissant,63031
+French Village,63036
+Gerald,63037
+Gray Summit,63039
+Grubville,63041
+Hazelwood,63042
+Maryland Heights,63043
+Earth City,63045
+Hematite,63047
+Herculaneum,63048
+High Ridge,63049
+House Springs,63051
+Kimmswick,63053
+Labadie,63055
+Liguori,63057
+Lonedell,63060
+Luebbering,63061
+Pacific,63069
+Pevely,63070
+Richwoods,63071
+Saint Ann,63074
+Valles Mines,63087
+Annada,63330
+Elsberry,63343
+Farber,63345
+Foristell,63348
+Hawk Point,63349
+High Hill,63350
+Jonesburg,63351
+Laddonia,63352
+Louisiana,63353
+Marthasville,63357
+Montgomery City,63361
+Moscow Mills,63362
+Lake Saint Louis,63367
+Old Monroe,63369
+Portage Des Sioux,63373
+Saint Peters,63376
+Silex,63377
+Wentzville,63385
+West Alton,63386
+Wright City,63390
+Anabel,63431
+Arbela,63432
+Hunnewell,63443
+Kahoka,63445
+Knox City,63446
+Lentner,63450
+Saverton,63467
+Shelbina,63468
+Wyaconda,63474
+Kirksville,63501
+Baring,63531
+Bevier,63532
+Brashear,63533
+Coatsville,63535
+Edina,63537
+Gibbs,63540
+Gorin,63543
+Green Castle,63544
+Green City,63545
+Greentop,63546
+Hurdland,63547
+New Cambria,63558
+Novinger,63559
+Queen City,63561
+Winigan,63566
+Park Hills,63601
+Blackwell,63626
+Bloomsdale,63627
+Bonne Terre,63628
+Bunker,63629
+Cadet,63630
+Des Arc,63636
+Doe Run,63637
+Leadwood,63653
+Marquand,63655
+Middle Brook,63656
+Pilot Knob,63663
+Sainte Genevieve,63670
+Tiff,63674
+Cape Girardeau,63701
+Altenburg,63732
+Bell City,63735
+Brownwood,63738
+Burfordville,63739
+Dutchtown,63745
+Farrar,63746
+Friedheim,63747
+Frohna,63748
+Glenallen,63751
+Mc Gee,63763
+Old Appleton,63770
+Scott City,63780
+Sedgewickville,63781
+Sturdivant,63782
+Vanduser,63784
+Zalma,63787
+Sikeston,63801
+Arbyrd,63821
+Bernie,63822
+Bertrand,63823
+Blodgett,63824
+Braggadocio,63826
+Bragg City,63827
+Canalou,63828
+Caruthersville,63830
+Catron,63833
+Cooter,63839
+East Prairie,63845
+Gideon,63848
+Gobler,63849
+Hornersville,63855
+Kennett,63857
+Lilbourn,63862
+Morehouse,63868
+New Madrid,63869
+Risco,63874
+Senath,63876
+Wardell,63879
+Whiteoak,63880
+Poplar Bluff,63901
+Broseley,63932
+Clubb,63934
+Doniphan,63935
+Ellsinore,63937
+Fairdealing,63939
+Fisk,63940
+Gatewood,63942
+Harviell,63945
+Lowndes,63951
+Neelyville,63954
+Oxly,63955
+Puxico,63960
+Qulin,63961
+Rombauer,63962
+Silva,63964
+Wappapello,63966
+Bates City,64011
+Camden Point,64018
+Centerview,64019
+Concordia,64020
+Corder,64021
+Excelsior Springs,64024
+Grain Valley,64029
+Higginsville,64037
+Kearney,64060
+Lawson,64062
+Lees Summit,64063
+Levasy,64066
+Lone Jack,64070
+Mayview,64071
+Missouri City,64072
+Orrick,64077
+Peculiar,64078
+Platte City,64079
+Raymore,64083
+Rayville,64084
+Kansas City,64101
+Amazonia,64421
+Blythedale,64426
+Bolckow,64427
+Burlington Junction,64428
+Clearmont,64431
+Conception,64433
+Conception Junction,64434
+Craig,64437
+Faucett,64448
+Gentry,64453
+Gower,64454
+Grant City,64456
+King City,64463
+Lathrop,64465
+Osborn,64474
+Pickering,64476
+Plattsburg,64477
+Ravenwood,64479
+Rea,64480
+Rock Port,64482
+Skidmore,64487
+Stanberry,64489
+Tarkio,64491
+Turney,64493
+Weatherby,64497
+Bogard,64622
+Bosworth,64623
+Braymer,64624
+Bucklin,64631
+Cainsville,64632
+Coffey,64636
+Cowgill,64637
+Dawn,64638
+Gilman City,64642
+Humphreys,64646
+Jameson,64647
+Kidder,64649
+Laclede,64651
+Laredo,64652
+Linneus,64653
+Lock Springs,64654
+Mc Fall,64657
+Marceline,64658
+Norborne,64668
+Pattonsburg,64670
+Powersville,64672
+Purdin,64674
+Rothville,64676
+Spickard,64679
+Tina,64682
+Amoret,64722
+Appleton City,64724
+Archie,64725
+Bronaugh,64728
+Chilhowee,64733
+East Lynne,64743
+El Dorado Springs,64744
+Golden City,64748
+Jerico Springs,64756
+Leeton,64761
+Liberal,64762
+Lowry City,64763
+Mindenmines,64769
+Richards,64778
+Rich Hill,64779
+Schell City,64783
+Urich,64788
+Carl Junction,64834
+Duenweg,64841
+Lanagan,64847
+La Russell,64848
+Neck City,64849
+Noel,64854
+Oronogo,64855
+Purcell,64857
+Reeds,64859
+Rocky Comfort,64861
+Sarcoxie,64862
+South West City,64863
+Stark City,64866
+Webb City,64870
+Barnett,65011
+Bonnots Mill,65016
+Brumley,65017
+Camdenton,65020
+Chamois,65024
+Eugene,65032
+Gravois Mills,65037
+Henley,65040
+Hermann,65041
+Holts Summit,65043
+Kaiser,65047
+Koeltztown,65048
+Lake Ozark,65049
+Linn Creek,65052
+Lohman,65053
+Loose Creek,65054
+Meta,65058
+Mokane,65059
+Osage Beach,65065
+Prairie Home,65068
+Rhineland,65069
+Saint Elizabeth,65075
+Steedman,65077
+Stover,65078
+Sunrise Beach,65079
+Tebbetts,65080
+Ulman,65083
+Auxvasse,65231
+Benton City,65232
+Bunceton,65237
+Clifton Hill,65244
+Excello,65247
+Hallsville,65255
+Higbee,65257
+Holliday,65258
+Keytesville,65261
+Kingdom City,65262
+Moberly,65270
+New Franklin,65274
+Pilot Grove,65276
+Rocheport,65279
+Rush Hill,65280
+Triplett,65286
+Wooldridge,65287
+Whiteman Air Force Base,65305
+Arrow Rock,65320
+Blackburn,65321
+Climax Springs,65324
+Cole Camp,65325
+Emma,65327
+Gilliam,65330
+Green Ridge,65332
+Houstonia,65333
+Knob Noster,65336
+La Monte,65337
+Malta Bend,65339
+Otterville,65348
+Sweet Springs,65351
+Birch Tree,65438
+Bixby,65439
+Boss,65440
+Brinktown,65443
+Cook Sta,65449
+Crocker,65452
+Devils Elbow,65457
+Duke,65461
+Edgar Springs,65462
+Eunice,65468
+Fort Leonard Wood,65473
+Hartshorn,65479
+Huggins,65484
+Iberia,65486
+Jadwin,65501
+Laquey,65534
+Licking,65542
+Mountain View,65548
+Roby,65557
+Solo,65564
+Steelville,65565
+Viburnum,65566
+Stoutland,65567
+Success,65570
+Vichy,65580
+Saint Robert,65584
+Wesco,65586
+Long Lane,65590
+Ash Grove,65604
+Blue Eye,65611
+Bois D Arc,65612
+Bradleyville,65614
+Branson,65616
+Brixey,65618
+Bruner,65620
+Cape Fair,65624
+Caulfield,65626
+Cedarcreek,65627
+Chestnutridge,65630
+Clever,65631
+Cross Timbers,65634
+Dunnegan,65640
+Everton,65646
+Fair Grove,65648
+Fordland,65652
+Freistatt,65654
+Graff,65660
+Grovespring,65662
+Half Way,65663
+Halltown,65664
+Highlandville,65669
+Humansville,65674
+Kirbyville,65679
+Kissee Mills,65680
+Lampe,65681
+Kimberling City,65686
+Cabool,65689
+Couch,65690
+Koshkonong,65692
+Monett,65708
+Mountain Grove,65711
+Niangua,65713
+Nixa,65714
+Oldfield,65720
+Pierce City,65723
+Pleasant Hope,65725
+Powersite,65731
+Protem,65733
+Purdy,65734
+Reeds Spring,65737
+Ridgedale,65739
+Rockaway Beach,65740
+Rueter,65744
+Seligman,65745
+Shell Knob,65747
+South Greenfield,65752
+Spokane,65754
+Squires,65755
+Stotts City,65756
+Taneyville,65759
+Theodosia,65761
+Thornfield,65762
+Tunas,65764
+Udall,65766
+Vanzant,65768
+Walnut Shade,65771
+Wasola,65773
+Weaubleau,65774
+West Plains,65775
+Windyville,65783
+Zanoni,65784
+Macks Creek,65786
+Roach,65787
+Peace Valley,65788

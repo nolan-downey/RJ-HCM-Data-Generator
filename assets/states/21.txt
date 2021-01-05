@@ -1,0 +1,484 @@
+Michigan
+Algonac,48001
+Allenton,48002
+Almont,48003
+Armada,48005
+Capac,48014
+Center Line,48015
+Clawson,48017
+Eastpointe,48021
+Emmett,48022
+Fraser,48026
+Goodells,48027
+Harsens Island,48028
+Hazel Park,48030
+Jeddo,48032
+Clinton Township,48035
+Marine City,48039
+Macomb,48042
+Mount Clemens,48043
+Harrison Township,48045
+North Street,48049
+East China,48054
+Fort Gratiot,48059
+Port Huron,48060
+Romeo,48065
+Pleasant Ridge,48069
+Huntington Woods,48070
+Smiths Creek,48074
+Saint Clair Shores,48080
+Allen Park,48101
+Ann Arbor,48103
+Carleton,48117
+Dearborn,48120
+Melvindale,48122
+Dearborn Heights,48125
+Gregory,48137
+Grosse Ile,48138
+Ida,48140
+Inkster,48141
+La Salle,48145
+Luna Pier,48157
+Maybee,48159
+New Hudson,48165
+Pinckney,48169
+Saline,48176
+Samaria,48177
+South Lyon,48178
+South Rockwood,48179
+Temperance,48182
+Whitmore Lake,48189
+Whittaker,48190
+Wyandotte,48192
+Southgate,48195
+Ypsilanti,48197
+Hamtramck,48212
+River Rouge,48218
+Harper Woods,48225
+Ecorse,48229
+Grosse Pointe,48230
+Oak Park,48237
+Bloomfield Hills,48301
+Sterling Heights,48310
+Keego Harbor,48320
+Auburn Hills,48326
+Pontiac,48340
+Davisburg,48350
+Lake Orion,48359
+Leonard,48367
+Novi,48374
+Commerce Township,48382
+Walled Lake,48390
+Wixom,48393
+Applegate,48401
+Atlas,48411
+Bad Axe,48413
+Birch Run,48415
+Brown City,48416
+Carsonville,48419
+Columbiaville,48421
+Croswell,48422
+Davison,48423
+Deckerville,48427
+Durand,48429
+Fenton,48430
+Filion,48432
+Goodrich,48438
+Grand Blanc,48439
+Harbor Beach,48441
+Holly,48442
+Imlay City,48444
+Kinde,48445
+Lapeer,48446
+Lennon,48449
+Marlette,48453
+Minden City,48456
+New Lothrop,48460
+Ortonville,48462
+Otter Lake,48464
+Palms,48465
+Peck,48466
+Port Austin,48467
+Port Hope,48468
+Port Sanilac,48469
+Snover,48472
+Swartz Creek,48473
+Ubly,48475
+Flint,48502
+Saginaw,48601
+Bentley,48613
+Brant,48614
+Breckenridge,48615
+Chesaning,48616
+Clare,48617
+Comins,48619
+Farwell,48622
+Gladwin,48624
+Higgins Lake,48627
+Houghton Lake,48629
+Houghton Lake Heights,48630
+Kawkawlin,48631
+Lupton,48635
+Merrill,48637
+Mio,48647
+Oakley,48649
+Pinconning,48650
+Prudenville,48651
+Rhodes,48652
+Roscommon,48653
+Rose City,48654
+Saint Helen,48656
+West Branch,48661
+Au Gres,48703
+Barton City,48705
+Bay City,48706
+University Center,48710
+Bay Port,48720
+Caro,48723
+Caseville,48725
+Cass City,48726
+Curran,48728
+Deford,48729
+East Tawas,48730
+Essexville,48732
+Fairgrove,48733
+Frankenmuth,48734
+Gagetown,48735
+Glennie,48737
+Hale,48739
+Mikado,48745
+Munger,48747
+National City,48748
+Omer,48749
+Oscoda,48750
+Owendale,48754
+Pigeon,48755
+Prescott,48756
+Reese,48757
+Sebewaing,48759
+Silverwood,48760
+South Branch,48761
+Spruce,48762
+Tawas City,48763
+Twining,48766
+Vassar,48768
+Whittemore,48770
+Bannister,48807
+Belding,48809
+Carson City,48811
+Cohoctah,48816
+Crystal,48818
+Dimondale,48821
+Eagle,48822
+East Lansing,48823
+Eaton Rapids,48827
+Edmore,48829
+Elsie,48831
+Elwell,48832
+Fowlerville,48836
+Grand Ledge,48837
+Haslett,48840
+Laingsburg,48848
+Lake Odessa,48849
+Mcbrides,48852
+Maple Rapids,48853
+Morrice,48857
+Mulliken,48861
+Okemos,48864
+Owosso,48867
+Palo,48870
+Perrinton,48871
+Pewamo,48873
+Pompeii,48874
+Potterville,48876
+Rosebush,48878
+Saint Louis,48880
+Shepherd,48883
+Six Lakes,48886
+Sunfield,48890
+Webberville,48892
+Weidman,48893
+Kalamazoo,49001
+Allegan,49010
+Battle Creek,49014
+Benton Harbor,49022
+Breedsville,49027
+Burr Oak,49030
+Cassopolis,49031
+Ceresco,49033
+Coloma,49038
+Colon,49040
+Constantine,49042
+Covert,49043
+Delton,49046
+Dowagiac,49047
+Dowling,49050
+East Leroy,49051
+Galesburg,49053
+Gobles,49055
+Hickory Corners,49060
+Leonidas,49066
+Mattawan,49071
+Nottawa,49075
+Olivet,49076
+Otsego,49078
+Plainwell,49080
+Schoolcraft,49087
+Scotts,49088
+South Haven,49090
+Tekonsha,49092
+White Pigeon,49099
+Baroda,49101
+Berrien Center,49102
+Berrien Springs,49103
+Bridgman,49106
+Edwardsburg,49112
+Galien,49113
+Harbert,49115
+New Troy,49119
+Sawyer,49125
+Three Oaks,49128
+Union Pier,49129
+Britton,49229
+Cement City,49233
+Clarklake,49234
+Grass Lake,49240
+Manitou Beach,49253
+Michigan Center,49254
+Morenci,49256
+Munith,49259
+Norvell,49263
+Onondaga,49264
+Onsted,49265
+Osseo,49266
+Ottawa Lake,49267
+Parma,49269
+Riga,49276
+Rives Junction,49277
+Sand Creek,49279
+Somerset Center,49282
+Spring Arbor,49283
+Tecumseh,49286
+Barryton,49305
+Big Rapids,49307
+Bitely,49309
+Brohman,49312
+Byron Center,49315
+Casnovia,49318
+Cedar Springs,49319
+Comstock Park,49321
+Dorr,49323
+Gowen,49326
+Howard City,49329
+Kent City,49330
+Mecosta,49332
+Moline,49335
+Morley,49336
+Newaygo,49337
+Remus,49340
+Rodney,49342
+Stanwood,49346
+Trufant,49347
+White Cloud,49349
+Branch,49402
+Coopersville,49404
+Fennville,49408
+Free Soil,49411
+Fruitport,49415
+Grand Haven,49417
+Grandville,49418
+Hart,49420
+Hesperia,49421
+Hudsonville,49426
+Jenison,49428
+Ludington,49431
+Macatawa,49434
+Marne,49435
+Muskegon,49440
+New Era,49446
+Nunica,49448
+Pentwater,49449
+Rothbury,49452
+Saugatuck,49453
+Twin Lake,49457
+Walkerville,49459
+West Olive,49460
+Zeeland,49464
+Cadillac,49601
+Alba,49611
+Benzonia,49616
+Boon,49618
+Brethren,49619
+Buckley,49620
+Cedar,49621
+Central Lake,49622
+Chase,49623
+Copemish,49625
+Elk Rapids,49629
+Evart,49631
+Fife Lake,49633
+Filer City,49634
+Glen Arbor,49636
+Grawn,49637
+Harrietta,49638
+Hersey,49639
+Honor,49640
+Idlewild,49642
+Interlochen,49643
+Irons,49644
+Kaleva,49645
+Kalkaska,49646
+Kewadin,49648
+Lake Ann,49650
+Lake Leelanau,49653
+Luther,49656
+Mc Bain,49657
+Mancelona,49659
+Manistee,49660
+Manton,49663
+Maple City,49664
+Mesick,49668
+Omena,49674
+Onekama,49675
+Rapid City,49676
+Reed City,49677
+Sears,49679
+South Boardman,49680
+Suttons Bay,49682
+Traverse City,49684
+Tustin,49688
+Mackinaw City,49701
+Alanson,49706
+Alpena,49707
+Barbeau,49710
+Boyne City,49712
+Boyne Falls,49713
+Brimley,49715
+Brutus,49716
+Burt Lake,49717
+Carp Lake,49718
+Charlevoix,49720
+Cheboygan,49721
+Dafter,49724
+De Tour Village,49725
+Drummond Island,49726
+East Jordan,49727
+Eckerman,49728
+Frederic,49733
+Gaylord,49735
+Goetzville,49736
+Grayling,49738
+Harbor Springs,49740
+Hawks,49743
+Herron,49744
+Hessel,49745
+Hillman,49746
+Hubbard Lake,49747
+Hulbert,49748
+Indian River,49749
+Johannesburg,49751
+Kinross,49752
+Lachine,49753
+Levering,49755
+Mackinac Island,49757
+Moran,49760
+Naubinway,49762
+Oden,49764
+Onaway,49765
+Ossineke,49766
+Pellston,49769
+Petoskey,49770
+Pickford,49774
+Pointe Aux Pins,49775
+Posen,49776
+Rogers City,49779
+Rudyard,49780
+Saint Ignace,49781
+Beaver Island,49782
+Sault Sainte Marie,49783
+Kincheloe,49788
+Topinabee,49791
+Trout Lake,49793
+Walloon Lake,49796
+Wolverine,49799
+Iron Mountain,49801
+Kingsford,49802
+Allouez,49805
+Au Train,49806
+Bark River,49807
+Big Bay,49808
+Carney,49812
+Channing,49815
+Cooks,49817
+Cornell,49818
+Curtis,49820
+Daggett,49821
+Deerton,49822
+Eben Junction,49825
+Rumely,49826
+Engadine,49827
+Escanaba,49829
+Felch,49831
+Little Lake,49833
+Foster City,49834
+Garden,49835
+Germfask,49836
+Gould City,49838
+Grand Marais,49839
+Gulliver,49840
+Gwinn,49841
+Hermansville,49847
+Ishpeming,49849
+Mc Millan,49853
+Manistique,49854
+Marquette,49855
+Menominee,49858
+Michigamme,49861
+Munising,49862
+Nadeau,49863
+Nahma,49864
+Negaunee,49866
+Perronville,49873
+Powers,49874
+Quinnesec,49876
+Rapid River,49878
+Sagola,49881
+Seney,49883
+Shingleton,49884
+Skandia,49885
+Spalding,49886
+Trenary,49891
+Vulcan,49892
+Wetmore,49895
+Ahmeek,49901
+Amasa,49903
+Atlantic Mine,49905
+Baraga,49908
+Bergland,49910
+Bruce Crossing,49912
+Caspian,49915
+Chassell,49916
+Copper City,49917
+Copper Harbor,49918
+Crystal Falls,49920
+Dodgeville,49921
+Dollar Bay,49922
+Ewen,49925
+Gaastra,49927
+Hubbell,49934
+Iron River,49935
+Ironwood,49938
+Lake Linden,49945
+Marenisco,49947
+Mass City,49948
+Nisula,49952
+Ontonagon,49953
+Painesdale,49955
+Pelkie,49958
+Ramsay,49959
+Sidnaw,49961
+Skanee,49962
+South Range,49963
+Toivola,49965
+Watersmeet,49969
+Watton,49970
