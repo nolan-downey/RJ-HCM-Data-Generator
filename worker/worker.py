@@ -1,4 +1,4 @@
-from workerDates import 
+#from workerDates import 
 
 #
 # @func   createWorker
@@ -9,7 +9,7 @@ def createWorker(person):
   worker = {}
 
   worker["person"]        = person
-  worker["workerDates"]   = 
+  # worker["workerDates"]   = 
   # worker["workerStatus"]  = 
   # worker["workAssigment"] = 
 

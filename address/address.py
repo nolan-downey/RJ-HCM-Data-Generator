@@ -10,8 +10,6 @@ import json
 def createAddress(person):
   address = {}
 
-  print(person)
-
   address["nameCode"] = person["name"]["firstName"] + " " + person["name"]["lastName"]
   address["countryCode"] = "USA"
 

@@ -5,10 +5,10 @@ import ssl
 from decouple import config
 
 from address.address import createAddress 
-from person.createPerson import createPerson
-from worker.createWorker import createWorker 
+from person.person import createPerson
+from worker.worker import createWorker 
 from jobApplicant.jobApplicant import createJobApplicant 
-from jobRequisition.createJobRequisition import createJobRequisition 
+from jobRequisition.jobRequisition import createJobRequisition 
 
 def main():
   # Eventually, we'll want to worry about user input and size of the data
