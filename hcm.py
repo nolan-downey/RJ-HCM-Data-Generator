@@ -29,11 +29,9 @@ def main():
     newPerson = createPerson()
     newAddress = createAddress(newPerson)
     newPerson["address"] = newAddress
-    newWorker = createWorker()
+    newWorker = createWorker(newPerson)
     newJobRequistion = createJobRequisition()
     newJobApplicant = createJobApplicant()
-
-    print(newPerson)
 
     addresses.append(newAddress)
     people.append(newPerson)
