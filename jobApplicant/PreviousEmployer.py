@@ -22,9 +22,6 @@ def newEmployerName():
   idx = randint(0, len(COMPANY_NAMES)-1)
   return COMPANY_NAMES[idx]
 
-def newAddress(person):
-  return createAddress(person)
-
 def newStartEndDate(applicant):
   startDate = ""
   endDate = ""
