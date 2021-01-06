@@ -104,11 +104,10 @@ def newBirthDate(percentages):
   age = random.randint(lowerBound, upperBound)
 
   year = datetime.datetime.now().year - age
-  start_dt = datetime.datetime.today().replace(year=year, day=1, month=1).toordinal()
-  end_dt = datetime.datetime.today().toordinal()
-  random_day = datetime.datetime.fromordinal(random.randint(start_dt, end_dt)).replace(year=year)
-
-  return random_day
+  startDt = datetime.datetime.today().replace(year=year, day=1, month=1).toordinal()
+  endDt = datetime.datetime.today().toordinal()
+  randomDate = datetime.datetime.fromordinal(random.randint(startDt, endDt)).replace(year=year)
+  return randomDate 
 
 
 #

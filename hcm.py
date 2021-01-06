@@ -3,6 +3,7 @@
 import pymongo
 import ssl
 from decouple import config
+import pprint
 
 from address.address import createAddress 
 from person.person import createPerson
@@ -32,6 +33,8 @@ def main():
     newWorker = createWorker(newPerson)
     newJobRequistion = createJobRequisition()
     newJobApplicant = createJobApplicant()
+
+    pprint.pprint(newPerson)
 
     addresses.append(newAddress)
     people.append(newPerson)
