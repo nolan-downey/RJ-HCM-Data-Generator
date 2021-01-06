@@ -12,7 +12,7 @@ def createPerson():
   person["gender"]                = fields.newGender()
   person["name"]                  = fields.newName(person)
   person["highestEducationLevel"] = fields.newEducationLevel([100/7 for _ in range(7)])
-  person["birthDate"]             = fields.newBirthDate([100/12 for _ in range(12)])
+  person["birthDate"]             = fields.newBirthDate([100/6 for _ in range(6)])
   person["genderCode"]            = fields.newGender()
   person["ethnicity"]             = fields.newEthnicity([20 for _ in range(6)])
 
