@@ -11,28 +11,30 @@ import pandas as pd
 def newName(Person):
   MALE = 'M'
   FEMALE = 'F'
-  middle_initials = ['A', 'B', 'C', 'D', 'E', 'I', 'J', 'K', 'L', 'M',
+  middle_initials = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
                   'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
-  male_names = pd.read_csv('../assets/names/m_names.txt')['name']
-  female_names = pd.read_csv('../assets/names/f_names.txt')['name']
-  surnames = pd.read_csv('../assets/names/surnames.txt')['name']
+  male_names = pd.read_csv('assets/names/m_names.txt')['name']
+  female_names = pd.read_csv('assets/names/f_names.txt')['name']
+  surnames = pd.read_csv('assets/names/surnames.txt')['name']
 
   # index for random name out of first 100000
   name_index = random.randint(0, 100000)
   # index for random initial out of the alphabet
-  inital_index = random.randint(0, 25)
+  initial_index = random.randint(0, 25)
+
+  names = {}
 
   if Person['gender'] == MALE:
-      Person['firstName'] = male_names[name_index]
+      names['firstName'] = male_names[name_index]
   elif Person['gender'] == FEMALE:
-      Person['firstName'] = female_names[name_index]
+      names['firstName'] = female_names[name_index]
   else:
-      Person['firstName'] = male_names[name_index] if name_index % 2 == 0 else female_names[name_index]
+      names['firstName'] = male_names[name_index] if name_index % 2 == 0 else female_names[name_index]
 
-  Person['lastName'] = surnames[name_index]
-  Person['middleName'] = middle_initials[inital_index]
+  names['lastName'] = surnames[name_index].lower().capitalize()
+  names['middleName'] = middle_initials[initial_index]
 
-  return Person
+  return names
 
 #
 # @func   newGender
@@ -80,9 +82,9 @@ def newBirthDate(percentages):
   age = random.randint(lowerBound, upperBound)
 
   year = datetime.datetime.now().year - age
-  start_dt = datetime.date.today().replace(year=year, day=1, month=1).toordinal()
-  end_dt = datetime.date.today().toordinal()
-  random_day = datetime.date.fromordinal(random.randint(start_dt, end_dt)).replace(year=year)
+  start_dt = datetime.datetime.today().replace(year=year, day=1, month=1).toordinal()
+  end_dt = datetime.datetime.today().toordinal()
+  random_day = datetime.datetime.fromordinal(random.randint(start_dt, end_dt)).replace(year=year)
 
   return random_day
 

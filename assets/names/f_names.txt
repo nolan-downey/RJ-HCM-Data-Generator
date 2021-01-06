@@ -1,3 +1,4 @@
+number,name,percentage,gender
 1880,"Mary",0.072381,"girl"
 1880,"Anna",0.026678,"girl"
 1880,"Emma",0.020521,"girl"
