@@ -67,13 +67,3 @@ def annualHoursQuantity(standardHours):
         x = np.random.normal(1000,20,1)
         annualHoursQuantity = round(x[0])
     return annualHoursQuantity
-
-def main():
-    standardHours1 = standardHours()
-    print(f'{standardHours1["fullTimeEquivalency"]}')
-    print(f'{standardHours1["dailyHoursQuantity"]}')
-    print(f'{standardHours1["weeklyHoursQuantity"]}')
-    print(f'{standardHours1["monthlyHoursQuantity"]}')
-    print(f'{standardHours1["annualHoursQuantity"]}')
-if __name__ == "__main__":
-    main()
