@@ -1,4 +1,5 @@
-#from workerDates import 
+#from workerDates import  
+from worker.workAssignment import createWorkAssignment
 
 #
 # @func   createWorker
@@ -9,8 +10,8 @@ def createWorker(person):
   worker = {}
 
   worker["person"]        = person
-  # worker["workerDates"]   = 
-  # worker["workerStatus"]  = 
-  # worker["workAssigment"] = 
+  worker["workerDates"]   = {}
+  worker["workerStatus"]  = {}
+  worker["workAssigment"] = createWorkAssignment(worker["person"], worker["workerStatus"])
 
   return worker
