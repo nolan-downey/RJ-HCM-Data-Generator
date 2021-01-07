@@ -5,11 +5,11 @@ def standardHours():
     standardHours = {}
 
     standardHours["fullTimeEquivalency"] = newFullTimeEquivalency()
-    standardHours["dailyHoursQuantity"] = dailyHoursQuantity(standardHours)
-    standardHours["weeklyHoursQuantity"] = weeklyHoursQuantity(standardHours)
-    standardHours["payPeriodHoursQuantity"] = payPeriodHoursQuantity(standardHours)
-    standardHours["monthlyHoursQuantity"] = monthlyHoursQuantity(standardHours)
-    standardHours["annualHoursQuantity"] = annualHoursQuantity(standardHours)
+    standardHours["dailyHoursQuantity"] = dailyHoursQuantity(standardHours["fullTimeEquivalency"])
+    standardHours["weeklyHoursQuantity"] = weeklyHoursQuantity(standardHours["fullTimeEquivalency"])
+    standardHours["payPeriodHoursQuantity"] = payPeriodHoursQuantity(standardHours["fullTimeEquivalency"])
+    standardHours["monthlyHoursQuantity"] = monthlyHoursQuantity(standardHours["fullTimeEquivalency"])
+    standardHours["annualHoursQuantity"] = annualHoursQuantity(standardHours["fullTimeEquivalency"])
     return standardHours
 
 def newFullTimeEquivalency():
@@ -17,7 +17,7 @@ def newFullTimeEquivalency():
     # 0 = false 1 = true
     return fullTime
 
-def dailyHoursQuantity(standardHours):
+def dailyHoursQuantity(standardHours["fullTimeEquivalency"]):
     if standardHours["fullTimeEquivalency"] == 1:
         x = np.random.normal(8,1,1)     
         dailyHoursQuantity = round(x[0])
@@ -28,7 +28,7 @@ def dailyHoursQuantity(standardHours):
     return dailyHoursQuantity
 
 
-def weeklyHoursQuantity(standardHours):
+def weeklyHoursQuantity(standardHours["fullTimeEquivalency"]):
     if standardHours["fullTimeEquivalency"] == 1:
         x = np.random.normal(40,2,1)   
         weeklyHoursQuantity = round(x[0])  
@@ -38,7 +38,7 @@ def weeklyHoursQuantity(standardHours):
         weeklyHoursQuantity = round(x[0])
     return weeklyHoursQuantity
 
-def payPeriodHoursQuantity(standardHours):
+def payPeriodHoursQuantity(standardHours["fullTimeEquivalency"]):
     if standardHours["fullTimeEquivalency"] == 1:
         x = np.random.normal(80,2,1)   
         payPeriodHoursQuantity = round(x[0])  
@@ -48,7 +48,7 @@ def payPeriodHoursQuantity(standardHours):
         payPeriodHoursQuantity = round(x[0])
     return payPeriodHoursQuantity
 
-def monthlyHoursQuantity(standardHours):
+def monthlyHoursQuantity(standardHours["fullTimeEquivalency"]):
     if standardHours["fullTimeEquivalency"] == 1:
         x = np.random.normal(165,5,1)   
         monthlyHoursQuantity = round(x[0])  
@@ -58,7 +58,7 @@ def monthlyHoursQuantity(standardHours):
         monthlyHoursQuantity = round(x[0])
     return monthlyHoursQuantity
 
-def annualHoursQuantity(standardHours):
+def annualHoursQuantity(standardHours["fullTimeEquivalency"]):
     if standardHours["fullTimeEquivalency"] == 1:
         x = np.random.normal(2000,20,1)   
         annualHoursQuantity = round(x[0])  
