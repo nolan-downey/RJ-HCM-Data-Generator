@@ -1,0 +1,532 @@
+West Virginia
+Beeson,24714
+Bramwell,24715
+Bud,24716
+Covel,24719
+Hiawatha,24729
+Kegley,24731
+Lashmeet,24733
+Matoaka,24736
+Montcalm,24737
+Nemours,24738
+Rock,24747
+Welch,24801
+Anawalt,24808
+Bartley,24813
+Berwind,24815
+Big Sandy,24816
+Bradshaw,24817
+Brenton,24818
+Clear Fork,24822
+Coal Mountain,24823
+Cucumber,24826
+Davy,24828
+Elbert,24830
+Elkhorn,24831
+Fanrock,24834
+Gary,24836
+Hensley,24843
+Iaeger,24844
+Ikes Fork,24845
+Isaban,24846
+Itmann,24847
+Jenkinjones,24848
+Jesse,24849
+Jolo,24850
+Justice,24851
+Kimball,24853
+Kopperston,24854
+Lynco,24857
+Matheny,24860
+Maybeury,24861
+Newhall,24866
+New Richmond,24867
+Northfork,24868
+North Spring,24869
+Oceana,24870
+Pageton,24871
+Panther,24872
+Paynesville,24873
+Pineville,24874
+Premier,24878
+Raysal,24879
+Rock View,24880
+Roderfield,24881
+Simon,24882
+Squire,24884
+Switchback,24887
+Thorpe,24888
+War,24892
+Warriormine,24894
+Alderson,24910
+Arbovale,24915
+Ballard,24918
+Bartow,24920
+Buckeye,24924
+Cass,24927
+Crawley,24931
+Dunmore,24934
+Gap Mills,24941
+Green Bank,24944
+Lindside,24951
+Marlinton,24954
+Maxwelton,24957
+Pence Springs,24962
+Peterstown,24963
+Renick,24966
+Ronceverte,24970
+Secondcreek,24974
+Sinks Grove,24976
+Smoot,24977
+Talcott,24981
+Waiteville,24984
+Alloy,25002
+Alum Creek,25003
+Amma,25005
+Arnett,25007
+Artie,25008
+Bancroft,25011
+Belle,25015
+Bickmore,25019
+Bim,25021
+Blair,25022
+Bloomingrose,25024
+Blount,25025
+Bob White,25028
+Bomont,25030
+Boomer,25031
+Cabin Creek,25035
+Cannelton,25036
+Charlton Heights,25040
+Clear Creek,25044
+Clendenin,25045
+Clothier,25047
+Colcord,25048
+Comfort,25049
+Costa,25051
+Dawes,25054
+Deep Water,25057
+Dixie,25059
+Drybranch,25061
+Dry Creek,25062
+Duck,25063
+East Bank,25067
+Eleanor,25070
+Elkview,25071
+Eskdale,25075
+Ethel,25076
+Fraziers Bottom,25082
+Gallagher,25083
+Gauley Bridge,25085
+Glen Ferris,25090
+Handley,25102
+Hansford,25103
+Hernshaw,25107
+Hewett,25108
+Hometown,25109
+Hugheston,25110
+Indore,25111
+Institute,25112
+Ivydale,25113
+Jeffrey,25114
+Kanawha Falls,25115
+Kimberly,25118
+Kincaid,25119
+Lake,25121
+Leon,25123
+Lizemores,25125
+London,25126
+Mammoth,25132
+Maysel,25133
+Miami,25134
+Mount Carbon,25139
+Naoma,25140
+Nebo,25141
+Nellis,25142
+Nitro,25143
+Orgas,25148
+Ottawa,25149
+Page,25152
+Peytona,25154
+Pinch,25156
+Poca,25159
+Pond Gap,25160
+Powellton,25161
+Pratt,25162
+Procious,25164
+Racine,25165
+Ridgeview,25169
+Robson,25173
+Rock Creek,25174
+Saxon,25180
+Seth,25181
+Sharples,25183
+Mount Olive,25185
+Smithers,25186
+Southside,25187
+Sylvester,25193
+Tad,25201
+Tornado,25202
+Twilight,25204
+Uneeda,25205
+Van,25206
+Widen,25211
+Winifrede,25214
+Arnoldsburg,25234
+Chloe,25235
+Cottageville,25239
+Evans,25241
+Gandeeville,25243
+Gay,25244
+Given,25245
+Kenna,25248
+Left Hand,25251
+Letart,25253
+Looneyville,25259
+Mason,25260
+Millstone,25261
+Mount Alto,25264
+Normantown,25267
+Orma,25268
+Reedy,25270
+Sandyville,25275
+Wallback,25285
+West Columbia,25287
+South Charleston,25303
+Berkeley Springs,25411
+Bunker Hill,25413
+Charles Town,25414
+Falling Waters,25419
+Gerrardstown,25420
+Great Cacapon,25422
+Harpers Ferry,25425
+Hedgesville,25427
+Kearneysville,25430
+Levels,25431
+Paw Paw,25434
+Points,25437
+Ranson,25438
+Shenandoah Junction,25442
+Shepherdstown,25443
+Slanesville,25444
+Summit Point,25446
+Alkol,25501
+Apple Grove,25502
+Big Creek,25505
+Branchland,25506
+Ceredo,25507
+Chapmanville,25508
+Culloden,25510
+Dunlow,25511
+East Lynn,25512
+Fort Gay,25514
+Gallipolis Ferry,25515
+Griffithsville,25521
+Harts,25524
+Hurricane,25526
+Kenova,25530
+Kiahsville,25534
+Lavalette,25535
+Lesage,25537
+Midkiff,25540
+Ona,25545
+Pecks Mill,25547
+Prichard,25555
+Ranger,25557
+Salt Rock,25559
+Scott Depot,25560
+Sod,25564
+Spurlockville,25565
+Sumerco,25567
+West Hamlin,25571
+Yawkey,25573
+Logan,25601
+Accoville,25606
+Amherstdale,25607
+Baisden,25608
+Bruno,25611
+Davin,25617
+Henlawson,25624
+Kistler,25628
+Lorado,25630
+Lyburn,25632
+Man,25635
+Mount Gay,25637
+Omar,25638
+Peach Creek,25639
+Sarah Ann,25644
+Stollings,25646
+Switzer,25647
+Verdunville,25649
+Verner,25650
+Wharncliffe,25651
+Wilkinson,25653
+Yolyn,25654
+Breeden,25666
+Crum,25669
+Delbarton,25670
+Dingess,25671
+Edgarton,25672
+Kermit,25674
+Lenore,25676
+Matewan,25678
+North Matewan,25688
+Ragland,25690
+Red Jacket,25692
+Varney,25696
+Wilsondale,25699
+Beckley,25801
+Allen Junction,25810
+Amigo,25811
+Ansted,25812
+Bolt,25817
+Camp Creek,25820
+Coal City,25823
+Cool Ridge,25825
+Corinne,25826
+Crab Orchard,25827
+Danese,25831
+Daniels,25832
+Eccles,25836
+Edmond,25837
+Fairdale,25839
+Flat Top,25841
+Glen Daniel,25844
+Glen Fork,25845
+Glen Jean,25846
+Glen Rogers,25848
+Glen White,25849
+Helen,25853
+Hico,25854
+Hilltop,25855
+Layland,25864
+Lester,25865
+Lookout,25868
+Maben,25870
+Mabscott,25871
+Mac Arthur,25873
+Mc Graws,25875
+Saulsville,25876
+Minden,25879
+Mount Hope,25880
+Mullens,25882
+Odd,25902
+Pax,25904
+Piney View,25906
+Prince,25907
+Princewick,25908
+Raleigh,25911
+Ravencliff,25913
+Rhodell,25915
+Sabine,25916
+Scarbro,25917
+Shady Spring,25918
+Slab Fork,25920
+Sophia,25921
+Spanishburg,25922
+Surveyor,25932
+Thurmond,25936
+Winona,25942
+Charmco,25958
+Rainelle,25962
+Jumping Branch,25969
+Lerona,25971
+Leslie,25972
+Meadow Bridge,25976
+Meadow Creek,25977
+Nimitz,25978
+Pipestem,25979
+Quinwood,25981
+Rupert,25984
+Sandstone,25985
+White Oak,25989
+Wheeling,26003
+Beech Bottom,26030
+Benwood,26031
+Colliers,26035
+Follansbee,26037
+Glen Dale,26038
+Glen Easton,26039
+Mcmechen,26040
+Moundsville,26041
+New Manchester,26056
+Triadelphia,26059
+Valley Grove,26060
+Weirton,26062
+West Liberty,26074
+Windsor Heights,26075
+Parkersburg,26101
+Big Bend,26136
+Big Springs,26137
+Brohard,26138
+Creston,26141
+Davisville,26142
+Friendly,26146
+Macfarlan,26148
+Middlebourne,26149
+Mineral Wells,26150
+Mount Zion,26151
+Munday,26152
+New Martinsville,26155
+Paden City,26159
+Palestine,26160
+Petroleum,26161
+Ravenswood,26164
+Reader,26167
+Sistersville,26175
+Smithville,26178
+Walker,26180
+Buckhannon,26201
+Fenwick,26202
+Erbacon,26203
+Cowen,26206
+Camden On Gauley,26208
+Snowshoe,26209
+Diana,26217
+French Creek,26218
+Hacker Valley,26222
+Helvetia,26224
+Kanawha Head,26228
+Pickens,26230
+Rock Cave,26234
+Tallmansville,26237
+Volga,26238
+Belington,26250
+Bowden,26254
+Coalton,26257
+Dailey,26259
+Davis,26260
+Dryfork,26263
+Durbin,26264
+Upperglade,26266
+Ellamore,26267
+Glady,26268
+Hambleton,26269
+Harman,26270
+Hendricks,26271
+Huttonsville,26273
+Junior,26275
+Kerens,26276
+Mabie,26278
+Monterville,26282
+Parsons,26287
+Webster Springs,26288
+Slatyfork,26291
+Thomas,26292
+Valley Bend,26293
+Valley Head,26294
+Whitmer,26296
+Bergoo,26298
+Alum Bridge,26321
+Anmoore,26323
+Berea,26327
+Burnsville,26335
+Center Point,26339
+Coxs Mills,26342
+Crawford,26343
+Ellenboro,26346
+Galloway,26349
+Gypsy,26361
+Hepzibah,26369
+Horner,26372
+Ireland,26376
+Jacksonburg,26377
+Jane Lew,26378
+Linn,26384
+Lumberport,26386
+Meadowbrook,26404
+Moatsville,26405
+Mount Clare,26408
+New Milton,26411
+Orlando,26412
+Pennsboro,26415
+Philippi,26416
+Pullman,26421
+Rosemont,26424
+Rowlesburg,26425
+Sand Fork,26430
+Shinnston,26431
+Simpson,26435
+Smithburg,26436
+Spelter,26438
+Tunnelton,26444
+Wallace,26448
+West Union,26456
+Albright,26519
+Arthurdale,26520
+Blacksville,26521
+Bruceton Mills,26525
+Kingwood,26537
+Maidsville,26541
+Osage,26543
+Fairmont,26554
+Barrackville,26559
+Baxter,26560
+Burton,26562
+Enterprise,26568
+Four States,26572
+Grant Town,26574
+Hundred,26575
+Idamay,26576
+Mannington,26582
+Metz,26585
+Montana Mines,26586
+Rachel,26587
+Rivesville,26588
+Wana,26590
+Birch River,26610
+Copen,26615
+Dille,26617
+Exchange,26619
+Flatwoods,26621
+Frametown,26623
+Gassaway,26624
+Heaters,26627
+Little Birch,26629
+Napier,26631
+Shock,26638
+Summersville,26651
+Belva,26656
+Canvas,26662
+Leivasy,26676
+Mount Lookout,26678
+Mount Nebo,26679
+Nallen,26680
+Nettie,26681
+Pool,26684
+Swiss,26690
+Bayard,26707
+Capon Bridge,26711
+Delray,26714
+Eglon,26716
+Elk Garden,26717
+Fort Ashby,26719
+Gormania,26720
+Green Spring,26722
+Keyser,26726
+Lahmansville,26731
+Mount Storm,26739
+New Creek,26743
+Piedmont,26750
+Ridgeley,26753
+Rio,26755
+Romney,26757
+Shanks,26761
+Terra Alta,26764
+Wiley Ford,26767
+Baker,26801
+High View,26808
+Lost City,26810
+Mathias,26812
+Bloomery,26817
+Fisher,26818
+Capon Springs,26823
+Maysville,26833
+Moorefield,26836
+Old Fields,26845
+Wardensville,26851
+Purgitsville,26852
+Cabins,26855
+Yellow Spring,26865
+Upper Tract,26866
+Seneca Rocks,26884

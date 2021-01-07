@@ -1,0 +1,495 @@
+North Carolina
+Advance,27006
+Belews Creek,27009
+Clemmons,27012
+Cooleemee,27014
+Dobson,27017
+East Bend,27018
+Germanton,27019
+Hamptonville,27020
+King,27021
+Lawsonville,27022
+Lewisville,27023
+Lowgap,27024
+Mayodan,27027
+Mocksville,27028
+Pfafftown,27040
+Pilot Mountain,27041
+Pine Hall,27042
+Pinnacle,27043
+Rural Hall,27045
+Siloam,27047
+Stoneville,27048
+Tobaccoville,27050
+Walkertown,27051
+Walnut Cove,27052
+Woodleaf,27054
+Yadkinville,27055
+Winston Salem,27101
+Alamance,27201
+Asheboro,27203
+Bennett,27208
+Biscoe,27209
+Blanch,27212
+Browns Summit,27214
+Colfax,27235
+Eagle Springs,27242
+Efland,27243
+Elon,27244
+Gibsonville,27249
+Goldston,27252
+Graham,27253
+Haw River,27258
+High Point,27260
+Jackson Springs,27281
+Kernersville,27284
+Leasburg,27291
+Mc Leansville,27301
+Mebane,27302
+Mount Gilead,27306
+Pittsboro,27312
+Pleasant Garden,27313
+Prospect Hill,27314
+Ramseur,27316
+Randleman,27317
+Reidsville,27320
+Robbins,27325
+Ruffin,27326
+Saxapahaw,27340
+Seagrove,27341
+Semora,27343
+Siler City,27344
+Snow Camp,27349
+Staley,27355
+Star,27356
+Stokesdale,27357
+Summerfield,27358
+Trinity,27370
+West End,27376
+Whitsett,27377
+Yanceyville,27379
+Angier,27501
+Apex,27502
+Bahama,27503
+Benson,27504
+Bullock,27507
+Bunn,27508
+Butner,27509
+Carrboro,27510
+Cary,27511
+Chapel Hill,27514
+Coats,27521
+Creedmoor,27522
+Four Oaks,27524
+Franklinton,27525
+Fuquay Varina,27526
+Garner,27529
+Holly Springs,27540
+Hurdle Mills,27541
+Kenly,27542
+Kittrell,27544
+Knightdale,27545
+Lillington,27546
+Louisburg,27549
+Macon,27551
+Manson,27553
+Micro,27555
+Moncure,27559
+New Hill,27562
+Norlina,27563
+Pine Level,27568
+Rolesville,27571
+Rougemont,27572
+Roxboro,27573
+Stem,27581
+Stovall,27582
+Timberlake,27583
+Wake Forest,27587
+Willow Spring,27592
+Zebulon,27597
+Aulander,27805
+Bailey,27807
+Battleboro,27809
+Belhaven,27810
+Blounts Creek,27814
+Castalia,27816
+Chocowinity,27817
+Como,27818
+Conetoe,27819
+Edward,27821
+Elm City,27822
+Engelhard,27824
+Everetts,27825
+Falkland,27827
+Fountain,27829
+Garysburg,27831
+Gaston,27832
+Grimesland,27837
+Hassell,27841
+Hobgood,27843
+Hollister,27844
+Kelford,27847
+Lewiston Woodville,27849
+Lucama,27851
+Macclesfield,27852
+Margarettsville,27853
+Murfreesboro,27855
+Nashville,27856
+Oak City,27857
+Pantego,27860
+Parmele,27861
+Pendleton,27862
+Pikeville,27863
+Pinetops,27864
+Pinetown,27865
+Pleasant Hill,27866
+Rich Square,27869
+Roanoke Rapids,27870
+Robersonville,27871
+Roxobel,27872
+Saratoga,27873
+Scotland Neck,27874
+Seaboard,27876
+Sims,27880
+Speed,27881
+Spring Hope,27882
+Stantonsburg,27883
+Stokes,27884
+Swanquarter,27885
+Tarboro,27886
+Walstonburg,27888
+Weldon,27890
+Whitakers,27891
+Williamston,27892
+Elizabeth City,27909
+Ahoskie,27910
+Aydlett,27916
+Barco,27917
+Cofield,27922
+Coinjock,27923
+Colerain,27924
+Corapeake,27926
+Corolla,27927
+Creswell,27928
+Currituck,27929
+Edenton,27932
+Eure,27935
+Frisco,27936
+Gates,27937
+Gatesville,27938
+Grandy,27939
+Harbinger,27941
+Harrellsville,27942
+Hatteras,27943
+Hertford,27944
+Hobbsville,27946
+Jarvisburg,27947
+Kill Devil Hills,27948
+Kitty Hawk,27949
+Knotts Island,27950
+Manns Harbor,27953
+Manteo,27954
+Maple,27956
+Merry Hill,27957
+Moyock,27958
+Nags Head,27959
+Ocracoke,27960
+Point Harbor,27964
+Poplar Branch,27965
+Powells Point,27966
+Powellsville,27967
+Rodanthe,27968
+Roper,27970
+Salvo,27972
+Shawboro,27973
+South Mills,27976
+Stumpy Point,27978
+Tyner,27980
+Wanchese,27981
+Waves,27982
+Winfall,27985
+Winton,27986
+Albemarle,28001
+Alexis,28006
+Ansonville,28007
+Badin,28009
+Bessemer City,28016
+Bostic,28018
+Caroleen,28019
+Casar,28020
+China Grove,28023
+Cornelius,28031
+Cramerton,28032
+Crouse,28033
+Davidson,28036
+East Spencer,28039
+Gastonia,28052
+Gold Hill,28071
+Granite Quarry,28072
+Grover,28073
+High Shoals,28077
+Huntersville,28078
+Indian Trail,28079
+Iron Station,28080
+Kannapolis,28081
+Kings Mountain,28086
+Landis,28088
+Lattimore,28089
+Lawndale,28090
+Lilesville,28091
+Lincolnton,28092
+Locust,28097
+Mc Adenville,28101
+Mc Farlan,28102
+Marshville,28103
+Matthews,28104
+Misenheimer,28109
+Mooresboro,28114
+Mooresville,28115
+Morven,28119
+Mount Ulla,28125
+Oakboro,28129
+Peachland,28133
+Polkton,28135
+Rockwell,28138
+Rutherfordton,28139
+Shelby,28150
+Spindale,28160
+Stanfield,28163
+Troutman,28166
+Union Mills,28167
+Vale,28168
+Waco,28169
+Wadesboro,28170
+Waxhaw,28173
+Fort Bragg,28307
+Pope Army Airfield,28308
+Autryville,28318
+Bladenboro,28320
+Bunnlevel,28323
+Calypso,28325
+Dunn,28334
+Ellerbe,28338
+Erwin,28339
+Faison,28341
+Falcon,28342
+Gibson,28343
+Godwin,28344
+Hamlet,28345
+Hoffman,28347
+Hope Mills,28348
+Kenansville,28349
+Lakeview,28350
+Laurel Hill,28351
+Laurinburg,28352
+Lumber Bridge,28357
+Marston,28363
+Maxton,28364
+Newton Grove,28366
+Norman,28367
+Orrum,28369
+Pinebluff,28373
+Pinehurst,28374
+Proctorville,28375
+Raeford,28376
+Red Springs,28377
+Rockingham,28379
+Roseboro,28382
+Saint Pauls,28384
+Salemburg,28385
+Shannon,28386
+Southern Pines,28387
+Stedman,28391
+Tar Heel,28392
+Turkey,28393
+Vass,28394
+Wade,28395
+Wagram,28396
+Ash,28420
+Bolivia,28422
+Burgaw,28425
+Carolina Beach,28428
+Castle Hayne,28429
+Cerro Gordo,28430
+Chadbourn,28431
+Clarkton,28433
+Council,28434
+Currie,28435
+Delco,28436
+Evergreen,28438
+Fair Bluff,28439
+Hallsboro,28442
+Harrells,28444
+Holly Ridge,28445
+Kelly,28448
+Kure Beach,28449
+Lake Waccamaw,28450
+Leland,28451
+Longwood,28452
+Maple Hill,28454
+Nakina,28455
+Riegelwood,28456
+Sneads Ferry,28460
+Supply,28462
+Tabor City,28463
+Teachey,28464
+Oak Island,28465
+Calabash,28467
+Sunset Beach,28468
+Ocean Isle Beach,28469
+Shallotte,28470
+Whiteville,28472
+Winnabow,28479
+Wrightsville Beach,28480
+Kinston,28501
+Arapahoe,28510
+Ayden,28513
+Bayboro,28515
+Beaufort,28516
+Beulaville,28518
+Cedar Island,28520
+Chinquapin,28521
+Cove City,28523
+Deep Run,28525
+Ernul,28527
+Grantsboro,28529
+Grifton,28530
+Harkers Island,28531
+Havelock,28532
+Cherry Point,28533
+Hobucken,28537
+Hookerton,28538
+Hubert,28539
+Tarawa Terrace,28543
+Midway Park,28544
+Camp Lejeune,28547
+La Grange,28551
+Lowland,28552
+Marshallberg,28553
+Maury,28554
+Merritt,28556
+Morehead City,28557
+New Bern,28560
+Oriental,28571
+Pink Hill,28572
+Pollocksville,28573
+Salter Path,28575
+Sealevel,28577
+Seven Springs,28578
+Stacy,28581
+Stella,28582
+Stonewall,28583
+Swansboro,28584
+Vandemere,28587
+Winterville,28590
+Emerald Isle,28594
+Banner Elk,28604
+Blowing Rock,28605
+Boone,28607
+Collettsville,28611
+Connelly Springs,28612
+Conover,28613
+Crossnore,28616
+Crumpler,28617
+Deep Gap,28618
+Drexel,28619
+Elkin,28621
+Elk Park,28622
+Ennice,28623
+Ferguson,28624
+Statesville,28625
+Glade Valley,28627
+Glen Alpine,28628
+Glendale Springs,28629
+Granite Falls,28630
+Grassy Creek,28631
+Hays,28635
+Hiddenite,28636
+Hildebran,28637
+Laurel Springs,28644
+Lenoir,28645
+Linville Falls,28647
+Mc Grady,28649
+Maiden,28650
+Millers Creek,28651
+Minneapolis,28652
+Moravian Falls,28654
+Morganton,28655
+Newland,28657
+North Wilkesboro,28659
+Olin,28660
+Pineola,28662
+Piney Creek,28663
+Purlear,28665
+Icard,28666
+Rhodhiss,28667
+Roaring Gap,28668
+Roaring River,28669
+Ronda,28670
+Rutherford College,28671
+Scottville,28672
+Sherrills Ford,28673
+State Road,28676
+Taylorsville,28681
+Terrell,28682
+Traphill,28685
+Union Grove,28689
+Valdese,28690
+Vilas,28692
+Warrensville,28693
+West Jefferson,28694
+Wilkesboro,28697
+Zionville,28698
+Bakersville,28705
+Balsam,28707
+Balsam Grove,28708
+Barnardsville,28709
+Black Mountain,28711
+Brevard,28712
+Bryson City,28713
+Candler,28715
+Cashiers,28717
+Cedar Mountain,28718
+Cherokee,28719
+Chimney Rock,28720
+Cullowhee,28723
+Dillsboro,28725
+East Flat Rock,28726
+Etowah,28729
+Flat Rock,28731
+Fletcher,28732
+Fontana Dam,28733
+Gerton,28735
+Hendersonville,28739
+Green Mountain,28740
+Horse Shoe,28742
+Lake Junaluska,28745
+Lake Lure,28746
+Lake Toxaway,28747
+Little Switzerland,28749
+Maggie Valley,28751
+Mill Spring,28756
+Montreat,28757
+Mills River,28759
+Old Fort,28762
+Otto,28763
+Penrose,28766
+Pisgah Forest,28768
+Rosman,28772
+Sapphire,28774
+Scaly Mountain,28775
+Spruce Pine,28777
+Swannanoa,28778
+Sylva,28779
+Tryon,28782
+Tuckasegee,28783
+Waynesville,28785
+Weaverville,28787
+Whittier,28789
+Zirconia,28790
+Asheville,28801
+Andrews,28901
+Brasstown,28902
+Hayesville,28904
+Murphy,28906
+Warne,28909

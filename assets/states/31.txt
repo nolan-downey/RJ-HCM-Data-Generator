@@ -1,0 +1,1263 @@
+New York
+Fishers Island,6390
+New York,10001
+Staten Island,10301
+Bronx,10451
+Amawalk,10501
+Ardsley,10502
+Ardsley On Hudson,10503
+Armonk,10504
+Baldwin Place,10505
+Bedford Hills,10507
+Briarcliff Manor,10510
+Buchanan,10511
+Chappaqua,10514
+Cold Spring,10516
+Crompond,10517
+Cross River,10518
+Croton Falls,10519
+Croton On Hudson,10520
+Dobbs Ferry,10522
+Elmsford,10523
+Garrison,10524
+Goldens Bridge,10526
+Granite Springs,10527
+Hartsdale,10530
+Jefferson Valley,10535
+Katonah,10536
+Lake Peekskill,10537
+Larchmont,10538
+Mahopac,10541
+Mamaroneck,10543
+Maryknoll,10545
+Millwood,10546
+Mohegan Lake,10547
+Montrose,10548
+Mount Kisco,10549
+North Salem,10560
+Ossining,10562
+Peekskill,10566
+Cortlandt Manor,10567
+Port Chester,10573
+Pound Ridge,10576
+Purchase,10577
+Purdys,10578
+Putnam Valley,10579
+Scarsdale,10583
+Shrub Oak,10588
+South Salem,10590
+Tarrytown,10591
+Thornwood,10594
+Valhalla,10595
+Verplanck,10596
+Waccabuc,10597
+Yorktown Heights,10598
+White Plains,10601
+West Harrison,10604
+Yonkers,10701
+Hastings On Hudson,10706
+Tuckahoe,10707
+Bronxville,10708
+Eastchester,10709
+New Rochelle,10801
+Suffern,10901
+Arden,10910
+Bear Mountain,10911
+Blauvelt,10913
+Blooming Grove,10914
+Bullville,10915
+Campbell Hall,10916
+Central Valley,10917
+Circleville,10919
+Congers,10920
+Fort Montgomery,10922
+Garnerville,10923
+Greenwood Lake,10925
+Harriman,10926
+Haverstraw,10927
+Highland Falls,10928
+Highland Mills,10930
+Hillburn,10931
+Howells,10932
+Monsey,10952
+Mountainville,10953
+Nanuet,10954
+New City,10956
+Nyack,10960
+Orangeburg,10962
+Otisville,10963
+Palisades,10964
+Pearl River,10965
+Pine Island,10969
+Slate Hill,10973
+Sloatsburg,10974
+Southfields,10975
+Sparkill,10976
+Spring Valley,10977
+Sterling Forest,10979
+Stony Point,10980
+Tappan,10983
+Thiells,10984
+Thompson Ridge,10985
+Tomkins Cove,10986
+Tuxedo Park,10987
+Valley Cottage,10989
+Washingtonville,10992
+West Haverstraw,10993
+West Nyack,10994
+West Point,10996
+Westtown,10998
+Floral Park,11001
+Elmont,11003
+Glen Oaks,11004
+Franklin Square,11010
+Great Neck,11020
+Manhasset,11030
+New Hyde Park,11040
+Port Washington,11050
+Inwood,11096
+Long Island City,11101
+Astoria,11102
+Sunnyside,11104
+Flushing,11351
+College Point,11356
+Whitestone,11357
+Bayside,11359
+Little Neck,11362
+Oakland Gardens,11364
+Fresh Meadows,11365
+Corona,11368
+East Elmhurst,11369
+Jackson Heights,11372
+Elmhurst,11373
+Rego Park,11374
+Forest Hills,11375
+Woodside,11377
+Maspeth,11378
+Middle Village,11379
+Cambria Heights,11411
+Springfield Gardens,11413
+Howard Beach,11414
+Kew Gardens,11415
+Ozone Park,11416
+Richmond Hill,11418
+South Richmond Hill,11419
+South Ozone Park,11420
+Woodhaven,11421
+Rosedale,11422
+Bellerose,11426
+Queens Village,11427
+Mineola,11501
+Albertson,11507
+Atlantic Beach,11509
+Baldwin,11510
+Carle Place,11514
+Cedarhurst,11516
+East Rockaway,11518
+Garden City,11530
+Glen Cove,11542
+Glen Head,11545
+Glenwood Landing,11547
+Greenvale,11548
+Hempstead,11549
+West Hempstead,11552
+Uniondale,11553
+East Meadow,11554
+Hewlett,11557
+Island Park,11558
+Locust Valley,11560
+Long Beach,11561
+Lynbrook,11563
+Malverne,11565
+Merrick,11566
+Old Westbury,11568
+Point Lookout,11569
+Rockville Centre,11570
+Oceanside,11572
+Roslyn,11576
+Roslyn Heights,11577
+Sea Cliff,11579
+Valley Stream,11580
+Westbury,11590
+Williston Park,11596
+Woodmere,11598
+Far Rockaway,11691
+Arverne,11692
+Rockaway Park,11694
+Breezy Point,11697
+Amityville,11701
+Babylon,11702
+North Babylon,11703
+West Babylon,11704
+Bayport,11705
+Bay Shore,11706
+Bellmore,11710
+Bellport,11713
+Bethpage,11714
+Blue Point,11715
+Bohemia,11716
+Brentwood,11717
+Brightwaters,11718
+Brookhaven,11719
+Centereach,11720
+Centerport,11721
+Central Islip,11722
+Cold Spring Harbor,11724
+Commack,11725
+Copiague,11726
+Coram,11727
+Deer Park,11729
+East Islip,11730
+East Northport,11731
+East Norwich,11732
+East Setauket,11733
+Farmingville,11738
+Great River,11739
+Greenlawn,11740
+Holtsville,11742
+Huntington Station,11746
+Melville,11747
+Islandia,11749
+Islip,11751
+Islip Terrace,11752
+Kings Park,11754
+Lake Grove,11755
+Levittown,11756
+Lindenhurst,11757
+Massapequa,11758
+Massapequa Park,11762
+Miller Place,11764
+Mill Neck,11765
+Mount Sinai,11766
+Nesconset,11767
+Northport,11768
+Ocean Beach,11770
+Oyster Bay,11771
+Patchogue,11772
+Port Jefferson Station,11776
+Port Jefferson,11777
+Rocky Point,11778
+Ronkonkoma,11779
+Saint James,11780
+Sayville,11782
+Seaford,11783
+Selden,11784
+Smithtown,11787
+Hauppauge,11788
+Sound Beach,11789
+Stony Brook,11790
+Syosset,11791
+Wading River,11792
+Wantagh,11793
+West Islip,11795
+West Sayville,11796
+Wyandanch,11798
+Hicksville,11801
+Plainview,11803
+Old Bethpage,11804
+Riverhead,11901
+Amagansett,11930
+Aquebogue,11931
+Bridgehampton,11932
+Calverton,11933
+Center Moriches,11934
+Cutchogue,11935
+East Marion,11939
+East Moriches,11940
+East Quogue,11942
+Greenport,11944
+Hampton Bays,11946
+Jamesport,11947
+Laurel,11948
+Manorville,11949
+Mastic,11950
+Mastic Beach,11951
+Mattituck,11952
+Middle Island,11953
+Montauk,11954
+Moriches,11955
+New Suffolk,11956
+Peconic,11958
+Quogue,11959
+Remsenburg,11960
+Ridge,11961
+Sagaponack,11962
+Sag Harbor,11963
+Shelter Island,11964
+Shelter Island Heights,11965
+South Jamesport,11970
+Southold,11971
+Speonk,11972
+Wainscott,11975
+Water Mill,11976
+Westhampton,11977
+Westhampton Beach,11978
+Yaphank,11980
+Alcove,12007
+Alplaus,12008
+Altamont,12009
+Amsterdam,12010
+Austerlitz,12017
+Averill Park,12018
+Ballston Lake,12019
+Ballston Spa,12020
+Berne,12023
+Brainard,12024
+Broadalbin,12025
+Burnt Hills,12027
+Buskirk,12028
+Caroga Lake,12032
+Castleton On Hudson,12033
+Central Bridge,12035
+Charlotteville,12036
+Cherry Plain,12040
+Clarksville,12041
+Climax,12042
+Cobleskill,12043
+Coeymans,12045
+Coeymans Hollow,12046
+Cohoes,12047
+Coxsackie,12051
+Cropseyville,12052
+Delanson,12053
+Delmar,12054
+Duanesburg,12056
+Eagle Bridge,12057
+Earlton,12058
+East Berne,12059
+East Chatham,12060
+East Greenbush,12061
+East Nassau,12062
+East Schodack,12063
+East Worcester,12064
+Clifton Park,12065
+Esperance,12066
+Feura Bush,12067
+Fonda,12068
+Fort Hunter,12069
+Fort Johnson,12070
+Fultonham,12071
+Fultonville,12072
+Galway,12074
+Ghent,12075
+Gilboa,12076
+Glenmont,12077
+Gloversville,12078
+Guilderland,12084
+Guilderland Center,12085
+Hagaman,12086
+Hannacroix,12087
+Hoosick,12089
+Hoosick Falls,12090
+Howes Cave,12092
+Johnsonville,12094
+Johnstown,12095
+Kinderhook,12106
+Latham,12110
+Malden Bridge,12115
+Maryland,12116
+Mayfield,12117
+Mechanicville,12118
+Medusa,12120
+Middleburgh,12122
+Nassau,12123
+New Baltimore,12124
+New Lebanon,12125
+Niverville,12130
+North Blenheim,12131
+Northville,12134
+Old Chatham,12136
+Pattersonville,12137
+Petersburg,12138
+Piseco,12139
+Poestenkill,12140
+Ravena,12143
+Rensselaer,12144
+Rensselaerville,12147
+Rexford,12148
+Richmondville,12149
+Rotterdam Junction,12150
+Round Lake,12151
+Sand Lake,12153
+Schaghticoke,12154
+Schenevus,12155
+Schodack Landing,12156
+Schoharie,12157
+Selkirk,12158
+Slingerlands,12159
+Sloansville,12160
+South Bethlehem,12161
+Speculator,12164
+Spencertown,12165
+Sprakers,12166
+Stephentown,12168
+Stottville,12172
+Stuyvesant,12173
+Stuyvesant Falls,12174
+Surprise,12176
+Tribes Hill,12177
+Valatie,12184
+Valley Falls,12185
+Voorheesville,12186
+Warnerville,12187
+Watervliet,12189
+West Coxsackie,12192
+Westerlo,12193
+West Fulton,12194
+West Sand Lake,12196
+Wynantskill,12198
+Schenectady,12302
+Accord,12404
+Acra,12405
+Arkville,12406
+Bearsville,12409
+Big Indian,12410
+Bloomington,12411
+Boiceville,12412
+Cairo,12413
+Catskill,12414
+Connelly,12417
+Cornwallville,12418
+Cottekill,12419
+Cragsmoor,12420
+Denver,12421
+East Durham,12423
+East Jewett,12424
+Elka Park,12427
+Ellenville,12428
+Esopus,12429
+Fleischmanns,12430
+Glasco,12432
+Glenford,12433
+Grand Gorge,12434
+Greenfield Park,12435
+Haines Falls,12436
+Halcottsville,12438
+Hensonville,12439
+High Falls,12440
+Highmount,12441
+Hunter,12442
+Hurley,12443
+Jewett,12444
+Kerhonkson,12446
+Lake Hill,12448
+Lake Katrine,12449
+Lanesville,12450
+Malden On Hudson,12453
+Maplecrest,12454
+Margaretville,12455
+Mount Marion,12456
+Mount Tremper,12457
+Napanoch,12458
+New Kingston,12459
+Oak Hill,12460
+Olivebridge,12461
+Palenville,12463
+Phoenicia,12464
+Pine Hill,12465
+Port Ewen,12466
+Prattsville,12468
+Preston Hollow,12469
+Purling,12470
+Rifton,12471
+Rosendale,12472
+Round Top,12473
+Ruby,12475
+Saugerties,12477
+Shandaken,12480
+Shokan,12481
+South Cairo,12482
+Spring Glen,12483
+Stone Ridge,12484
+Tannersville,12485
+Tillson,12486
+Ulster Park,12487
+Wawarsing,12489
+West Camp,12490
+West Hurley,12491
+West Kill,12492
+West Park,12493
+West Shokan,12494
+Willow,12495
+Amenia,12501
+Ancram,12502
+Ancramdale,12503
+Annandale On Hudson,12504
+Barrytown,12507
+Beacon,12508
+Claverack,12513
+Clinton Corners,12514
+Clintondale,12515
+Copake,12516
+Copake Falls,12517
+Cornwall,12518
+Cornwall On Hudson,12520
+Craryville,12521
+Dover Plains,12522
+Elizaville,12523
+Fishkill,12524
+Germantown,12526
+Glenham,12527
+Highland,12528
+Hollowville,12530
+Holmes,12531
+Hopewell Junction,12533
+Lagrangeville,12540
+Maybrook,12543
+Millbrook,12545
+Millerton,12546
+Modena,12548
+Montgomery,12549
+Newburgh,12550
+New Windsor,12553
+New Paltz,12561
+Patterson,12563
+Pawling,12564
+Philmont,12565
+Pine Bush,12566
+Pine Plains,12567
+Pleasant Valley,12569
+Poughquag,12570
+Red Hook,12571
+Rhinebeck,12572
+Rhinecliff,12574
+Rock Tavern,12575
+Salisbury Mills,12577
+Salt Point,12578
+Staatsburg,12580
+Stanfordville,12581
+Stormville,12582
+Tivoli,12583
+Verbank,12585
+Walden,12586
+Wallkill,12589
+Wappingers Falls,12590
+Wassaic,12592
+Wingdale,12594
+Poughkeepsie,12601
+Barryville,12719
+Bloomingburg,12721
+Burlingham,12722
+Callicoon,12723
+Callicoon Center,12724
+Claryville,12725
+Cochecton,12726
+Cuddebackville,12729
+Eldred,12732
+Fallsburg,12733
+Ferndale,12734
+Fremont Center,12736
+Glen Spey,12737
+Glen Wild,12738
+Grahamsville,12740
+Hankins,12741
+Harris,12742
+Highland Lake,12743
+Hortonville,12745
+Huguenot,12746
+Hurleyville,12747
+Kauneonga Lake,12749
+Kenoza Lake,12750
+Kiamesha Lake,12751
+Lake Huntington,12752
+Livingston Manor,12758
+Loch Sheldrake,12759
+Long Eddy,12760
+Mongaup Valley,12762
+Mountain Dale,12763
+Narrowsburg,12764
+Neversink,12765
+North Branch,12766
+Obernburg,12767
+Parksville,12768
+Phillipsport,12769
+Pond Eddy,12770
+Port Jervis,12771
+Rock Hill,12775
+Roscoe,12776
+Forestburgh,12777
+Smallwood,12778
+South Fallsburg,12779
+Sparrow Bush,12780
+Summitville,12781
+Swan Lake,12783
+Thompsonville,12784
+Westbrookville,12785
+White Lake,12786
+White Sulphur Springs,12787
+Woodbourne,12788
+Woodridge,12789
+Wurtsboro,12790
+Youngsville,12791
+Yulan,12792
+Glens Falls,12801
+South Glens Falls,12803
+Queensbury,12804
+Adirondack,12808
+Argyle,12809
+Bakers Mills,12811
+Blue Mountain Lake,12812
+Bolton Landing,12814
+Brant Lake,12815
+Chestertown,12817
+Clemons,12819
+Comstock,12821
+Cossayuna,12823
+Diamond Point,12824
+Fort Ann,12827
+Fort Edward,12828
+Gansevoort,12831
+Greenfield Center,12833
+Hague,12836
+Hudson Falls,12839
+Huletts Landing,12841
+Indian Lake,12842
+Johnsburg,12843
+Kattskill Bay,12844
+Lake George,12845
+Lake Luzerne,12846
+Long Lake,12847
+Middle Granville,12849
+Middle Grove,12850
+Minerva,12851
+Newcomb,12852
+North Creek,12853
+North Hudson,12855
+North River,12856
+Olmstedville,12857
+Paradox,12858
+Porter Corners,12859
+Putnam Station,12861
+Riparius,12862
+Rock City Falls,12863
+Sabael,12864
+Saratoga Springs,12866
+Schroon Lake,12870
+Schuylerville,12871
+Severance,12872
+Shushan,12873
+Silver Bay,12874
+Stony Creek,12878
+Ticonderoga,12883
+Victory Mills,12884
+Warrensburg,12885
+Wevertown,12886
+Whitehall,12887
+Plattsburgh,12901
+Altona,12910
+Keeseville,12911
+Au Sable Forks,12912
+Bombay,12914
+Brushton,12916
+Burke,12917
+Cadyville,12918
+Champlain,12919
+Chateaugay,12920
+Chazy,12921
+Childwold,12922
+Churubusco,12923
+Constable,12926
+Cranberry Lake,12927
+Crown Point,12928
+Dannemora,12929
+Dickinson Center,12930
+Elizabethtown,12932
+Ellenburg,12933
+Ellenburg Center,12934
+Ellenburg Depot,12935
+Fort Covington,12937
+Gabriels,12939
+Keene Valley,12943
+Lake Clear,12945
+Lake Placid,12946
+Lewis,12950
+Lyon Mountain,12952
+Malone,12953
+Mineville,12956
+Moira,12957
+Mooers,12958
+Mooers Forks,12959
+Moriah,12960
+Moriah Center,12961
+Morrisonville,12962
+New Russia,12964
+Nicholville,12965
+North Bangor,12966
+North Lawrence,12967
+Paul Smiths,12970
+Piercefield,12973
+Port Henry,12974
+Port Kent,12975
+Rainbow Lake,12976
+Ray Brook,12977
+Redford,12978
+Rouses Point,12979
+Saint Regis Falls,12980
+Saranac,12981
+Saranac Lake,12983
+Schuyler Falls,12985
+Tupper Lake,12986
+Upper Jay,12987
+Vermontville,12989
+West Chazy,12992
+Willsboro,12996
+Witherbee,12998
+Apulia Station,13020
+Baldwinsville,13027
+Bernhards Bay,13028
+Brewerton,13029
+Camillus,13031
+Canastota,13032
+Cato,13033
+Cayuga,13034
+Cazenovia,13035
+Central Square,13036
+Chittenango,13037
+Cicero,13039
+Cincinnatus,13040
+Clay,13041
+Cleveland,13042
+Constantia,13044
+Cortland,13045
+Delphi Falls,13051
+De Ruyter,13052
+Dryden,13053
+Durhamville,13054
+East Syracuse,13057
+Elbridge,13060
+Erieville,13061
+Fabius,13063
+Fayetteville,13066
+Freeville,13068
+Fulton,13069
+Genoa,13071
+Hannibal,13074
+Hastings,13076
+Homer,13077
+Jamesville,13078
+Jordan,13080
+King Ferry,13081
+Kirkville,13082
+Lacona,13083
+La Fayette,13084
+Little York,13087
+Liverpool,13088
+Locke,13092
+Mc Graw,13101
+Mc Lean,13102
+Mallory,13103
+Manlius,13104
+Marcellus,13108
+Marietta,13110
+Martville,13111
+Memphis,13112
+Meridian,13113
+Minetto,13115
+Minoa,13116
+Montezuma,13117
+Moravia,13118
+Nedrow,13120
+New Woodstock,13122
+North Bay,13123
+North Pitcher,13124
+Oswego,13126
+Parish,13131
+Pennellville,13132
+Peterboro,13134
+Phoenix,13135
+Pitcher,13136
+Pompey,13138
+Port Byron,13140
+Preble,13141
+Pulaski,13142
+Red Creek,13143
+Sandy Creek,13145
+Savannah,13146
+Scipio Center,13147
+Seneca Falls,13148
+Skaneateles,13152
+Skaneateles Falls,13153
+South Otselic,13155
+Sylvan Beach,13157
+Truxton,13158
+Tully,13159
+Union Springs,13160
+Verona Beach,13162
+Wampsville,13163
+Warners,13164
+Waterloo,13165
+Weedsport,13166
+West Monroe,13167
+Syracuse,13202
+Alder Creek,13301
+Altmar,13302
+Ava,13303
+Barneveld,13304
+Beaver Falls,13305
+Blossvale,13308
+Boonville,13309
+Bouckville,13310
+Brantingham,13312
+Burlington Flats,13315
+Canajoharie,13317
+Cassville,13318
+Chadwicks,13319
+Clark Mills,13321
+Cold Brook,13324
+Constableville,13325
+Cooperstown,13326
+Croghan,13327
+Deansboro,13328
+Dolgeville,13329
+Eagle Bay,13331
+Earlville,13332
+East Springfield,13333
+Eaton,13334
+Edmeston,13335
+Fly Creek,13337
+Forestport,13338
+Fort Plain,13339
+Franklin Springs,13341
+Garrattsville,13342
+Glenfield,13343
+Greig,13345
+Hamilton,13346
+Hartwick,13348
+Herkimer,13350
+Hoffmeister,13353
+Holland Patent,13354
+Hubbardsville,13355
+Ilion,13357
+Inlet,13360
+Jordanville,13361
+Knoxboro,13362
+Lee Center,13363
+Leonardsville,13364
+Lowville,13367
+Lyons Falls,13368
+Marcy,13403
+Martinsburg,13404
+Middleville,13406
+Mohawk,13407
+Munnsville,13409
+Nelliston,13410
+New Berlin,13411
+New York Mills,13417
+Old Forge,13420
+Oneida,13421
+Oriskany,13424
+Oriskany Falls,13425
+Palatine Bridge,13428
+Port Leyden,13433
+Raquette Lake,13436
+Redfield,13437
+Remsen,13438
+Richfield Springs,13439
+Rome,13440
+Roseboom,13450
+Saint Johnsville,13452
+Salisbury Center,13454
+Sauquoit,13456
+Sharon Springs,13459
+Sherburne,13460
+Sherrill,13461
+Smyrna,13464
+Springfield Center,13468
+Stittville,13469
+Taberg,13471
+Thendara,13472
+Turin,13473
+Van Hornesville,13475
+Vernon Center,13477
+Westdale,13483
+West Eaton,13484
+West Edmeston,13485
+Westernville,13486
+West Leyden,13489
+West Winfield,13491
+Whitesboro,13492
+Woodgate,13494
+Yorkville,13495
+Utica,13501
+Fort Drum,13602
+Adams Center,13606
+Alexandria Bay,13607
+Antwerp,13608
+Black River,13612
+Brasher Falls,13613
+Brier Hill,13614
+Calcium,13616
+Cape Vincent,13618
+Carthage,13619
+Castorland,13620
+Chase Mills,13621
+Chaumont,13622
+Chippewa Bay,13623
+Colton,13625
+Copenhagen,13626
+Deferiet,13628
+De Kalb Junction,13630
+De Peyster,13633
+Edwards,13635
+Ellisburg,13636
+Evans Mills,13637
+Felts Mills,13638
+Fine,13639
+Wellesley Island,13640
+Fishers Landing,13641
+Gouverneur,13642
+Great Bend,13643
+Hammond,13646
+Hannawa Falls,13647
+Henderson,13650
+Henderson Harbor,13651
+Hermon,13652
+Heuvelton,13654
+Hogansburg,13655
+La Fargeville,13656
+Lorraine,13659
+Madrid,13660
+Mannsville,13661
+Massena,13662
+Natural Bridge,13665
+Newton Falls,13666
+Oswegatchie,13670
+Parishville,13672
+Philadelphia,13673
+Pierrepont Manor,13674
+Plessis,13675
+Potsdam,13676
+Pyrites,13677
+Raymondville,13678
+Redwood,13679
+Rensselaer Falls,13680
+Richville,13681
+Rodman,13682
+Sackets Harbor,13685
+South Colton,13687
+Star Lake,13690
+Theresa,13691
+Thousand Island Park,13692
+Three Mile Bay,13693
+Waddington,13694
+Wanakena,13695
+West Stockholm,13696
+Afton,13730
+Andes,13731
+Apalachin,13732
+Bainbridge,13733
+Bloomville,13739
+Bovina Center,13740
+Candor,13743
+Castle Creek,13744
+Chenango Forks,13746
+Conklin,13748
+Davenport,13750
+Davenport Center,13751
+Delancey,13752
+Delhi,13753
+Deposit,13754
+Downsville,13755
+East Branch,13756
+East Meredith,13757
+Endicott,13760
+Fishs Eddy,13774
+Gilbertsville,13776
+Glen Aubrey,13777
+Harford,13784
+Harpersfield,13786
+Harpursville,13787
+Hobart,13788
+Johnson City,13790
+Killawog,13794
+Kirkwood,13795
+Laurens,13796
+Lisle,13797
+Mc Donough,13801
+Maine,13802
+Marathon,13803
+Masonville,13804
+Meridale,13806
+Mount Upton,13809
+Mount Vision,13810
+Newark Valley,13811
+Nichols,13812
+Nineveh,13813
+Oneonta,13820
+Otego,13825
+Ouaquaga,13826
+Owego,13827
+Port Crane,13833
+Portlandville,13834
+Sidney,13838
+Sidney Center,13839
+Smithville Flats,13841
+South Kortright,13842
+South New Berlin,13843
+South Plymouth,13844
+Tioga Center,13845
+Treadwell,13846
+Trout Creek,13847
+Unadilla,13849
+Vestal,13850
+Walton,13856
+Wells Bridge,13859
+West Davenport,13860
+West Oneonta,13861
+Whitney Point,13862
+Willet,13863
+Willseyville,13864
+Binghamton,13901
+Akron,14001
+Alden,14004
+Alexander,14005
+Angola,14006
+Appleton,14008
+Arcade,14009
+Attica,14011
+Barker,14012
+Basom,14013
+Batavia,14020
+Bliss,14024
+Bowmansville,14026
+Burt,14028
+Chaffee,14030
+Clarence,14031
+Clarence Center,14032
+Colden,14033
+Collins,14034
+Collins Center,14035
+Corfu,14036
+Cowlesville,14037
+Dale,14039
+Darien Center,14040
+Delevan,14042
+Depew,14043
+Dunkirk,14048
+East Amherst,14051
+East Aurora,14052
+East Bethany,14054
+East Concord,14055
+Elba,14058
+Elma,14059
+Farmersville Station,14060
+Farnham,14061
+Forestville,14062
+Fredonia,14063
+Gainesville,14066
+Gasport,14067
+Getzville,14068
+Gowanda,14070
+Grand Island,14072
+Irving,14081
+Java Center,14082
+Lake View,14085
+Lawtons,14091
+Lockport,14094
+Marilla,14102
+Medina,14103
+Middleport,14105
+Niagara University,14109
+North Collins,14111
+North Evans,14112
+North Java,14113
+North Tonawanda,14120
+Olcott,14126
+Orchard Park,14127
+Perrysburg,14129
+Ransomville,14131
+Sanborn,14132
+Sardinia,14134
+Sheridan,14135
+Silver Creek,14136
+South Dayton,14138
+South Wales,14139
+Springville,14141
+Stafford,14143
+Strykersville,14145
+Tonawanda,14150
+Varysburg,14167
+Versailles,14168
+Wales Center,14169
+West Falls,14170
+West Valley,14171
+Wilson,14172
+Yorkshire,14173
+Youngstown,14174
+Buffalo,14201
+Niagara Falls,14301
+Bellona,14415
+Bergen,14416
+Branchport,14418
+Brockport,14420
+Byron,14422
+Caledonia,14423
+Canandaigua,14424
+Castile,14427
+Churchville,14428
+Clifton Springs,14432
+Clyde,14433
+Conesus,14435
+Dansville,14437
+East Rochester,14445
+Fairport,14450
+Geneseo,14454
+Geneva,14456
+Hamlin,14464
+Hemlock,14466
+Henrietta,14467
+Hilton,14468
+Holley,14470
+Honeoye,14471
+Honeoye Falls,14472
+Ionia,14475
+Kendall,14476
+Keuka Park,14478
+Knowlesville,14479
+Le Roy,14482
+Lima,14485
+Livonia,14487
+Macedon,14502
+Mount Morris,14510
+Mumford,14511
+North Chili,14514
+North Rose,14516
+Nunda,14517
+Ontario,14519
+Ovid,14521
+Pavilion,14525
+Penfield,14526
+Penn Yan,14527
+Phelps,14532
+Piffard,14533
+Portageville,14536
+Port Gibson,14537
+Retsof,14539
+Romulus,14541
+Rose,14542
+Rush,14543
+Rushville,14544
+Scottsburg,14545
+Scottsville,14546
+Shortsville,14548
+Silver Springs,14550
+Sodus,14551
+Sodus Point,14555
+Spencerport,14559
+Springwater,14560
+Stanley,14561
+Victor,14564
+Walworth,14568
+Warsaw,14569
+Waterport,14571
+West Bloomfield,14585
+West Henrietta,14586
+Willard,14588
+Williamson,14589
+Allegany,14706
+Alma,14708
+Angelica,14709
+Ashville,14710
+Bemus Point,14712
+Black Creek,14714
+Bolivar,14715
+Brocton,14716
+Caneadea,14717
+Cassadaga,14718
+Cattaraugus,14719
+Celoron,14720
+Ceres,14721
+Chautauqua,14722
+Cherry Creek,14723
+Clymer,14724
+Conewango Valley,14726
+Cuba,14727
+Dewittville,14728
+East Otto,14729
+Ellicottville,14731
+Falconer,14733
+Fillmore,14735
+Findley Lake,14736
+Frewsburg,14738
+Gerry,14740
+Great Valley,14741
+Greenhurst,14742
+Houghton,14744
+Kennedy,14747
+Kill Buck,14748
+Lily Dale,14752
+Little Genesee,14754
+Little Valley,14755
+Maple Springs,14756
+Mayville,14757
+Olean,14760
+Panama,14767
+Portville,14770
+Richburg,14774
+Ripley,14775
+Rushford,14777
+Saint Bonaventure,14778
+Salamanca,14779
+Sinclairville,14782
+Steamburg,14783
+Westons Mills,14788
+Alfred Station,14803
+Almond,14804
+Arkport,14807
+Atlanta,14808
+Avoca,14809
+Beaver Dams,14812
+Big Flats,14814
+Breesport,14816
+Brooktondale,14817
+Burdett,14818
+Cameron,14819
+Cameron Mills,14820
+Campbell,14821
+Canaseraga,14822
+Canisteo,14823
+Cayuta,14824
+Chemung,14825
+Cohocton,14826
+Coopers Plains,14827
+Corning,14830
+Dundee,14837
+Erin,14838
+Hammondsport,14840
+Hector,14841
+Himrod,14842
+Hornell,14843
+Horseheads,14845
+Hunt,14846
+Interlaken,14847
+Ithaca,14850
+Jasper,14855
+Kanona,14856
+Lindley,14858
+Lockwood,14859
+Lowman,14861
+Millport,14864
+Montour Falls,14865
+Odessa,14869
+Painted Post,14870
+Pine City,14871
+Pine Valley,14872
+Prattsburgh,14873
+Pulteney,14874
+Rexville,14877
+Rock Stream,14878
+Savona,14879
+Scio,14880
+Slaterville Springs,14881
+Lansing,14882
+Swain,14884
+Troupsburg,14885
+Trumansburg,14886
+Van Etten,14889
+Watkins Glen,14891
+Waverly,14892
+Wellsburg,14894
+Wellsville,14895
+Whitesville,14897
+Woodhull,14898
+Elmira,14901

@@ -1,0 +1,300 @@
+Maryland
+Waldorf,20601
+Abell,20606
+Accokeek,20607
+Aquasco,20608
+Avenue,20609
+Bel Alton,20611
+Benedict,20612
+Brandywine,20613
+Broomes Island,20615
+Bryans Road,20616
+Bryantown,20617
+Bushwood,20618
+Callaway,20620
+Chaptico,20621
+Charlotte Hall,20622
+Clements,20624
+Cobb Island,20625
+Coltons Point,20626
+Dameron,20628
+Dowell,20629
+Drayden,20630
+Faulkner,20632
+Great Mills,20634
+Hollywood,20636
+Huntingtown,20639
+Issue,20645
+Leonardtown,20650
+Lexington Park,20653
+Lusby,20657
+Marbury,20658
+Mechanicsville,20659
+Morganza,20660
+Nanjemoy,20662
+Park Hall,20667
+Patuxent River,20670
+Piney Point,20674
+Pomfret,20675
+Port Tobacco,20677
+Prince Frederick,20678
+Saint Inigoes,20684
+Saint Leonard,20685
+Saint Marys City,20686
+Solomons,20688
+Tall Timbers,20690
+Valley Lee,20692
+Welcome,20693
+Annapolis Junction,20701
+Beltsville,20705
+Lanham,20706
+Bladensburg,20710
+Lothian,20711
+Mount Rainier,20712
+North Beach,20714
+Bowie,20715
+Chesapeake Beach,20732
+Churchton,20733
+Owings,20736
+College Park,20740
+Capitol Heights,20743
+Oxon Hill,20745
+Suitland,20746
+District Heights,20747
+Temple Hills,20748
+Deale,20751
+Fort George G Meade,20755
+Andrews Air Force Base,20762
+Savage,20763
+Shady Side,20764
+Galesville,20765
+Glenn Dale,20769
+Greenbelt,20770
+Upper Marlboro,20772
+Harwood,20776
+West River,20778
+Tracys Landing,20779
+Hyattsville,20781
+Glen Echo,20812
+Bethesda,20814
+Chevy Chase,20815
+Cabin John,20818
+Olney,20832
+Brookeville,20833
+Poolesville,20837
+Boyds,20841
+Dickerson,20842
+Potomac,20854
+Derwood,20855
+Sandy Spring,20860
+Ashton,20861
+Brinklow,20862
+Burtonsville,20866
+Spencerville,20868
+Gaithersburg,20877
+Washington Grove,20880
+Montgomery Village,20886
+Kensington,20895
+Garrett Park,20896
+Silver Spring,20901
+Takoma Park,20912
+Aberdeen,21001
+Aberdeen Proving Ground,21005
+Abingdon,21009
+Gunpowder,21010
+Arnold,21012
+Bel Air,21014
+Belcamp,21017
+Cockeysville,21030
+Hunt Valley,21031
+Crownsville,21032
+Davidsonville,21035
+Edgewood,21040
+Ellicott City,21042
+Fallston,21047
+Finksburg,21048
+Forest Hill,21050
+Fork,21051
+Fort Howard,21052
+Gambrills,21054
+Gibson Island,21056
+Glen Arm,21057
+Glen Burnie,21060
+Glyndon,21071
+Elkridge,21075
+Harmans,21077
+Havre De Grace,21078
+Hydes,21082
+Jarrettsville,21084
+Joppa,21085
+Kingsville,21087
+Linthicum Heights,21090
+Lutherville Timonium,21093
+Marriottsville,21104
+Maryland Line,21105
+Monkton,21111
+Odenton,21113
+Crofton,21114
+Owings Mills,21117
+Parkton,21120
+Pasadena,21122
+Perry Hall,21128
+Perryman,21130
+Pylesville,21132
+Randallstown,21133
+Reisterstown,21136
+Riva,21140
+Severn,21144
+Severna Park,21146
+Sparks Glencoe,21152
+Stevenson,21153
+Street,21154
+Upperco,21155
+Upper Falls,21156
+Whiteford,21160
+White Hall,21161
+White Marsh,21162
+Baltimore,21201
+Towson,21204
+Gwynn Oak,21207
+Pikesville,21208
+Sparrows Point,21219
+Middle River,21220
+Dundalk,21222
+Curtis Bay,21226
+Halethorpe,21227
+Catonsville,21228
+Parkville,21234
+Windsor Mill,21244
+Annapolis,21401
+Accident,21520
+Bittinger,21522
+Corriganville,21524
+Ellerslie,21529
+Flintstone,21530
+Frostburg,21532
+Grantsville,21536
+Kitzmiller,21538
+Lonaconing,21539
+Luke,21540
+Mc Henry,21541
+Midlothian,21543
+Mount Savage,21545
+Oldtown,21555
+Rawlings,21557
+Westernport,21562
+Barclay,21607
+Betterton,21610
+Bozman,21612
+Church Creek,21622
+Church Hill,21623
+Claiborne,21624
+Cordova,21625
+Crapo,21626
+Crocheron,21627
+Crumpton,21628
+Denton,21629
+East New Market,21631
+Federalsburg,21632
+Fishing Creek,21634
+Galena,21635
+Goldsboro,21636
+Grasonville,21638
+Hillsboro,21641
+Hurlock,21643
+Ingleside,21644
+Kennedyville,21645
+Mcdaniel,21647
+Massey,21650
+Neavitt,21652
+Queen Anne,21657
+Queenstown,21658
+Rhodesdale,21659
+Ridgely,21660
+Rock Hall,21661
+Royal Oak,21662
+Saint Michaels,21663
+Secretary,21664
+Sherwood,21665
+Still Pond,21667
+Sudlersville,21668
+Taylors Island,21669
+Tilghman,21671
+Toddville,21672
+Trappe,21673
+Wingate,21675
+Wittman,21676
+Woolford,21677
+Worton,21678
+Wye Mills,21679
+Big Pool,21711
+Boonsboro,21713
+Braddock Heights,21714
+Buckeystown,21717
+Burkittsville,21718
+Cascade,21719
+Clear Spring,21722
+Cooksville,21723
+Emmitsburg,21727
+Fairplay,21733
+Funkstown,21734
+Glenelg,21737
+Hagerstown,21740
+Ijamsville,21754
+Keedysville,21756
+Keymar,21757
+Libertytown,21762
+Little Orleans,21766
+Maugansville,21767
+Monrovia,21770
+Mount Airy,21771
+Myersville,21773
+New Market,21774
+Point Of Rocks,21777
+Rocky Ridge,21778
+Rohrersville,21779
+Sabillasville,21780
+Sharpsburg,21782
+Smithsburg,21783
+Taneytown,21787
+Thurmont,21788
+Union Bridge,21791
+Walkersville,21793
+West Friendship,21794
+Woodsboro,21798
+Allen,21810
+Bishopville,21813
+Bivalve,21814
+Crisfield,21817
+Deal Island,21821
+Ewell,21824
+Fruitland,21826
+Girdletree,21829
+Linkwood,21835
+Mardela Springs,21837
+Marion Station,21838
+Parsonsburg,21849
+Pittsville,21850
+Pocomoke City,21851
+Princess Anne,21853
+Quantico,21856
+Sharptown,21861
+Showell,21862
+Snow Hill,21863
+Tyaskin,21865
+Tylerton,21866
+Upper Fairmount,21867
+Whaleyville,21872
+Willards,21874
+Perry Point,21902
+Perryville,21903
+Port Deposit,21904
+Rising Sun,21911
+Cecilton,21913
+Chesapeake City,21915
+Childs,21916
+Colora,21917
+Conowingo,21918
+Earleville,21919
+Elk Mills,21920
+Elkton,21921

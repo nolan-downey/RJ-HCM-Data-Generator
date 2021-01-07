@@ -1,0 +1,190 @@
+Colorado
+Arvada,80002
+Broomfield,80020
+Commerce City,80022
+Eldorado Springs,80025
+Wheat Ridge,80033
+Agate,80101
+Castle Rock,80104
+Deer Trail,80105
+Larkspur,80118
+Louviers,80131
+Palmer Lake,80133
+Bond,80423
+Buffalo Creek,80425
+Conifer,80433
+Cowdrey,80434
+Grand Lake,80447
+Hartsel,80449
+Hot Sulphur Springs,80451
+Idaho Springs,80452
+Idledale,80453
+Indian Hills,80454
+Kittredge,80457
+Kremmling,80459
+Leadville,80461
+Mc Coy,80463
+Pine,80470
+Pinecliffe,80471
+Rand,80473
+Silver Plume,80476
+Steamboat Springs,80477
+Tabernash,80478
+Toponas,80479
+Yampa,80483
+Silverthorne,80497
+Longmont,80501
+Allenspark,80510
+Estes Park,80511
+Bellvue,80512
+Berthoud,80513
+Dacono,80514
+Firestone,80520
+Fort Collins,80521
+Milliken,80543
+Niwot,80544
+Red Feather Lakes,80545
+Timnath,80547
+Ault,80610
+Briggsdale,80611
+Carr,80612
+Fort Lupton,80621
+Gilcrest,80623
+Keenesburg,80643
+Nunn,80648
+Roggen,80652
+Weldona,80653
+Fort Morgan,80701
+Log Lane Village,80705
+Brush,80723
+Crook,80726
+Eckley,80727
+Haxtun,80731
+Hillrose,80733
+Idalia,80735
+Iliff,80736
+Julesburg,80737
+Lindon,80740
+Merino,80741
+New Raymer,80742
+Padroni,80745
+Peetz,80747
+Woodrow,80757
+Arriba,80804
+Calhan,80808
+Cheyenne Wells,80810
+Flagler,80815
+Green Mountain Falls,80819
+Guffey,80820
+Joes,80822
+Karval,80823
+Kirk,80824
+Kit Carson,80825
+Limon,80828
+Manitou Springs,80829
+Matheson,80830
+Peyton,80831
+Ramah,80832
+Seibert,80834
+Simla,80835
+Usaf Academy,80840
+Vona,80861
+Wild Horse,80862
+Woodland Park,80863
+Colorado Springs,80902
+Pueblo,81001
+Aguilar,81020
+Boncarbo,81024
+Campo,81029
+Fort Lyon,81038
+Haswell,81045
+Kim,81049
+La Junta,81050
+Las Animas,81054
+La Veta,81055
+Mc Clave,81057
+Manzanola,81058
+Model,81059
+Olney Springs,81062
+Ordway,81063
+Pritchett,81064
+Sheridan Lake,81071
+Sugar City,81076
+Trinchera,81081
+Two Buttes,81084
+Walsenburg,81089
+Alamosa,81101
+Antonito,81120
+Arboles,81121
+Blanca,81123
+Capulin,81124
+Chama,81126
+Chromo,81128
+Conejos,81129
+Creede,81130
+Crestone,81131
+Del Norte,81132
+Fort Garland,81133
+Ignacio,81137
+Jaroso,81138
+La Jara,81140
+Manassa,81141
+Moffat,81143
+Monte Vista,81144
+Mosca,81146
+Pagosa Springs,81147
+Saguache,81149
+San Luis,81152
+Salida,81201
+Canon City,81212
+Coal Creek,81221
+Cotopaxi,81223
+Crested Butte,81224
+Nathrop,81236
+Poncha Springs,81242
+Powderhorn,81243
+Sargents,81248
+Westcliffe,81252
+Cahone,81320
+Dolores,81323
+Dove Creek,81324
+Egnar,81325
+Hesperus,81326
+Mancos,81328
+Mesa Verde National Park,81330
+Rico,81332
+Towaoc,81334
+Yellow Jacket,81335
+Bedrock,81411
+Cedaredge,81413
+Eckert,81418
+Hotchkiss,81419
+Naturita,81422
+Nucla,81424
+Ophir,81426
+Ouray,81427
+Paonia,81428
+Placerville,81430
+Redvale,81431
+Telluride,81435
+Fruita,81521
+Gateway,81522
+Glade Park,81523
+Mack,81525
+Glenwood Springs,81601
+Dinosaur,81610
+Aspen,81611
+Snowmass Village,81615
+Basalt,81621
+Collbran,81624
+De Beque,81630
+Parachute,81635
+Maybell,81640
+Mesa,81643
+Molina,81646
+Rangely,81648
+Red Cliff,81649
+Rifle,81650
+Silt,81652
+Snowmass,81654
+Woody Creek,81656

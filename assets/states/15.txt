@@ -1,0 +1,440 @@
+Iowa
+Ackworth,50001
+Adair,50002
+Alleman,50007
+Allerton,50008
+Ames,50010
+Ankeny,50021
+Bagley,50026
+Barnes City,50027
+Bevington,50033
+Blairsburg,50034
+Bondurant,50035
+Bouton,50039
+Brayton,50042
+Bussey,50044
+Casey,50048
+Chariton,50049
+Churdan,50050
+Colo,50056
+Coon Rapids,50058
+Melcher Dallas,50062
+Dallas Center,50063
+Davis City,50065
+Dows,50071
+Earlham,50072
+Ellston,50074
+Exira,50076
+Galt,50101
+Garden Grove,50103
+Grimes,50111
+Grinnell,50112
+Guthrie Center,50115
+Harvey,50119
+Humeston,50123
+Huxley,50124
+Iowa Falls,50126
+Ira,50127
+Kamrar,50132
+Kellerton,50133
+Kelley,50134
+Kellogg,50135
+Lamoni,50140
+Le Grand,50142
+Liscomb,50148
+Lorimor,50149
+Lovilia,50150
+Mc Callsburg,50154
+Malcom,50157
+Marshalltown,50158
+Martensdale,50160
+Maxwell,50161
+Minburn,50167
+Mingo,50168
+Mitchellville,50169
+Montour,50173
+New Virginia,50210
+Ogden,50212
+Otley,50214
+Panora,50216
+Paton,50217
+Pella,50219
+Pilot Mound,50223
+Popejoy,50227
+Prairie City,50228
+Prole,50229
+Radcliffe,50230
+Randall,50231
+Reasnor,50232
+Rippey,50235
+Roland,50236
+Runnells,50237
+Searsboro,50242
+Sheldahl,50243
+State Center,50247
+Story City,50248
+Sully,50251
+Swan,50252
+Thornburg,50255
+Tracy,50256
+Van Meter,50261
+Waukee,50263
+West Des Moines,50265
+What Cheer,50268
+Winterset,50273
+Wiota,50274
+Zearing,50278
+Des Moines,50309
+Urbandale,50322
+Clive,50325
+Mason City,50401
+Belmond,50421
+Britt,50423
+Buffalo Center,50424
+Carpenter,50426
+Clear Lake,50428
+Corwith,50430
+Coulter,50431
+Crystal Lake,50432
+Dougherty,50433
+Fertile,50434
+Goodell,50439
+Hanlontown,50444
+Joice,50446
+Kanawha,50447
+Kensett,50448
+Klemme,50449
+Lake Mills,50450
+Lakota,50451
+Latimer,50452
+Little Cedar,50454
+Mc Intire,50455
+Manly,50456
+Meservey,50457
+Nora Springs,50458
+Orchard,50460
+Rake,50465
+Rock Falls,50467
+Rowan,50470
+Rudd,50471
+Saint Ansgar,50472
+Scarville,50473
+Swaledale,50477
+Titonka,50480
+Ventura,50482
+Woden,50484
+Fort Dodge,50501
+Albert City,50510
+Algona,50511
+Armstrong,50514
+Ayrshire,50515
+Badger,50516
+Barnum,50518
+Bode,50519
+Bradgate,50520
+Callender,50523
+Curlew,50527
+Cylinder,50528
+Dakota City,50529
+Dolliver,50531
+Duncombe,50532
+Eagle Grove,50533
+Early,50535
+Emmetsburg,50536
+Farnhamville,50538
+Gilmore City,50541
+Goldfield,50542
+Gowrie,50543
+Harcourt,50544
+Jolley,50551
+Lehigh,50557
+Lone Rock,50559
+Lu Verne,50560
+Lytton,50561
+Mallard,50562
+Moorland,50566
+Nemaha,50567
+Otho,50569
+Ottosen,50570
+Plover,50573
+Rembrandt,50576
+Renwick,50577
+Ringsted,50578
+Rockwell City,50579
+Rolfe,50581
+Sac City,50583
+Sioux Rapids,50585
+Storm Lake,50588
+Swea City,50590
+Thor,50591
+Varina,50593
+Webster City,50595
+West Bend,50597
+Woolstock,50599
+Ackley,50601
+Alta Vista,50603
+Aplington,50604
+Aredale,50605
+Beaman,50609
+Cedar Falls,50613
+Colwell,50620
+Conrad,50621
+Dike,50624
+Dunkerton,50626
+Eldora,50627
+Garwin,50632
+Gladbrook,50635
+Grundy Center,50638
+Janesville,50647
+La Porte City,50651
+Marble Rock,50653
+Oelwein,50662
+Oran,50664
+Readlyn,50668
+Reinbeck,50669
+Shell Rock,50670
+Steamboat Rock,50672
+Traer,50675
+Tripoli,50676
+Westgate,50681
+Evansdale,50707
+Blockton,50836
+Diagonal,50845
+Fontanelle,50846
+Gravity,50848
+Nodaway,50857
+Shannon City,50861
+Tingley,50863
+Villisca,50864
+Alta,51002
+Anthon,51004
+Aurelia,51005
+Brunsville,51008
+Castana,51010
+Cleghorn,51014
+Correctionville,51016
+Galva,51020
+Hawarden,51023
+Holstein,51025
+Hornick,51026
+Ireton,51027
+Larrabee,51029
+Le Mars,51031
+Linn Grove,51033
+Marcus,51035
+Maurice,51036
+Moville,51039
+Onawa,51040
+Oto,51044
+Paullina,51046
+Peterson,51047
+Quimby,51049
+Schaller,51053
+Sergeant Bluff,51054
+Sloan,51055
+Ute,51060
+Washta,51061
+Sioux City,51101
+Alvord,51230
+Boyden,51234
+Doon,51235
+George,51237
+Hospers,51238
+Larchwood,51241
+Matlock,51244
+Primghar,51245
+Rock Rapids,51246
+Rock Valley,51247
+Sibley,51249
+Sioux Center,51250
+Arnolds Park,51331
+Dickens,51333
+Estherville,51334
+Everly,51338
+Gillett Grove,51341
+Graettinger,51342
+Hartley,51346
+Ocheyedan,51354
+Okoboji,51355
+Royal,51357
+Ruthven,51358
+Spirit Lake,51360
+Superior,51363
+Terril,51364
+Arthur,51431
+Breda,51436
+Charter Oak,51439
+Deloit,51441
+Denison,51442
+Glidden,51443
+Halbur,51444
+Ida Grove,51445
+Kirkman,51447
+Kiron,51448
+Lanesboro,51451
+Lohrville,51453
+Odebolt,51458
+Schleswig,51461
+Vail,51465
+Wall Lake,51466
+Westside,51467
+Council Bluffs,51501
+Carter Lake,51510
+Arion,51520
+Blencoe,51523
+Dow City,51528
+Earling,51530
+Griswold,51535
+Honey Creek,51542
+Kimballton,51543
+Little Sioux,51545
+Mc Clelland,51548
+Missouri Valley,51555
+Modale,51556
+Mondamin,51557
+Neola,51559
+Pacific Junction,51561
+Persia,51563
+Soldier,51572
+Treynor,51575
+Braddyville,51631
+Clarinda,51632
+Coin,51636
+College Springs,51637
+Imogene,51645
+Northboro,51647
+Percival,51648
+Tabor,51653
+Dubuque,52001
+Andrew,52030
+Colesburg,52035
+Durango,52039
+Dyersville,52040
+Elkader,52043
+Elkport,52044
+Farley,52046
+Garber,52048
+Garnavillo,52049
+Guttenberg,52052
+Holy Cross,52053
+La Motte,52054
+Maquoketa,52060
+Miles,52064
+North Buena Vista,52066
+Peosta,52068
+Sabula,52070
+Saint Olaf,52072
+Spragueville,52074
+Strawberry Point,52076
+Zwingle,52079
+Decorah,52101
+Calmar,52132
+Fort Atkinson,52144
+Hawkeye,52147
+Lawler,52154
+Lime Springs,52155
+Luana,52156
+Mc Gregor,52157
+Monona,52159
+New Albin,52160
+Postville,52162
+Protivin,52163
+Randalia,52164
+Saint Lucas,52166
+Spillville,52168
+Wadena,52169
+Waucoma,52171
+Waukon,52172
+Ainsworth,52201
+Alburnett,52202
+Amana,52203
+Anamosa,52205
+Belle Plaine,52208
+Center Junction,52212
+Clutier,52217
+Coggon,52218
+Prairieburg,52219
+Conroy,52220
+Guernsey,52221
+Ely,52227
+Harper,52231
+Hills,52235
+Iowa City,52240
+Coralville,52241
+Kalona,52247
+Keota,52248
+Ladora,52251
+Lost Nation,52254
+Lowden,52255
+Martelle,52305
+Middle Amana,52307
+Mount Auburn,52313
+North English,52316
+Onslow,52321
+Oxford Junction,52323
+Parnell,52325
+Quasqueton,52326
+Robins,52328
+Ryan,52330
+Shellsburg,52332
+South Amana,52334
+South English,52335
+Swisher,52338
+Tama,52339
+Van Horne,52346
+Vining,52348
+Walford,52351
+Watkins,52354
+Wellman,52356
+Cedar Rapids,52401
+Ottumwa,52501
+Agency,52530
+Albia,52531
+Blakesburg,52536
+Cantril,52542
+Douds,52551
+Drakesville,52552
+Eldon,52554
+Exline,52555
+Floris,52560
+Hedrick,52563
+Keosauqua,52565
+Libertyville,52567
+Ollie,52576
+Oskaloosa,52577
+Packwood,52580
+Plano,52581
+Promise City,52583
+Sigourney,52591
+Udell,52593
+Bonaparte,52620
+Donnellson,52625
+Fort Madison,52627
+Keokuk,52632
+Lockridge,52635
+Mediapolis,52637
+Morning Sun,52640
+Olds,52647
+Sperry,52650
+Wapello,52653
+West Burlington,52655
+Wever,52658
+Atalissa,52720
+Bettendorf,52722
+Calamus,52729
+Camanche,52730
+Columbus City,52737
+Columbus Junction,52738
+De Witt,52742
+Donahue,52746
+Goose Lake,52750
+Grand Mound,52751
+Le Claire,52753
+Letts,52754
+Lone Tree,52755
+Long Grove,52756
+Mc Causland,52758
+Muscatine,52761
+New Liberty,52765
+Walcott,52773
+Welton,52774

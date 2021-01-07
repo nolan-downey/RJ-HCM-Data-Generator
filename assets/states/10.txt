@@ -1,0 +1,348 @@
+Georgia
+Avondale Estates,30002
+Alpharetta,30004
+Conyers,30012
+Grayson,30017
+Dacula,30019
+Clarkston,30021
+Suwanee,30024
+Social Circle,30025
+Cumming,30028
+Decatur,30030
+Lithonia,30038
+Snellville,30039
+Lilburn,30047
+Loganville,30052
+Newborn,30056
+Porterdale,30070
+Norcross,30071
+Pine Lake,30072
+Roswell,30075
+Stone Mountain,30083
+Tucker,30084
+Peachtree Corners,30092
+Duluth,30096
+Adairsville,30103
+Aragon,30104
+Armuchee,30105
+Austell,30106
+Ball Ground,30107
+Bowdon,30108
+Lithia Springs,30122
+Cave Spring,30124
+Cedartown,30125
+Mableton,30126
+Powder Springs,30127
+Douglasville,30134
+Fairmount,30139
+Kennesaw,30144
+Lindale,30147
+Marble Hill,30148
+Mount Berry,30149
+Rockmart,30153
+Roopville,30170
+Rydal,30171
+Talking Rock,30175
+Tallapoosa,30176
+Tate,30177
+Villa Rica,30180
+Waleska,30183
+Whitesburg,30185
+Winston,30187
+Fairburn,30213
+Flovilla,30216
+Griffin,30223
+Hogansville,30230
+Jenkinsburg,30234
+Lovejoy,30250
+Luthersville,30251
+Mcdonough,30252
+Meansville,30256
+Milner,30257
+Molena,30258
+Moreland,30259
+Morrow,30260
+Newnan,30263
+Palmetto,30268
+Peachtree City,30269
+Rex,30273
+Sargent,30275
+Senoia,30276
+Sunny Side,30284
+The Rock,30285
+Conley,30288
+Ellenwood,30294
+Forest Park,30297
+Swainsboro,30401
+Ailey,30410
+Alamo,30411
+Alston,30412
+Brooklet,30415
+Claxton,30417
+Cobbtown,30420
+Daisy,30423
+Glennville,30427
+Hagan,30429
+Louisville,30434
+Metter,30439
+Midville,30441
+Millen,30442
+Nunez,30448
+Portal,30450
+Register,30452
+Rockledge,30454
+Rocky Ford,30455
+Sardis,30456
+Soperton,30457
+Statesboro,30458
+Stillmore,30464
+Sylvania,30467
+Twin City,30471
+Uvalda,30473
+Vidalia,30474
+Wadley,30477
+Alto,30510
+Bowersville,30516
+Braselton,30517
+Buford,30518
+Canon,30520
+Carnesville,30521
+Cherry Log,30522
+Clarkesville,30523
+Clermont,30527
+Commerce,30529
+Cornelia,30531
+Dahlonega,30533
+Dawsonville,30534
+Demorest,30535
+Ellijay,30536
+Dillard,30537
+Eastanollee,30538
+Epworth,30541
+Flowery Branch,30542
+Gillsville,30543
+Hiawassee,30546
+Hoschton,30548
+Lakemont,30552
+Lavonia,30553
+Lula,30554
+Mc Caysville,30555
+Mineral Bluff,30559
+Mountain City,30562
+Murrayville,30564
+Pendergrass,30567
+Rabun Gap,30568
+Sautee Nacoochee,30571
+Suches,30572
+Tallulah Falls,30573
+Talmo,30575
+Tiger,30576
+Toccoa,30577
+Wiley,30581
+Young Harris,30582
+Arnoldsville,30619
+Bogart,30622
+Bostwick,30623
+Buckhead,30625
+Colbert,30628
+Comer,30629
+Crawfordville,30631
+Dewy Rose,30634
+Elberton,30635
+Good Hope,30641
+Hartwell,30643
+Rayle,30660
+Royston,30662
+Rutledge,30663
+Statham,30666
+Stephens,30667
+Tignall,30668
+Union Point,30669
+Watkinsville,30677
+Winder,30680
+Calhoun,30701
+Chickamauga,30707
+Cisco,30708
+Cohutta,30710
+Crandall,30711
+Lyerly,30730
+Menlo,30731
+Resaca,30735
+Rising Fawn,30738
+Rock Spring,30739
+Rocky Face,30740
+Rossville,30741
+Fort Oglethorpe,30742
+Sugar Valley,30746
+Lookout Mountain,30750
+Tennga,30751
+Trion,30753
+Tunnel Hill,30755
+Varnell,30756
+Appling,30802
+Avera,30803
+Blythe,30805
+Camak,30807
+Dearing,30808
+Gracewood,30812
+Grovetown,30813
+Harlem,30814
+Hephzibah,30815
+Mitchell,30820
+Perkins,30822
+Stapleton,30823
+Thomson,30824
+Wrens,30833
+Bonaire,31005
+Byromville,31007
+Cadwell,31009
+Chauncey,31011
+Cochran,31014
+Cordele,31015
+Davisboro,31018
+Dry Branch,31020
+Eastman,31023
+Eatonton,31024
+East Dublin,31027
+Forsyth,31029
+Haddock,31033
+Hawkinsville,31036
+Mc Rae Helena,31037
+Ideal,31041
+Irwinton,31042
+Jewell,31045
+Juliette,31046
+Kathleen,31047
+Kite,31049
+Lizella,31052
+Marshallville,31057
+Mauk,31058
+Milledgeville,31061
+Musella,31066
+Oconee,31067
+Oglethorpe,31068
+Pineview,31071
+Pitts,31072
+Rentz,31075
+Reynolds,31076
+Rhine,31077
+Roberta,31078
+Sandersville,31082
+Seville,31084
+Shady Dale,31085
+Warner Robins,31088
+Tennille,31089
+Toomsboro,31090
+Warthen,31094
+Yatesville,31097
+Clyo,31303
+Ellabell,31308
+Guyton,31312
+Hinesville,31313
+Fort Stewart,31314
+Ludowici,31316
+Meldrim,31318
+Pooler,31322
+Riceboro,31323
+Sapelo Island,31327
+Tybee Island,31328
+Port Wentworth,31407
+Waycross,31501
+Ambrose,31512
+Baxley,31513
+Blackshear,31516
+Broxton,31519
+Saint Simons Island,31522
+Jekyll Island,31527
+Folkston,31537
+Hazlehurst,31539
+Hortense,31543
+Jesup,31545
+Kings Bay,31547
+Kingsland,31548
+Lumber City,31549
+Mershon,31551
+Nahunta,31553
+Nicholls,31554
+Odum,31555
+Offerman,31556
+Screven,31560
+Sea Island,31561
+Surrency,31563
+West Green,31567
+Valdosta,31601
+Adel,31620
+Alapaha,31622
+Axson,31624
+Barney,31625
+Du Pont,31630
+Fargo,31631
+Hahira,31632
+Homerville,31634
+Lakeland,31635
+Lake Park,31636
+Naylor,31641
+Pearson,31642
+Quitman,31643
+Ray City,31645
+Sparks,31647
+Statenville,31648
+Willacoochee,31650
+Moody Afb,31699
+Americus,31709
+Andersonville,31711
+Arabi,31712
+Baconton,31716
+Barwick,31720
+Camilla,31730
+Chula,31733
+Cobb,31735
+Coolidge,31738
+De Soto,31743
+Doerun,31744
+Ellenton,31747
+Enigma,31749
+Fitzgerald,31750
+Hartsfield,31756
+Meigs,31765
+Moultrie,31768
+Norman Park,31771
+Ochlocknee,31773
+Ocilla,31774
+Omega,31775
+Pavo,31778
+Plains,31780
+Poulan,31781
+Rebecca,31783
+Sale City,31784
+Tifton,31793
+Ty Ty,31795
+Wray,31798
+Box Springs,31801
+Cataula,31804
+Cusseta,31805
+Ellaville,31806
+Fortson,31808
+Junction City,31812
+Louvale,31814
+Lumpkin,31815
+Omaha,31821
+Pine Mountain,31822
+Pine Mountain Valley,31823
+Talbotton,31827
+Upatoi,31829
+Waverly Hall,31831
+Fort Benning,31905
+Attapulgus,39815
+Blakely,39823
+Brinson,39825
+Bronwood,39826
+Colquitt,39837
+Cuthbert,39840
+Donalsonville,39845
+Fort Gaines,39851
+Jakin,39861
+Leary,39862
+Sasser,39885
+Shellman,39886
+Whigham,39897

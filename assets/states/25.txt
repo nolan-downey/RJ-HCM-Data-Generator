@@ -1,0 +1,222 @@
+Montana
+Absarokee,59001
+Ballantine,59006
+Bearcreek,59007
+Bighorn,59010
+Big Timber,59011
+Birney,59012
+Bridger,59014
+Broadview,59015
+Busby,59016
+Clyde Park,59018
+Cooke City,59020
+Crow Agency,59022
+Emigrant,59027
+Fishtail,59028
+Fromberg,59029
+Garryowen,59031
+Grass Range,59032
+Greycliff,59033
+Fort Smith,59035
+Harlowton,59036
+Hysham,59038
+Ingomar,59039
+Joliet,59041
+Lame Deer,59043
+Lavina,59046
+Lodge Grass,59050
+Mc Leod,59052
+Martinsdale,59053
+Melstone,59054
+Molt,59057
+Mosby,59058
+Musselshell,59059
+Nye,59061
+Otter,59062
+Pompeys Pillar,59064
+Pray,59065
+Pryor,59066
+Rapelje,59067
+Red Lodge,59068
+Reed Point,59069
+Roundup,59072
+Ryegate,59074
+Saint Xavier,59075
+Sand Springs,59077
+Silver Gate,59081
+Two Dot,59085
+Wilsall,59086
+Winnett,59087
+Worden,59088
+Wyola,59089
+Billings,59101
+Wolf Point,59201
+Antelope,59211
+Bainville,59212
+Circle,59215
+Culbertson,59218
+Dagmar,59219
+Flaxville,59222
+Fort Peck,59223
+Frazer,59225
+Froid,59226
+Saint Marie,59231
+Glentana,59240
+Larslan,59244
+Medicine Lake,59247
+Opheim,59250
+Outlook,59252
+Peerless,59253
+Plentywood,59254
+Redstone,59257
+Reserve,59258
+Richey,59259
+Vida,59274
+Whitetail,59276
+Miles City,59301
+Alzada,59311
+Angela,59312
+Biddle,59314
+Broadus,59317
+Brusett,59318
+Cohagen,59322
+Colstrip,59323
+Ekalaka,59324
+Fallon,59326
+Glendive,59330
+Hathaway,59333
+Ismay,59336
+Kinsey,59338
+Lindsay,59339
+Olive,59343
+Plevna,59344
+Volborg,59351
+Wibaux,59353
+Babb,59411
+Belt,59412
+Black Eagle,59414
+Brady,59416
+Browning,59417
+Bynum,59419
+Carter,59420
+Choteau,59422
+Coffee Creek,59424
+Cut Bank,59427
+Dupuyer,59432
+East Glacier Park,59434
+Floweree,59440
+Forest Grove,59441
+Fort Benton,59442
+Fort Shaw,59443
+Galata,59444
+Geyser,59447
+Heart Butte,59448
+Highwood,59450
+Hilger,59451
+Hobson,59452
+Judith Gap,59453
+Kevin,59454
+Ledger,59456
+Loma,59460
+Lothair,59461
+Moccasin,59462
+Monarch,59463
+Neihart,59465
+Oilmont,59466
+Pendroy,59467
+Power,59468
+Raynesford,59469
+Roy,59471
+Sand Coulee,59472
+Simms,59477
+Stockett,59480
+Sunburst,59482
+Sun River,59483
+Sweet Grass,59484
+Ulm,59485
+Vaughn,59487
+Winifred,59489
+Havre,59501
+Chinook,59523
+Dodson,59524
+Gildford,59525
+Hogeland,59529
+Joplin,59531
+Kremlin,59532
+Lloyd,59535
+Loring,59537
+Whitlash,59545
+Zortman,59546
+Zurich,59547
+Basin,59631
+Boulder,59632
+Canyon Creek,59633
+Clancy,59634
+East Helena,59635
+Fort Harrison,59636
+Ringling,59642
+Toston,59643
+Wolf Creek,59648
+Alder,59710
+Anaconda,59711
+Bozeman,59715
+Big Sky,59716
+Cardwell,59721
+Dell,59724
+Divide,59727
+Ennis,59729
+Gallatin Gateway,59730
+Gold Creek,59733
+Mc Allister,59740
+Manhattan,59741
+Polaris,59746
+Pony,59747
+Silver Star,59751
+Three Forks,59752
+Twin Bridges,59754
+Virginia City,59755
+West Yellowstone,59758
+Willow Creek,59760
+Wisdom,59761
+Wise River,59762
+Missoula,59801
+Alberton,59820
+Arlee,59821
+Bonner,59823
+Charlo,59824
+Condon,59826
+Conner,59827
+Corvallis,59828
+De Borgia,59830
+Hall,59837
+Pinesdale,59841
+Haugan,59842
+Helmville,59843
+Heron,59844
+Huson,59846
+Lolo,59847
+Lonepine,59848
+Noxon,59853
+Ovando,59854
+Pablo,59855
+Polson,59860
+Ravalli,59863
+Ronan,59864
+Saint Ignatius,59865
+Saint Regis,59866
+Saltese,59867
+Seeley Lake,59868
+Sula,59871
+Thompson Falls,59873
+Kalispell,59901
+Big Arm,59910
+Elmo,59915
+Fortine,59918
+Hungry Horse,59919
+Kila,59920
+Libby,59923
+Martin City,59926
+Polebridge,59928
+Rollins,59931
+West Glacier,59936
+Whitefish,59937

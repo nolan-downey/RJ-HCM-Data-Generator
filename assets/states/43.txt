@@ -1,0 +1,115 @@
+Utah
+Altonah,84002
+American Fork,84003
+Eagle Mountain,84005
+Bingham Canyon,84006
+Bluebell,84007
+Bountiful,84010
+Cedar Valley,84013
+Coalville,84017
+Duchesne,84021
+Dugway,84022
+Dutch John,84023
+Fort Duchesne,84026
+Heber City,84032
+Henefer,84033
+Ibapah,84034
+Jensen,84035
+Kamas,84036
+Kaysville,84037
+Laketown,84038
+Lapoint,84039
+Lehi,84043
+Magna,84044
+Myton,84052
+North Salt Lake,84054
+Hill Afb,84056
+Orem,84057
+Peoa,84061
+Rush Valley,84069
+Sandy,84070
+Tabiona,84072
+Tooele,84074
+Tridell,84076
+Vernal,84078
+West Jordan,84081
+Wallsburg,84082
+Whiterocks,84085
+Woods Cross,84087
+South Jordan,84095
+Herriman,84096
+Salt Lake City,84101
+West Valley City,84119
+Bear River City,84301
+Brigham City,84302
+Cache Junction,84304
+Fielding,84311
+Grouse Creek,84313
+Honeyville,84314
+Hyrum,84319
+Park Valley,84329
+Snowville,84336
+Tremonton,84337
+Price,84501
+Blanding,84511
+Bluff,84512
+Castle Dale,84513
+East Carbon,84520
+Ferron,84523
+Helper,84526
+La Sal,84530
+Mexican Hat,84531
+Moab,84532
+Lake Powell,84533
+Montezuma Creek,84534
+Monument Valley,84536
+Provo,84601
+Centerfield,84622
+Fountain Green,84632
+Kanosh,84637
+Leamington,84638
+Levan,84639
+Lynndyl,84640
+Manti,84642
+Mona,84645
+Moroni,84646
+Nephi,84648
+Redmond,84652
+Santaquin,84655
+Sigurd,84657
+Spanish Fork,84660
+Annabella,84711
+Antimony,84712
+Beryl,84714
+Cannonville,84718
+Brian Head,84719
+Cedar City,84720
+Elsinore,84724
+Escalante,84726
+Hanksville,84734
+Hatch,84735
+Henrieville,84736
+Ivins,84738
+Joseph,84739
+Kanab,84741
+Kanarraville,84742
+Koosharem,84744
+La Verkin,84745
+Loa,84747
+Marysvale,84750
+Orderville,84758
+Panguitch,84759
+Paragonah,84760
+Parowan,84761
+Duck Creek Village,84762
+Bryce,84764
+Santa Clara,84765
+Sevier,84766
+Teasdale,84773
+Toquerville,84774
+Torrey,84775
+Tropic,84776
+Virgin,84779
+Veyo,84782
+Dammeron Valley,84783
+Hildale,84784

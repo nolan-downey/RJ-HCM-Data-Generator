@@ -1,0 +1,174 @@
+Vermont
+White River Junction,5001
+Barnard,5031
+Bridgewater Corners,5035
+Brownsville,5037
+East Corinth,5040
+East Randolph,5041
+East Ryegate,5042
+East Thetford,5043
+Fairlee,5045
+Mc Indoe Falls,5050
+North Hartland,5052
+North Pomfret,5053
+Norwich,5055
+Post Mills,5058
+Quechee,5059
+Randolph Center,5061
+South Pomfret,5067
+South Royalton,5068
+South Ryegate,5069
+South Strafford,5070
+South Woodstock,5071
+Thetford Center,5075
+Tunbridge,5077
+Vershire,5079
+Wells River,5081
+West Fairlee,5083
+West Hartford,5084
+West Topsham,5086
+Bellows Falls,5101
+Cambridgeport,5141
+Cavendish,5142
+North Springfield,5150
+Perkinsville,5151
+Proctorsville,5153
+Saxtons River,5154
+South Londonderry,5155
+Dorset,5251
+East Arlington,5252
+East Dorset,5253
+Manchester Center,5255
+North Bennington,5257
+North Pownal,5260
+Shaftsbury,5262
+Brattleboro,5301
+Bondville,5340
+East Dover,5341
+Jacksonville,5342
+Jamaica,5343
+Newfane,5345
+Putney,5346
+Readsboro,5350
+Stamford,5352
+Townshend,5353
+Vernon,5354
+Wardsboro,5355
+West Dover,5356
+West Halifax,5358
+West Townshend,5359
+West Wardsboro,5360
+Whitingham,5361
+Williamsville,5362
+South Burlington,5403
+Winooski,5404
+Colchester,5439
+Alburgh,5440
+Bakersfield,5441
+Belvidere Center,5442
+Charlotte,5445
+East Berkshire,5447
+East Fairfield,5448
+Enosburg Falls,5450
+Essex Junction,5452
+Fairfax,5454
+Ferrisburgh,5456
+Highgate Center,5459
+Hinesburg,5461
+Isle La Motte,5463
+Jeffersonville,5464
+Jericho,5465
+Montgomery Center,5471
+New Haven,5472
+North Ferrisburgh,5473
+North Hero,5474
+Richford,5476
+Saint Albans Bay,5481
+Shelburne,5482
+Sheldon,5483
+Sheldon Springs,5485
+South Hero,5486
+Starksboro,5487
+Swanton,5488
+Underhill,5489
+Vergennes,5491
+Williston,5495
+Montpelier,5602
+Adamant,5640
+Cabot,5647
+East Barre,5649
+East Calais,5650
+East Montpelier,5651
+Eden,5652
+Eden Mills,5653
+Graniteville,5654
+Johnson,5656
+Lake Elmore,5657
+Moretown,5660
+Morrisville,5661
+Northfield Falls,5664
+Stowe,5672
+Waitsfield,5673
+Waterbury,5676
+Waterbury Center,5677
+Websterville,5678
+Wolcott,5680
+Woodbury,5681
+Bomoseen,5732
+Brandon,5733
+Bridport,5734
+Castleton,5735
+Center Rutland,5736
+Chittenden,5737
+Cuttingsville,5738
+Danby,5739
+East Middlebury,5740
+East Wallingford,5742
+Fair Haven,5743
+Killington,5751
+Middlebury,5753
+Middletown Springs,5757
+Mount Holly,5758
+North Clarendon,5759
+Orwell,5760
+Pawlet,5761
+Pittsford,5763
+Poultney,5764
+Proctor,5765
+Ripton,5766
+Shoreham,5770
+Wallingford,5773
+West Pawlet,5775
+West Rupert,5776
+West Rutland,5777
+Saint Johnsbury,5819
+Albany,5820
+Barnet,5821
+Barton,5822
+Craftsbury,5826
+Craftsbury Common,5827
+Derby,5829
+Derby Line,5830
+East Burke,5832
+East Charleston,5833
+East Hardwick,5836
+East Haven,5837
+Glover,5839
+Greensboro,5841
+Greensboro Bend,5842
+Irasburg,5845
+Island Pond,5846
+Lyndon Center,5850
+Lyndonville,5851
+Morgan,5853
+Newport Center,5857
+North Concord,5858
+North Troy,5859
+Peacham,5862
+West Burke,5871
+West Charleston,5872
+West Danville,5873
+Averill,5901
+Beecher Falls,5902
+Gilman,5904
+Guildhall,5905

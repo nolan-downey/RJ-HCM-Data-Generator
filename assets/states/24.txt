@@ -1,0 +1,243 @@
+Mississippi
+Batesville,38606
+Blue Mountain,38610
+Byhalia,38611
+Clarksdale,38614
+Coahoma,38617
+Coldwater,38618
+Crenshaw,38621
+Crowder,38622
+Darling,38623
+Dumas,38625
+Etta,38627
+Falkner,38629
+Friars Point,38631
+Hickory Flat,38633
+Horn Lake,38637
+Lake Cormorant,38641
+Lambert,38643
+Lyon,38645
+Marks,38646
+Michigan City,38647
+Myrtle,38650
+Nesbit,38651
+Olive Branch,38654
+Pope,38658
+Potts Camp,38659
+Red Banks,38661
+Robinsonville,38664
+Sarah,38665
+Senatobia,38668
+Sledge,38670
+Southaven,38671
+Tiplersville,38674
+Tunica,38676
+University,38677
+Walls,38680
+Walnut,38683
+Alligator,38720
+Anguilla,38721
+Arcola,38722
+Benoit,38725
+Beulah,38726
+Boyle,38730
+Doddsville,38736
+Drew,38737
+Parchman,38738
+Glen Allan,38744
+Grace,38745
+Gunnison,38746
+Hollandale,38748
+Isola,38754
+Merigold,38759
+Metcalfe,38760
+Moorhead,38761
+Mound Bayou,38762
+Pace,38764
+Panther Burn,38765
+Rena Lara,38767
+Ruleville,38771
+Scott,38772
+Shaw,38773
+Winstonville,38781
+Tupelo,38801
+Amory,38821
+Baldwyn,38824
+Belden,38826
+Blue Springs,38828
+Booneville,38829
+Ecru,38841
+Gattman,38844
+Golden,38847
+Greenwood Springs,38848
+Guntown,38849
+Houlka,38850
+Iuka,38852
+Mantachie,38855
+Mooreville,38857
+Nettleton,38858
+New Site,38859
+Okolona,38860
+Pontotoc,38863
+Rienzi,38865
+Tishomingo,38873
+Vardaman,38878
+Grenada,38901
+Banner,38913
+Bruce,38915
+Calhoun City,38916
+Cascilla,38920
+Coila,38923
+Cruger,38924
+Duck Hill,38925
+Enid,38927
+Gore Springs,38929
+Holcomb,38940
+Itta Bena,38941
+Mc Carley,38943
+Minter City,38944
+Morgan City,38946
+North Carrollton,38947
+Philipp,38950
+Schlater,38952
+Scobey,38953
+Sidon,38954
+Tillatoba,38961
+Tippo,38962
+Tutwiler,38963
+Water Valley,38965
+Belzoni,39038
+Bentonia,39040
+Braxton,39044
+Conehatta,39057
+Crystal Springs,39059
+Delta City,39061
+D Lo,39062
+Durant,39063
+Flora,39071
+Goodman,39079
+Hermanville,39086
+Holly Bluff,39088
+Kosciusko,39090
+Lena,39094
+Lorman,39096
+Louise,39097
+Mc Cool,39108
+Magee,39111
+Mayersville,39113
+Mendenhall,39114
+Midnight,39115
+Mize,39116
+Natchez,39120
+Newhebron,39140
+Pattison,39144
+Pelahatchie,39145
+Pinola,39149
+Rolling Fork,39159
+Sallis,39160
+Satartia,39162
+Silver City,39166
+Tchula,39169
+Terry,39170
+Tougaloo,39174
+Vaiden,39176
+Valley Park,39177
+Vaughan,39179
+Vicksburg,39180
+Wesson,39191
+West,39192
+Whitfield,39193
+Yazoo City,39194
+Pearl,39208
+Flowood,39232
+Byram,39272
+Buckatunna,39322
+Chunky,39323
+De Kalb,39328
+Lauderdale,39335
+Louin,39338
+Noxapater,39346
+Pachuta,39347
+Paulding,39348
+Porterville,39352
+Scooba,39358
+Sebastopol,39359
+Shubuta,39360
+Shuqualak,39361
+Toomsuba,39364
+Vossburg,39366
+Hattiesburg,39401
+Bassfield,39421
+Bay Springs,39422
+Beaumont,39423
+Carriere,39426
+Ellisville,39437
+Heidelberg,39439
+Leakesville,39451
+Lucedale,39452
+Mc Lain,39456
+Moselle,39459
+Neely,39461
+New Augusta,39462
+Ovett,39464
+Petal,39465
+Picayune,39466
+Poplarville,39470
+Prentiss,39474
+Purvis,39475
+Richton,39476
+Seminary,39479
+Soso,39480
+Stringer,39481
+Sumrall,39482
+Foxworth,39483
+Gulfport,39501
+Bay Saint Louis,39520
+Diamondhead,39525
+Biloxi,39530
+Diberville,39540
+Gautier,39553
+Kiln,39556
+Moss Point,39562
+Ocean Springs,39564
+Vancleave,39565
+Pascagoula,39567
+Pass Christian,39571
+Pearlington,39572
+Perkinston,39573
+Saucier,39574
+Waveland,39576
+Wiggins,39577
+Bogue Chitto,39629
+Bude,39630
+Fernwood,39635
+Gloster,39638
+Jayess,39641
+Kokomo,39643
+Mc Call Creek,39647
+Mccomb,39648
+Oak Vale,39656
+Osyka,39657
+Roxie,39661
+Ruth,39662
+Smithdale,39664
+Sontag,39665
+Tylertown,39667
+Union Church,39668
+Ackerman,39735
+Artesia,39736
+Bellefontaine,39737
+Cedarbluff,39741
+Eupora,39744
+French Camp,39745
+Kilmichael,39747
+Mantee,39751
+Mathiston,39752
+Pheba,39755
+Prairie,39756
+Starkville,39759
+Mississippi State,39762
+Steens,39766
+Sturgis,39769
+Walthall,39771
+Weir,39772

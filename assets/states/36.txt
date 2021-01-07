@@ -1,0 +1,184 @@
+Oregon
+Beavercreek,97004
+Boring,97009
+Cascade Locks,97014
+Clackamas,97015
+Clatskanie,97016
+Corbett,97019
+Donald,97020
+Dufur,97021
+Eagle Creek,97022
+Estacada,97023
+Gervais,97026
+Government Camp,97028
+Hood River,97031
+Lake Oswego,97034
+Maupin,97037
+Molalla,97038
+Mosier,97040
+Mount Hood Parkdale,97041
+Mulino,97042
+Oregon City,97045
+Rainier,97048
+Rhododendron,97049
+Rufus,97050
+Saint Helens,97051
+Deer Island,97054
+Scappoose,97056
+Shaniko,97057
+The Dalles,97058
+Tualatin,97062
+Tygh Valley,97063
+Vernonia,97064
+Welches,97067
+West Linn,97068
+Happy Valley,97086
+Arch Cape,97102
+Cannon Beach,97110
+Gales Creek,97117
+Garibaldi,97118
+Hebo,97122
+Manzanita,97130
+Nehalem,97131
+Newberg,97132
+North Plains,97133
+Pacific City,97135
+Tillamook,97141
+Timber,97144
+Tolovana Park,97145
+Yamhill,97148
+Neskowin,97149
+Alsea,97324
+Aumsville,97325
+Cascadia,97329
+Depoe Bay,97341
+Grand Ronde,97347
+Idanha,97350
+Logsden,97357
+Mill City,97360
+Mount Angel,97362
+Neotsu,97364
+South Beach,97366
+Otter Rock,97369
+Philomath,97370
+Rickreall,97371
+Scotts Mills,97375
+Seal Rock,97376
+Shedd,97377
+Siletz,97380
+Stayton,97383
+Mehama,97384
+Sublimity,97385
+Gleneden Beach,97388
+Tangent,97389
+Tidewater,97390
+Waldport,97394
+Willamina,97396
+Agness,97406
+Azalea,97410
+Bandon,97411
+Blachly,97412
+Broadbent,97414
+Camas Valley,97416
+Canyonville,97417
+Coos Bay,97420
+Coquille,97423
+Days Creek,97429
+Dorena,97434
+Drain,97435
+Glide,97443
+Gold Beach,97444
+Idleyld Park,97447
+Langlois,97450
+Lorane,97451
+Marcola,97454
+Myrtle Creek,97457
+Myrtle Point,97458
+Noti,97461
+Oakridge,97463
+Port Orford,97465
+Reedsport,97467
+Riddle,97469
+Roseburg,97470
+Sixes,97476
+Swisshome,97480
+Tenmile,97481
+Tiller,97484
+Umpqua,97486
+Veneta,97487
+Walterville,97489
+Westfir,97492
+Wilbur,97494
+Yachats,97498
+Yoncalla,97499
+Central Point,97502
+Butte Falls,97522
+Cave Junction,97523
+Eagle Point,97524
+Grants Pass,97526
+Kerby,97531
+Merlin,97532
+Rogue River,97537
+Shady Cove,97539
+Talent,97540
+Wilderville,97543
+Klamath Falls,97601
+Crater Lake,97604
+Bly,97622
+Bonanza,97623
+Chiloquin,97624
+Dairy,97625
+Fort Klamath,97626
+Keno,97627
+Malin,97632
+New Pine Creek,97635
+Plush,97637
+Sprague River,97639
+Summer Lake,97640
+Christmas Valley,97641
+Fields,97710
+Ashwood,97711
+Brothers,97712
+Camp Sherman,97730
+Chemult,97731
+Fort Rock,97735
+Frenchglen,97736
+La Pine,97739
+Madras,97741
+Powell Butte,97753
+Prineville,97754
+Sisters,97759
+Terrebonne,97760
+Athena,97813
+Baker City,97814
+Bates,97817
+Boardman,97818
+Canyon City,97820
+Fossil,97830
+Haines,97833
+Halfway,97834
+Helix,97835
+Heppner,97836
+Hermiston,97838
+Imbler,97841
+Imnaha,97842
+Irrigon,97844
+John Day,97845
+La Grande,97850
+Lostine,97857
+Meacham,97859
+Milton Freewater,97862
+North Powder,97867
+Pilot Rock,97868
+Spray,97874
+Sumpter,97877
+Wallowa,97885
+Brogan,97903
+Drewsey,97904
+Durkee,97905
+Ironside,97908
+Jamieson,97909
+Jordan Valley,97910
+Juntura,97911
+Nyssa,97913
+Westfall,97920

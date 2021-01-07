@@ -1,0 +1,292 @@
+Tennessee
+Antioch,37013
+Ashland City,37015
+Auburntown,37016
+Beechgrove,37018
+Bell Buckle,37020
+Bon Aqua,37025
+Bradyville,37026
+Bumpus Mills,37028
+Burns,37029
+Castalian Springs,37031
+Cedar Hill,37032
+Chapmansboro,37035
+College Grove,37046
+Cornersville,37047
+Cottontown,37048
+Cross Plains,37049
+Cumberland City,37050
+Cumberland Furnace,37051
+Cunningham,37052
+Dickson,37055
+Dixon Springs,37057
+Dowelltown,37059
+Eagleville,37060
+Gallatin,37066
+Goodlettsville,37072
+Greenbrier,37073
+Hurricane Mills,37078
+Indian Mound,37079
+Joelton,37080
+Kingston Springs,37082
+Lascassas,37085
+La Vergne,37086
+Lobelville,37097
+Lyles,37098
+Mc Ewen,37101
+Mcminnville,37110
+Mount Juliet,37122
+New Johnsonville,37134
+Nolensville,37135
+Nunnelly,37137
+Old Hickory,37138
+Only,37140
+Orlinda,37141
+Pegram,37143
+Pleasant Shade,37145
+Pleasant View,37146
+Readyville,37149
+Red Boiling Springs,37150
+Riddleton,37151
+Rockvale,37153
+Shelbyville,37160
+Slayden,37165
+Stewart,37175
+Tennessee Ridge,37178
+Thompsons Station,37179
+Vanleer,37181
+Wartrace,37183
+White Bluff,37187
+White House,37188
+Whites Creek,37189
+Apison,37302
+Beersheba Springs,37305
+Birchwood,37308
+Coalmont,37313
+Collegedale,37315
+Copperhill,37317
+Cowan,37318
+Decherd,37324
+Ducktown,37326
+Dunlap,37327
+Elora,37328
+Estill Springs,37330
+Evensville,37332
+Farner,37333
+Flintville,37335
+Grandview,37337
+Gruetli Laager,37339
+Hixson,37343
+Huntland,37345
+Kelso,37348
+Lupton City,37351
+Madisonville,37354
+Monteagle,37356
+Morrison,37357
+Normandy,37360
+Ooltewah,37363
+Reliance,37369
+Riceville,37370
+Sale Creek,37373
+Sequatchie,37374
+Sewanee,37375
+Signal Mountain,37377
+Soddy Daisy,37379
+South Pittsburg,37380
+Tellico Plains,37385
+Tracy City,37387
+Tullahoma,37388
+Turtletown,37391
+Whiteside,37396
+Whitwell,37397
+Chattanooga,37402
+Blountville,37617
+Bluff City,37618
+Chuckey,37641
+Elizabethton,37643
+Fall Branch,37656
+Flag Pond,37657
+Jonesborough,37659
+Kingsport,37660
+Laurel Bloomery,37680
+Milligan College,37682
+Piney Flats,37686
+Roan Mountain,37687
+Shady Valley,37688
+Trade,37691
+Unicoi,37692
+Watauga,37694
+Alcoa,37701
+Bean Station,37708
+Briceville,37710
+Bulls Gap,37711
+Bybee,37713
+Clairfield,37715
+Coalfield,37719
+Corryton,37721
+Cosby,37722
+Cumberland Gap,37724
+Dandridge,37725
+Deer Lodge,37726
+Del Rio,37727
+Duff,37729
+Eagan,37730
+Eidson,37731
+Rugby,37733
+Gatlinburg,37738
+Greenback,37742
+Greeneville,37743
+Harrogate,37752
+Heiskell,37754
+Helenwood,37755
+Jacksboro,37757
+Jefferson City,37760
+Jellico,37762
+Kodak,37764
+Kyles Ford,37765
+La Follette,37766
+Rocky Top,37769
+Lancing,37770
+Lenoir City,37771
+Luttrell,37779
+Maryville,37801
+Maynardville,37807
+Mooresburg,37811
+Mosheim,37818
+New Tazewell,37825
+Niota,37826
+Oliver Springs,37840
+Parrottsville,37843
+Petros,37845
+Pioneer,37847
+Powell,37849
+Pruden,37851
+Sevierville,37862
+Pigeon Forge,37863
+Sharps Chapel,37866
+Sneedville,37869
+Strawberry Plains,37871
+Sunbright,37872
+Surgoinsville,37873
+Sweetwater,37874
+Talbott,37877
+Ten Mile,37880
+Thorn Hill,37881
+Vonore,37885
+Walland,37886
+Wartburg,37887
+White Pine,37890
+Farragut,37934
+Atoka,38004
+Bells,38006
+Burlison,38015
+Collierville,38017
+Crockett Mills,38021
+Drummonds,38023
+Dyersburg,38024
+Eads,38028
+Finley,38030
+Gallaway,38036
+Grand Junction,38039
+Halls,38040
+Henning,38041
+Hickory Valley,38042
+Hornsby,38044
+Maury City,38050
+Saulsbury,38067
+Tigrett,38070
+Wynnburg,38077
+Tiptonville,38079
+Atwood,38220
+Cottage Grove,38224
+Dukedom,38226
+Gleason,38229
+Hornbeak,38232
+Mc Lemoresville,38235
+Obion,38240
+Palmersville,38241
+Puryear,38251
+Rives,38253
+Samburg,38254
+South Fulton,38257
+Trezevant,38258
+Trimble,38259
+Bath Springs,38311
+Beech Bluff,38313
+Bethel Springs,38315
+Bruceton,38317
+Counce,38326
+Crump,38327
+Darden,38328
+Decaturville,38329
+Dyer,38330
+Enville,38332
+Finger,38334
+Guys,38339
+Holladay,38341
+Hollow Rock,38342
+Humboldt,38343
+Huron,38345
+Jacks Creek,38347
+Lavinia,38348
+Medon,38356
+Michie,38357
+Morris Chapel,38361
+Pickwick Dam,38365
+Reagan,38368
+Scotts Hill,38374
+Selmer,38375
+Stantonville,38379
+Sugar Tree,38380
+Toone,38381
+Wildersville,38388
+Yuma,38390
+Collinwood,38450
+Culleoka,38451
+Cypress Inn,38452
+Dellrose,38453
+Duck River,38454
+Ethridge,38456
+Frankewing,38459
+Goodspring,38460
+Hampshire,38461
+Hohenwald,38462
+Iron City,38463
+Lawrenceburg,38464
+Leoma,38468
+Lutts,38471
+Lynnville,38472
+Minor Hill,38473
+Olivehill,38475
+Primm Springs,38476
+Saint Joseph,38481
+Santa Fe,38482
+Summertown,38483
+Westpoint,38486
+Taft,38488
+Cookeville,38501
+Allardt,38504
+Allons,38541
+Allred,38542
+Bloomington Springs,38545
+Brush Creek,38547
+Buffalo Valley,38548
+Byrdstown,38549
+Celina,38551
+Chestnut Mound,38552
+Clarkrange,38553
+Doyle,38559
+Elmwood,38560
+Gainesboro,38562
+Grimsley,38565
+Hickman,38567
+Hilham,38568
+Moss,38575
+Pall Mall,38577
+Quebeck,38579
+Rickman,38580
+Rock Island,38581
+Silver Point,38582
+Walling,38587
+Whitleyville,38588
+Wilder,38589

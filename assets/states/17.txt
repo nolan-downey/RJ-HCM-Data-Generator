@@ -1,0 +1,446 @@
+Kentucky
+Bardstown,40004
+Bradfordsville,40009
+Buckner,40010
+Campbellsburg,40011
+Coxs Creek,40013
+Crestwood,40014
+Eminence,40019
+Finchville,40022
+Fisherville,40023
+Glenview,40025
+Mackville,40040
+Masonic Home,40041
+Mount Eden,40046
+Mount Washington,40047
+Nerinx,40049
+Pewee Valley,40056
+Pleasureville,40057
+Raywick,40060
+Saint Mary,40063
+Sulphur,40070
+Turners Station,40075
+Waddy,40076
+Willisburg,40078
+Battletown,40104
+Brandenburg,40108
+Cloverport,40111
+Custer,40115
+Ekron,40117
+Falls Of Rough,40119
+Fort Knox,40121
+Guston,40142
+Hardinsburg,40143
+Harned,40144
+Lebanon Junction,40150
+Mc Daniels,40152
+Muldraugh,40155
+Payneville,40157
+Radcliff,40160
+Rhodelia,40161
+Rineyville,40162
+Shepherdsville,40165
+Stephensport,40170
+Union Star,40171
+Vine Grove,40175
+Westview,40178
+Burgin,40310
+Clay City,40312
+Denniston,40316
+Frenchburg,40322
+Gravel Switch,40328
+Harrodsburg,40330
+Means,40346
+Morehead,40351
+Mount Sterling,40353
+Nicholasville,40356
+Olympia,40358
+Owenton,40359
+Owingsville,40360
+Perry Park,40363
+Sadieville,40370
+Salt Lick,40371
+Salvisa,40372
+Slade,40376
+Stamping Ground,40379
+Brodhead,40409
+Gray Hawk,40434
+Hustonville,40437
+Mc Kee,40447
+Mc Kinney,40448
+Paint Lick,40461
+Ravenna,40472
+Sandgap,40481
+Stanford,40484
+Corbin,40701
+East Bernstadt,40729
+Keavy,40737
+Lily,40740
+Rockholds,40759
+Siler,40763
+Ages Brookside,40801
+Benham,40807
+Big Laurel,40808
+Bledsoe,40810
+Cawood,40815
+Chappell,40816
+Coalgood,40818
+Coldiron,40819
+Cranks,40820
+Dayhoit,40824
+Eolia,40826
+Essie,40827
+Evarts,40828
+Grays Knob,40829
+Gulston,40830
+Harlan,40831
+Helton,40840
+Holmes Mill,40843
+Hoskinston,40844
+Hulen,40845
+Kenvir,40847
+Lejunior,40849
+Loyall,40854
+Lynch,40855
+Miracle,40856
+Mozelle,40858
+Partridge,40862
+Pathfork,40863
+Stinnett,40868
+Totz,40870
+Wallins Creek,40873
+Warbranch,40874
+Arjay,40902
+Artemus,40903
+Barbourville,40906
+Bimble,40915
+Bryants Store,40921
+Cannon,40923
+Closplint,40927
+Flat Lick,40935
+Fourmile,40939
+Frakes,40940
+Garrard,40941
+Girdler,40943
+Green Road,40946
+Heidrick,40949
+Hinkle,40953
+Kettle Island,40958
+Mary Alice,40964
+Middlesboro,40965
+Roark,40979
+Scalf,40982
+Sextons Creek,40983
+Stoney Fork,40988
+Trosper,40995
+Latonia,41015
+Ft Mitchell,41017
+Erlanger,41018
+Crittenden,41030
+Cynthiana,41031
+De Mossville,41033
+Dry Ridge,41035
+Flemingsburg,41041
+Glencoe,41046
+Mayslick,41055
+Morning View,41063
+Mount Olivet,41064
+Bellevue,41073
+Fort Thomas,41075
+Sanders,41083
+Silver Grove,41085
+Argillite,41121
+Catlettsburg,41129
+Grahn,41142
+Greenup,41144
+Hitchins,41146
+Isonville,41149
+Martha,41159
+Olive Hill,41164
+South Portsmouth,41174
+South Shore,41175
+Vanceburg,41179
+Webbville,41180
+Tollesboro,41189
+Beauty,41203
+Boons Camp,41204
+Debord,41214
+East Point,41216
+Flatgap,41219
+Hagerhill,41222
+Inez,41224
+Keaton,41226
+Lovely,41231
+Lowmansville,41232
+Meally,41234
+Oil Springs,41238
+Paintsville,41240
+Pilgrim,41250
+River,41254
+Sitka,41255
+Stambaugh,41257
+Thelma,41260
+Tomahawk,41262
+Tutor Key,41263
+Van Lear,41265
+West Van Lear,41268
+Wittensville,41274
+Beattyville,41311
+Clayhole,41317
+Pine Ridge,41360
+Rousseau,41366
+Rowdy,41367
+Vancleve,41385
+Whick,41390
+Zoe,41397
+Cannel City,41408
+Elkfork,41421
+Ezel,41425
+Royalton,41464
+Salyersville,41465
+South Williamson,41503
+Ashcamp,41512
+Belcher,41513
+Belfry,41514
+Burdine,41517
+Canada,41519
+Elkhorn City,41522
+Fedscreek,41524
+Fords Branch,41526
+Freeburn,41528
+Hellier,41534
+Huddy,41535
+Jenkins,41537
+Jonancy,41538
+Kimper,41539
+Lick Creek,41540
+Mc Andrews,41543
+Mc Carr,41544
+Majestic,41547
+Mouthcard,41548
+Phyllis,41554
+Pinsonfork,41555
+Raccoon,41557
+Regina,41559
+Robinson Creek,41560
+Shelbiana,41562
+Shelby Gap,41563
+Stone,41567
+Stopover,41568
+Virgie,41572
+Auxier,41602
+Betsy Layne,41605
+Bevinsville,41606
+Blue River,41607
+Bypro,41612
+Dana,41615
+David,41616
+Drift,41619
+Dwale,41621
+Eastern,41622
+Grethel,41631
+Gunlock,41632
+Harold,41635
+Hi Hat,41636
+Hueysville,41640
+Ivel,41642
+Lackey,41643
+Prestonsburg,41653
+Printer,41655
+Stanville,41659
+Teaberry,41660
+Tram,41663
+Weeksbury,41667
+Hazard,41701
+Ary,41712
+Avawam,41713
+Bear Branch,41714
+Bonnyman,41719
+Buckhorn,41721
+Bulan,41722
+Busy,41723
+Carrie,41725
+Chavies,41727
+Combs,41729
+Cornettsville,41731
+Delphia,41735
+Dwarf,41739
+Emmalena,41740
+Gays Creek,41745
+Happy,41746
+Hyden,41749
+Jeff,41751
+Krypton,41754
+Sassafras,41759
+Scuddy,41760
+Sizerock,41762
+Slemp,41763
+Smilax,41764
+Thousandsticks,41766
+Vest,41772
+Vicco,41773
+Viper,41774
+Wendover,41775
+Wooton,41776
+Yeaddiss,41777
+Blackey,41804
+Cromona,41810
+Deane,41812
+Ermine,41815
+Hallie,41821
+Hindman,41822
+Isom,41824
+Jackhorn,41825
+Jeremiah,41826
+Leburn,41831
+Letcher,41832
+Linefork,41833
+Littcarr,41834
+Mc Roberts,41835
+Mallie,41836
+Mayking,41837
+Mousie,41839
+Neon,41840
+Pine Top,41843
+Pippa Passes,41844
+Premium,41845
+Redfox,41847
+Roxana,41848
+Seco,41849
+Dema,41859
+Topmost,41862
+Paducah,42001
+Almo,42020
+Bandana,42022
+Bardwell,42023
+Barlow,42024
+Burna,42028
+Calvert City,42029
+Dycusburg,42037
+Eddyville,42038
+Fancy Farm,42039
+Grand Rivers,42045
+Hardin,42048
+Hazel,42049
+Kevil,42053
+Kirksey,42054
+Kuttawa,42055
+La Center,42056
+Ledbetter,42058
+Lovelaceville,42060
+Lowes,42061
+Melber,42069
+Murray,42071
+New Concord,42076
+Sedalia,42079
+Smithland,42081
+Symsonia,42082
+Tiline,42083
+West Paducah,42086
+Wickliffe,42087
+Wingo,42088
+Adolphus,42120
+Alvaton,42122
+Cave City,42127
+Edmonton,42129
+Eighty Eight,42130
+Fountain Run,42133
+Gamaliel,42140
+Hestand,42151
+Knob Lick,42154
+Lucas,42156
+Mount Hermon,42157
+Park City,42160
+Summer Shade,42166
+Tompkinsville,42167
+Woodburn,42170
+Smiths Grove,42171
+Adairville,42202
+Bee Spring,42207
+Cadiz,42211
+Center,42214
+Cerulean,42215
+Fort Campbell,42223
+Gracey,42232
+Guthrie,42234
+Hopkinsville,42240
+Mammoth Cave,42259
+Oak Grove,42262
+Olmstead,42265
+Rockfield,42274
+Roundhill,42275
+Sharon Grove,42280
+Sweeden,42285
+Owensboro,42301
+Beaver Dam,42320
+Beech Grove,42322
+Beechmont,42323
+Browder,42326
+Centertown,42328
+Cleaton,42332
+Drakesboro,42337
+Dunmor,42339
+Fordsville,42343
+Hawesville,42348
+Horse Branch,42349
+Island,42350
+Lewisport,42351
+Maceo,42355
+Maple Mount,42356
+Olaton,42361
+Philpot,42366
+Powderly,42367
+Reynolds Station,42368
+Rosine,42370
+Rumsey,42371
+South Carrollton,42374
+Corydon,42406
+Dawson Springs,42408
+Dixon,42409
+Earlington,42410
+Manitou,42436
+Morganfield,42437
+Mortons Gap,42440
+Nortonville,42442
+Reed,42451
+Robards,42452
+Sebree,42455
+Slaughters,42456
+Spottsville,42458
+Wheatcroft,42463
+Bethelridge,42516
+Bronston,42518
+Dunnville,42528
+Nancy,42544
+Science Hill,42553
+Yosemite,42566
+Eubank,42567
+Alpha,42603
+Marshes Siding,42631
+Parkers Lake,42634
+Pine Knot,42635
+Revelo,42638
+Russell Springs,42642
+Stearns,42647
+Strunk,42649
+Whitley City,42653
+Big Clifty,42712
+Bonnieville,42713
+Breeding,42715
+Burkesville,42717
+Campbellsville,42718
+Caneyville,42721
+Canmer,42722
+Cecilia,42724
+Clarkson,42726
+Cub Run,42729
+Eastview,42732
+Elk Horn,42733
+Glens Fork,42741
+Hodgenville,42748
+Horse Cave,42749
+Knifley,42753
+Leitchfield,42754
+Mount Sherman,42764
+Munfordville,42765
+Sonora,42776

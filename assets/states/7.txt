@@ -1,0 +1,150 @@
+Connecticut
+Bloomfield,6002
+Broad Brook,6016
+Canton Center,6020
+Collinsville,6022
+East Berlin,6023
+East Canaan,6024
+East Granby,6026
+East Hartland,6027
+Ellington,6029
+Falls Village,6031
+Glastonbury,6033
+New Britain,6051
+New Hartford,6057
+North Canton,6059
+North Granby,6060
+Pine Meadow,6061
+Barkhamsted,6063
+Riverton,6065
+Vernon Rockville,6066
+Rocky Hill,6067
+Simsbury,6070
+Somers,6071
+South Glastonbury,6073
+South Windsor,6074
+Stafford Springs,6076
+Suffield,6078
+Tariffville,6081
+Tolland,6084
+Unionville,6085
+East Windsor,6088
+Weatogue,6089
+West Granby,6090
+West Hartland,6091
+West Simsbury,6092
+West Suffield,6093
+Windsor Locks,6096
+Winsted,6098
+Hartford,6103
+East Hartford,6108
+Wethersfield,6109
+Newington,6111
+Willimantic,6226
+Amston,6231
+Brooklyn,6234
+Chaplin,6235
+Columbia,6237
+Danielson,6239
+Dayville,6241
+Eastford,6242
+East Killingly,6243
+Mansfield Center,6250
+North Franklin,6254
+North Grosvenordale,6255
+North Windham,6256
+Pomfret Center,6259
+Putnam,6260
+Quinebaug,6262
+Rogers,6263
+Scotland,6264
+South Windham,6266
+Storrs Mansfield,6268
+Thompson,6277
+Ashford,6278
+Willington,6279
+Woodstock Valley,6282
+Baltic,6330
+Central Village,6332
+East Lyme,6333
+Bozrah,6334
+Gales Ferry,6335
+Ledyard,6339
+Jewett City,6351
+Montville,6353
+Moosup,6354
+Mystic,6355
+Niantic,6357
+North Stonington,6359
+Preston,6365
+Oakdale,6370
+Old Lyme,6371
+Oneco,6373
+Quaker Hill,6375
+South Lyme,6376
+Pawcatuck,6379
+Taftville,6380
+Uncasville,6382
+Voluntown,6384
+Wauregan,6387
+Yantic,6389
+Ansonia,6401
+Beacon Falls,6403
+Branford,6405
+Centerbrook,6409
+Cobalt,6414
+Cromwell,6416
+Deep River,6417
+Killingworth,6419
+East Haddam,6423
+East Hampton,6424
+Haddam,6438
+Higganum,6441
+Ivoryton,6442
+Middle Haddam,6456
+Milldale,6467
+Moodus,6469
+Newtown,6470
+North Branford,6471
+Northford,6472
+Old Saybrook,6475
+Plantsville,6479
+Rockfall,6481
+Sandy Hook,6482
+Seymour,6483
+Shelton,6484
+Southbury,6488
+Southington,6489
+Hamden,6514
+West Haven,6516
+Bethany,6524
+Woodbridge,6525
+Bridgeport,6604
+Trumbull,6611
+Stratford,6614
+Prospect,6712
+Bantam,6750
+Cornwall Bridge,6754
+Gaylordsville,6755
+Kent,6757
+Lakeside,6758
+Morris,6763
+Naugatuck,6770
+New Milford,6776
+New Preston Marble Dale,6777
+Oakville,6779
+South Kent,6785
+Terryville,6786
+Torrington,6790
+Harwinton,6791
+Washington Depot,6794
+West Cornwall,6796
+Cos Cob,6807
+New Fairfield,6812
+Darien,6820
+Greenwich,6830
+New Canaan,6840
+Norwalk,6850
+Old Greenwich,6870
+Ridgefield,6877
+Redding,6896

@@ -1,0 +1,171 @@
+Arizona
+New River,85087
+Gold Canyon,85118
+Apache Junction,85119
+Bapchule,85121
+Casa Grande,85122
+Arizona City,85123
+Eloy,85131
+Maricopa,85138
+San Tan Valley,85140
+Picacho,85141
+Queen Creek,85142
+Sacaton,85147
+Winkelman,85192
+Scottsdale,85250
+Paradise Valley,85253
+Rio Verde,85263
+Fort Mcdowell,85264
+Fountain Hills,85268
+Tempe,85281
+Luke Air Force Base,85309
+Aguila,85320
+Ajo,85321
+Black Canyon City,85324
+Bouse,85325
+Cibola,85328
+Cave Creek,85331
+Congress,85332
+Dateland,85333
+Ehrenberg,85334
+El Mirage,85335
+Gila Bend,85337
+Goodyear,85338
+Laveen,85339
+Litchfield Park,85340
+Lukeville,85341
+Palo Verde,85343
+Quartzsite,85346
+Roll,85347
+Salome,85348
+Somerton,85350
+Tacna,85352
+Tolleson,85353
+Tonopah,85354
+Waddell,85355
+Wellton,85356
+Wenden,85357
+Wikieup,85360
+Wittmann,85361
+Yarnell,85362
+Youngtown,85363
+Poston,85371
+Sun City West,85375
+Carefree,85377
+Wickenburg,85390
+Globe,85501
+Bylas,85530
+Peridot,85542
+Pima,85543
+San Carlos,85550
+Tonto Basin,85553
+Young,85554
+Arivaca,85601
+Cochise,85606
+Dragoon,85609
+Elfrida,85610
+Fort Huachuca,85613
+Huachuca City,85616
+Mc Neal,85617
+Mount Lemmon,85619
+Naco,85620
+Nogales,85621
+Oracle,85623
+Patagonia,85624
+Pearce,85625
+Pirtleville,85626
+Pomerene,85627
+Sahuarita,85629
+San Manuel,85631
+San Simon,85632
+Sasabe,85633
+Sells,85634
+Sierra Vista,85635
+Sonoita,85637
+Tombstone,85638
+Tumacacori,85640
+Willcox,85643
+Amado,85645
+Tubac,85646
+Rio Rico,85648
+Marana,85653
+Rillito,85654
+Tucson,85701
+Show Low,85901
+Cibecue,85911
+White Mountain Lake,85912
+Blue,85922
+Clay Springs,85923
+Concho,85924
+Eagar,85925
+Fort Apache,85926
+Heber,85928
+Mcnary,85930
+Forest Lakes,85931
+Nutrioso,85932
+Overgaard,85933
+Pinetop,85935
+Snowflake,85937
+Springerville,85938
+Whiteriver,85941
+Flagstaff,86001
+Bellemont,86015
+Gray Mountain,86016
+Munds Park,86017
+Grand Canyon,86023
+Happy Jack,86024
+Petrified Forest Natl Pk,86028
+Hotevilla,86030
+Indian Wells,86031
+Joseph City,86032
+Kayenta,86033
+Keams Canyon,86034
+Leupp,86035
+Marble Canyon,86036
+Mormon Lake,86038
+Kykotsmovi Village,86039
+Polacca,86042
+Second Mesa,86043
+Tonalea,86044
+Tuba City,86045
+North Rim,86052
+Kaibeto,86053
+Shonto,86054
+Prescott Valley,86314
+Ash Fork,86320
+Camp Verde,86322
+Chino Valley,86323
+Clarkdale,86324
+Cornville,86325
+Paulden,86334
+Rimrock,86335
+Sedona,86336
+Skull Valley,86338
+Crown King,86343
+Lake Havasu City,86403
+Fort Mohave,86426
+Bullhead City,86429
+Chloride,86431
+Oatman,86433
+Peach Springs,86434
+Supai,86435
+Topock,86436
+Yucca,86438
+Mohave Valley,86440
+Dolan Springs,86441
+Temple Bar Marina,86443
+Meadview,86444
+Willow Beach,86445
+Chinle,86503
+Houck,86506
+Lukachukai,86507
+Pinon,86510
+Teec Nos Pos,86514
+Window Rock,86515
+Blue Gap,86520
+Dennehotso,86535
+Many Farms,86538
+Nazlini,86540
+Red Valley,86544
+Rock Point,86545
+Tsaile,86556

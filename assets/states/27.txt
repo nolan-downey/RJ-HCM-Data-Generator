@@ -1,0 +1,57 @@
+Nevada
+Beatty,89003
+Blue Diamond,89004
+Boulder City,89005
+Bunkerville,89007
+Caliente,89008
+Hiko,89017
+Indian Springs,89018
+Jean,89019
+Amargosa Valley,89020
+Logandale,89021
+Moapa,89025
+Laughlin,89029
+North Las Vegas,89030
+Cal Nev Ari,89039
+Panaca,89042
+Pioche,89043
+Searchlight,89046
+Silverpeak,89047
+Pahrump,89048
+Nellis Afb,89191
+Duckwater,89314
+Lund,89317
+Mc Gill,89318
+Crystal Bay,89402
+Denio,89404
+Fernley,89408
+Gabbs,89409
+Gardnerville,89410
+Gerlach,89412
+Glenbrook,89413
+Imlay,89418
+Lovelock,89419
+Luning,89420
+Mc Dermitt,89421
+Mina,89422
+Orovada,89425
+Schurz,89427
+Smith,89430
+Valmy,89438
+Verdi,89439
+Winnemucca,89445
+Yerington,89447
+Zephyr Cove,89448
+Stateline,89449
+Incline Village,89450
+Washoe Valley,89704
+Battle Mountain,89820
+Crescent Valley,89821
+Carlin,89822
+Deeth,89823
+Jackpot,89825
+Jarbidge,89826
+Lamoille,89828
+Owyhee,89832
+Ruby Valley,89833
+West Wendover,89883

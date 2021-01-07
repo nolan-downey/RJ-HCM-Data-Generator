@@ -1,0 +1,272 @@
+Washington
+Federal Way,98003
+Black Diamond,98010
+Bothell,98011
+Carnation,98014
+Duvall,98019
+Edmonds,98020
+Enumclaw,98022
+Fall City,98024
+Issaquah,98027
+Kenmore,98028
+Lynnwood,98036
+Maple Valley,98038
+Mercer Island,98040
+Mountlake Terrace,98043
+Ravensdale,98051
+Renton,98055
+Snoqualmie,98065
+Snoqualmie Pass,98068
+Vashon,98070
+Woodinville,98072
+Sammamish,98074
+Seattle,98101
+Bainbridge Island,98110
+Anacortes,98221
+Blakely Island,98222
+Concrete,98237
+Coupeville,98239
+Darrington,98241
+Deer Harbor,98243
+Eastsound,98245
+Friday Harbor,98250
+Gold Bar,98251
+Greenbank,98253
+Index,98256
+La Conner,98257
+Lake Stevens,98258
+Lopez Island,98261
+Lummi Island,98262
+Lynden,98264
+Maple Falls,98266
+Marblemount,98267
+Mukilteo,98275
+Nooksack,98276
+Olga,98279
+Orcas,98280
+Point Roberts,98281
+Camano Island,98282
+Sedro Woolley,98284
+Shaw Island,98286
+Skykomish,98288
+Snohomish,98290
+Sultan,98294
+Sumas,98295
+Anderson Island,98303
+Bremerton,98310
+Brinnon,98320
+Carbonado,98323
+Chimacum,98325
+Clallam Bay,98326
+Eatonville,98328
+Gig Harbor,98329
+Elbe,98330
+Forks,98331
+Fox Island,98333
+Glenoma,98336
+Port Hadlock,98339
+Hansville,98340
+Lakebay,98349
+La Push,98350
+Longbranch,98351
+Neah Bay,98357
+Nordland,98358
+Olalla,98359
+Orting,98360
+Port Angeles,98362
+Port Gamble,98364
+Port Ludlow,98365
+Port Orchard,98366
+Port Townsend,98368
+Poulsbo,98370
+Puyallup,98371
+Quilcene,98376
+Randle,98377
+Seabeck,98380
+Sekiu,98381
+Sequim,98382
+South Prairie,98385
+Spanaway,98387
+Steilacoom,98388
+Bonney Lake,98391
+Suquamish,98392
+Wilkeson,98396
+Tacoma,98402
+Fife,98424
+Camp Murray,98430
+Mcchord Afb,98438
+University Place,98467
+Lacey,98503
+Allyn,98524
+Amanda Park,98526
+Bay Center,98527
+Belfair,98528
+Bucoda,98530
+Chehalis,98532
+Cinebar,98533
+Copalis Beach,98535
+Copalis Crossing,98536
+Cosmopolis,98537
+Galvin,98544
+Grapeview,98546
+Grayland,98547
+Hoodsport,98548
+Hoquiam,98550
+Humptulips,98552
+Lilliwaup,98555
+Mccleary,98557
+Mckenna,98558
+Moclips,98562
+Montesano,98563
+Mossyrock,98564
+Napavine,98565
+Ocean Shores,98569
+Pacific Beach,98571
+Pe Ell,98572
+Quinault,98575
+Ryderwood,98581
+Salkum,98582
+Satsop,98583
+Taholah,98587
+Tahuya,98588
+Tenino,98589
+Tokeland,98590
+Vader,98593
+Winlock,98596
+Yelm,98597
+Ariel,98603
+Bingen,98605
+Brush Prairie,98606
+Camas,98607
+Cathlamet,98612
+Cougar,98616
+Dallesport,98617
+Goldendale,98620
+Grays River,98621
+Ilwaco,98624
+Kalama,98625
+Klickitat,98628
+Naselle,98638
+North Bonneville,98639
+Oysterville,98641
+Rosburg,98643
+Seaview,98644
+Silverlake,98645
+Skamokawa,98647
+Toutle,98649
+Vancouver,98660
+Wahkiacus,98670
+Washougal,98671
+White Salmon,98672
+Wishram,98673
+Yacolt,98675
+Wenatchee,98801
+East Wenatchee,98802
+Ardenvoir,98811
+Cashmere,98815
+Chelan,98816
+Chelan Falls,98817
+Conconully,98819
+Entiat,98822
+Malott,98829
+Mazama,98833
+Methow,98834
+Monitor,98836
+Moses Lake,98837
+Okanogan,98840
+Omak,98841
+Orondo,98843
+Pateros,98846
+Peshastin,98847
+Soap Lake,98851
+Stehekin,98852
+Tonasket,98855
+Twisp,98856
+Warden,98857
+Wilson Creek,98860
+Yakima,98901
+Cle Elum,98922
+Cowiche,98923
+Ellensburg,98926
+Kittitas,98934
+Mabton,98935
+Moxee,98936
+Naches,98937
+Ronald,98940
+Selah,98942
+South Cle Elum,98943
+Tieton,98947
+Toppenish,98948
+Vantage,98950
+Wapato,98951
+White Swan,98952
+Zillah,98953
+Airway Heights,99001
+Chattaroy,99003
+Edwall,99008
+Fairchild Air Force Base,99011
+Greenacres,99016
+Latah,99018
+Liberty Lake,99019
+Medical Lake,99022
+Mica,99023
+Newman Lake,99025
+Nine Mile Falls,99026
+Otis Orchards,99027
+Reardan,99029
+Spangle,99031
+Tekoa,99033
+Tumtum,99034
+Valleyford,99036
+Veradale,99037
+Wellpinit,99040
+Addy,99101
+Almira,99103
+Benge,99105
+Chewelah,99109
+Colville,99114
+Coulee City,99115
+Coulee Dam,99116
+Cusick,99119
+Electric City,99123
+Elmer City,99124
+Grand Coulee,99133
+Hartline,99135
+Hay,99136
+Hunters,99137
+Inchelium,99138
+Kettle Falls,99141
+Lacrosse,99143
+Lamona,99144
+Laurier,99146
+Loon Lake,99148
+Malo,99150
+Metaline,99152
+Metaline Falls,99153
+Mohler,99154
+Nespelem,99155
+Oakesdale,99158
+Palouse,99161
+Ritzville,99169
+Steptoe,99174
+Usk,99180
+Pasco,99301
+Bickleton,99322
+College Place,99324
+Connell,99326
+Eltopia,99330
+Kahlotus,99335
+Kennewick,99336
+Lind,99341
+Othello,99344
+Mattawa,99349
+Prosser,99350
+West Richland,99353
+Royal City,99357
+Touchet,99360
+Waitsburg,99361
+Walla Walla,99362
+Wallula,99363
+Washtucna,99371
+Anatone,99401
+Asotin,99402

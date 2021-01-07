@@ -1,0 +1,341 @@
+Alabama
+Moody,35004
+Adger,35006
+Alabaster,35007
+Alexander City,35010
+Allgood,35013
+Arab,35016
+Baileyton,35019
+Blountsville,35031
+Bon Air,35032
+Brent,35034
+Brierfield,35035
+Calera,35040
+Childersburg,35044
+Clanton,35045
+Columbiana,35051
+Cook Springs,35052
+Crane Hill,35053
+Cropwell,35054
+Cullman,35055
+Docena,35060
+Dolomite,35061
+Dora,35062
+Empire,35063
+Fultondale,35068
+Gardendale,35071
+Goodwater,35072
+Hanceville,35077
+Harpersville,35078
+Hayden,35079
+Helena,35080
+Hollins,35082
+Holly Pond,35083
+Jemison,35085
+Kellyton,35089
+Locust Fork,35097
+Mc Calla,35111
+Margaret,35112
+Montevallo,35115
+Mulga,35118
+Odenville,35120
+Pell City,35125
+Pinson,35126
+Pleasant Grove,35127
+Remlap,35133
+Rockford,35136
+Sterrett,35147
+Sumiton,35148
+Sylacauga,35150
+Talladega,35160
+Thorsby,35171
+Trussville,35173
+Vandiver,35176
+Vincent,35178
+Vinemont,35179
+Warrior,35180
+Weogufka,35183
+West Blocton,35184
+Wilsonville,35186
+Tuscaloosa,35401
+Aliceville,35442
+Boligee,35443
+Brookwood,35444
+Buhl,35446
+Coker,35452
+Duncanville,35456
+Echola,35457
+Elrod,35458
+Emelle,35459
+Epes,35460
+Ethelsville,35461
+Eutaw,35462
+Fosters,35463
+Gordo,35466
+Moundville,35474
+Panola,35477
+Ralph,35480
+Reform,35481
+Arley,35541
+Bankston,35542
+Beaverton,35544
+Belk,35545
+Berry,35546
+Brilliant,35548
+Carbon Hill,35549
+Double Springs,35553
+Eldridge,35554
+Fayette,35555
+Guin,35563
+Hackleburg,35564
+Haleyville,35565
+Nauvoo,35578
+Oakman,35579
+Phil Campbell,35581
+Red Bay,35582
+Sipsey,35584
+Sulligent,35586
+Townley,35587
+Vina,35593
+Belle Mina,35615
+Elkmont,35620
+Eva,35621
+Falkville,35622
+Hartselle,35640
+Killen,35645
+Leighton,35646
+Moulton,35650
+Russellville,35653
+Muscle Shoals,35661
+Tanner,35671
+Town Creek,35672
+Tuscumbia,35674
+Brownsboro,35741
+Estillfork,35745
+Fackler,35746
+Gurley,35748
+Harvest,35749
+Hazel Green,35750
+Hollytree,35751
+Laceys Spring,35754
+Langston,35755
+Meridianville,35759
+Owens Cross Roads,35763
+Paint Rock,35764
+Pisgah,35765
+Scottsboro,35768
+Section,35771
+Toney,35773
+Valhermoso Springs,35775
+Huntsville,35801
+Rainbow City,35906
+Albertville,35950
+Attalla,35954
+Boaz,35956
+Bryant,35958
+Centre,35960
+Crossville,35962
+Fort Payne,35967
+Fyffe,35971
+Gallant,35972
+Gaylesville,35973
+Geraldine,35974
+Groveoak,35975
+Guntersville,35976
+Henagar,35978
+Higdon,35979
+Horton,35980
+Ider,35981
+Mentone,35984
+Rainsville,35986
+Steele,35987
+Walnut Grove,35990
+Autaugaville,36003
+Banks,36005
+Billingsley,36006
+Brantley,36009
+Brundidge,36010
+Coosada,36020
+Deatsville,36022
+Eclectic,36024
+Elmore,36025
+Equality,36026
+Eufaula,36027
+Dozier,36028
+Fitzpatrick,36029
+Forest Home,36030
+Fort Davis,36031
+Fort Deposit,36032
+Georgiana,36033
+Grady,36036
+Gantt,36038
+Hardaway,36039
+Hayneville,36040
+Highland Home,36041
+Honoraville,36042
+Hope Hull,36043
+Lapine,36046
+Letohatchee,36047
+Luverne,36049
+Pike Road,36064
+Prattville,36066
+Ramer,36069
+Shorter,36075
+Tallassee,36078
+Titus,36080
+Tuskegee,36083
+Tuskegee Institute,36088
+Verbena,36091
+Wetumpka,36092
+Anniston,36201
+Cragford,36255
+Daviston,36256
+Eastaboga,36260
+Fruithurst,36262
+Heflin,36264
+Lineville,36266
+Millerville,36267
+Munford,36268
+Muscadine,36269
+Ohatchee,36271
+Ranburne,36273
+Weaver,36277
+Wedowee,36278
+Dothan,36301
+Ariton,36311
+Black,36314
+Chancellor,36316
+Clopton,36317
+Coffee Springs,36318
+Cottonwood,36320
+Cowarts,36321
+Headland,36345
+Jack,36346
+Midland City,36350
+New Brockton,36351
+Ozark,36360
+Fort Rucker,36362
+Pansey,36370
+Pinckard,36371
+Shorterville,36373
+Skipperville,36374
+Slocomb,36375
+Webb,36376
+Andalusia,36420
+Beatrice,36425
+Brewton,36426
+Castleberry,36432
+Coy,36435
+Dickinson,36436
+Excel,36439
+Flomaton,36441
+Florala,36442
+Frisco City,36445
+Grove Hill,36451
+Mc Kenzie,36456
+Opp,36467
+Perdue Hill,36470
+Peterman,36471
+Range,36473
+Red Level,36474
+Repton,36475
+River Falls,36476
+Samson,36477
+Uriah,36480
+Vredenburgh,36481
+Whatley,36482
+Wing,36483
+Atmore,36502
+Axis,36505
+Bay Minette,36507
+Bayou La Batre,36509
+Bon Secour,36511
+Bucks,36512
+Calvert,36513
+Chatom,36518
+Chunchula,36521
+Citronelle,36522
+Coden,36523
+Coffeeville,36524
+Creola,36525
+Daphne,36526
+Dauphin Island,36528
+Elberta,36530
+Foley,36535
+Frankville,36538
+Fruitdale,36539
+Gainestown,36540
+Grand Bay,36541
+Gulf Shores,36542
+Huxford,36543
+Leroy,36548
+Lillian,36549
+Loxley,36551
+Magnolia Springs,36555
+Malcolm,36556
+Millry,36558
+Orange Beach,36561
+Perdido,36562
+Point Clear,36564
+Saint Elmo,36568
+Saint Stephens,36569
+Saraland,36571
+Semmes,36575
+Silverhill,36576
+Sunflower,36581
+Theodore,36582
+Tibbie,36583
+Vinegar Bend,36584
+Wagarville,36585
+Wilmer,36587
+Mobile,36602
+Eight Mile,36613
+Boykin,36723
+Catherine,36728
+Demopolis,36732
+Dixons Mills,36736
+Faunsdale,36738
+Forkland,36740
+Gallion,36742
+Jones,36749
+Maplesville,36750
+Lower Peach Tree,36751
+Lowndesboro,36752
+Mc Williams,36753
+Plantersville,36758
+Marion Junction,36759
+Minter,36761
+Myrtlewood,36763
+Newbern,36765
+Orrville,36767
+Pine Apple,36768
+Safford,36773
+Sawyerville,36776
+Sweet Water,36782
+Tyler,36785
+Stanton,36790
+Lawley,36793
+Opelika,36801
+Auburn University,36849
+Dadeville,36853
+Valley,36854
+Five Points,36855
+Fort Mitchell,36856
+Hatchechubbee,36858
+Holy Trinity,36859
+Hurtsboro,36860
+Jacksons Gap,36861
+Lanett,36863
+Loachapoka,36865
+Notasulga,36866
+Phenix City,36867
+Pittsview,36871
+Seale,36875
+Smiths Station,36877
+Bellamy,36901
+Gilbertown,36908
+Jachin,36910
+Lisman,36912
+Melvin,36913
+Silas,36919
+Toxey,36921

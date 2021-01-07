@@ -1,0 +1,264 @@
+Louisiana
+Metairie,70001
+Des Allemands,70030
+Ama,70031
+Barataria,70036
+Belle Chasse,70037
+Boothville,70038
+Boutte,70039
+Braithwaite,70040
+Buras,70041
+Chalmette,70043
+Destrehan,70047
+Edgard,70049
+Garyville,70051
+Gramercy,70052
+Hahnville,70057
+Kenner,70062
+Lafitte,70067
+Luling,70070
+Lutcher,70071
+Marrero,70072
+Meraux,70075
+Norco,70079
+Paradis,70080
+Pointe A La Hache,70082
+Port Sulphur,70083
+Saint Bernard,70085
+Saint Rose,70087
+Vacherie,70090
+Violet,70092
+Westwego,70094
+New Orleans,70112
+Thibodaux,70301
+Pierre Part,70339
+Belle Rose,70341
+Bourg,70343
+Chauvin,70344
+Cut Off,70345
+Donaldsonville,70346
+Donner,70352
+Dulac,70353
+Galliano,70354
+Gheens,70355
+Golden Meadow,70357
+Houma,70360
+Labadieville,70372
+Larose,70373
+Montegut,70377
+Napoleonville,70390
+Paincourtville,70391
+Plattenville,70393
+Raceland,70394
+Schriever,70395
+Theriot,70397
+Abita Springs,70420
+Amite,70422
+Angie,70426
+Bogalusa,70427
+Bush,70431
+Fluker,70436
+Husser,70442
+Kentwood,70444
+Lacombe,70445
+Loranger,70446
+Mandeville,70448
+Maurepas,70449
+Natalbany,70451
+Ponchatoula,70454
+Robert,70455
+Slidell,70458
+Sun,70463
+Talisheek,70464
+Tangipahoa,70465
+Tickfaw,70466
+Arnaudville,70512
+Avery Island,70513
+Basile,70515
+Breaux Bridge,70517
+Broussard,70518
+Cade,70519
+Carencro,70520
+Charenton,70523
+Chataignier,70524
+Church Point,70525
+Crowley,70526
+Delcambre,70528
+Duson,70529
+Erath,70533
+Estherwood,70534
+Evangeline,70537
+Grand Coteau,70541
+Gueydan,70542
+Iota,70543
+Jeanerette,70544
+Kaplan,70548
+Lake Arthur,70549
+Lawtell,70550
+Loreauville,70552
+Mamou,70554
+Mermentau,70556
+Morse,70559
+New Iberia,70560
+Opelousas,70570
+Pine Prairie,70576
+Port Barre,70577
+Rayne,70578
+Reddell,70580
+Saint Martinville,70582
+Turkey Creek,70585
+Ville Platte,70586
+Welsh,70591
+Lake Charles,70601
+Creole,70632
+Dequincy,70633
+Deridder,70634
+Grand Chenier,70643
+Hackberry,70645
+Iowa,70647
+Kinder,70648
+Lacassine,70650
+Leblanc,70651
+Merryville,70653
+Mittie,70654
+Pitkin,70656
+Ragley,70657
+Reeves,70658
+Rosepine,70659
+Singer,70660
+Starks,70661
+Sugartown,70662
+Denham Springs,70706
+Addis,70710
+Batchelor,70715
+Brusly,70719
+Carville,70721
+Convent,70723
+Darrow,70725
+Erwinville,70729
+Fordoche,70732
+French Settlement,70733
+Geismar,70734
+Glynn,70736
+Gonzales,70737
+Greenwell Springs,70739
+Grosse Tete,70740
+Hester,70743
+Innis,70747
+Jarreau,70749
+Krotz Springs,70750
+Lettsworth,70753
+Lottie,70756
+Maringouin,70757
+New Roads,70760
+Oscar,70762
+Paulina,70763
+Plaquemine,70764
+Port Allen,70767
+Prairieville,70769
+Pride,70770
+Rougon,70773
+Saint Amant,70774
+Saint Gabriel,70776
+Slaughter,70777
+Sunshine,70780
+Ventress,70783
+Weyanoke,70787
+White Castle,70788
+Zachary,70791
+Baton Rouge,70801
+Bienville,71008
+Castor,71016
+Cotton Valley,71018
+Coushatta,71019
+Doyline,71023
+Dubberly,71024
+Frierson,71027
+Gibsland,71028
+Goldonna,71031
+Grand Cane,71032
+Hall Summit,71034
+Haughton,71037
+Haynesville,71038
+Hosston,71043
+Keatchie,71046
+Keithville,71047
+Mooringsport,71060
+Pelican,71063
+Plain Dealing,71064
+Rodessa,71069
+Sarepta,71071
+Shongaloo,71072
+Springhill,71075
+Shreveport,71101
+Barksdale Afb,71110
+Bossier City,71111
+Baskin,71219
+Bastrop,71220
+Bernice,71222
+Bonita,71223
+Choudrant,71227
+Collinston,71229
+Dubach,71235
+Epps,71237
+Eros,71238
+Farmerville,71241
+Fort Necessity,71243
+Grambling,71245
+Hodge,71247
+Lake Providence,71254
+Lillie,71256
+Mangham,71259
+Mer Rouge,71261
+Ruston,71270
+Simsboro,71275
+Sondheimer,71276
+Spearsville,71277
+Start,71279
+Sterlington,71280
+Tallulah,71282
+Transylvania,71286
+Bunkie,71322
+Cheneyville,71325
+Cottonport,71327
+Deville,71328
+Ferriday,71334
+Hessmer,71341
+Jena,71342
+Lebeau,71345
+Lecompte,71346
+Mansura,71350
+Marksville,71351
+Moreauville,71355
+Newellton,71357
+Plaucheville,71362
+Saint Landry,71367
+Sicily Island,71368
+Simmesport,71369
+Trout,71371
+Waterproof,71375
+Wildsville,71377
+Aimwell,71401
+Anacoco,71403
+Ball,71405
+Campti,71411
+Cloutierville,71416
+Dry Prong,71423
+Florien,71429
+Glenmora,71433
+Hineston,71438
+Hornbeck,71439
+Many,71449
+Marthaville,71450
+Natchitoches,71457
+Fort Polk,71459
+New Llano,71461
+Olla,71465
+Provencal,71468
+Robeline,71469
+Sieper,71472
+Sikes,71473
+Tullos,71479
+Urania,71480
+Winnfield,71483
+Zwolle,71486

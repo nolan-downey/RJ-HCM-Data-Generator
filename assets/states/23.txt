@@ -1,0 +1,446 @@
+Minnesota
+Braham,55006
+Brook Park,55007
+Cannon Falls,55009
+Center City,55012
+Chisago City,55013
+Circle Pines,55014
+Dalbo,55017
+Elko New Market,55020
+Faribault,55021
+Forest Lake,55025
+Frontenac,55026
+Goodhue,55027
+Grasston,55030
+Henriette,55036
+Hugo,55038
+Isanti,55040
+Lake Elmo,55042
+Lindstrom,55045
+Lonsdale,55046
+Marine On Saint Croix,55047
+Mora,55051
+Nerstrand,55053
+Owatonna,55060
+Red Wing,55066
+Rosemount,55068
+Rush City,55069
+Saint Paul Park,55071
+Scandia,55073
+Shafer,55074
+South Saint Paul,55075
+Inver Grove Heights,55076
+Stanchfield,55080
+Taylors Falls,55084
+Vermillion,55085
+Willernie,55090
+Anoka,55303
+Becker,55308
+Big Lake,55309
+Bird Island,55310
+Maple Grove,55311
+Brownton,55312
+Buffalo Lake,55314
+Champlin,55316
+Chanhassen,55317
+Chaska,55318
+Cokato,55321
+Cologne,55322
+Darwin,55324
+Dassel,55325
+Eden Valley,55329
+Elk River,55330
+Excelsior,55331
+Gibbon,55335
+Green Isle,55338
+Hamel,55340
+Eden Prairie,55344
+Minnetonka,55345
+Howard Lake,55349
+Lester Prairie,55354
+Maple Lake,55358
+Maple Plain,55359
+Mayer,55360
+Mound,55364
+New Germany,55367
+Norwood Young America,55368
+Plato,55370
+Prior Lake,55372
+Saint Bonifacius,55375
+Shakopee,55379
+Spring Park,55384
+Waconia,55387
+Wayzata,55391
+Zimmerman,55398
+Beaver Bay,55601
+Brimson,55602
+Finland,55603
+Grand Portage,55605
+Hovland,55606
+Knife River,55609
+Lutsen,55612
+Schroeder,55613
+Tofte,55615
+Two Harbors,55616
+Alborn,55702
+Angora,55703
+Askov,55704
+Babbitt,55706
+Biwabik,55708
+Bovey,55709
+Canyon,55717
+Chisholm,55719
+Cloquet,55720
+Coleraine,55722
+Cook,55723
+Cotton,55724
+Crane Lake,55725
+Esko,55733
+Eveleth,55734
+Finlayson,55735
+Floodwood,55736
+Forbes,55738
+Hibbing,55746
+Hill City,55748
+Hoyt Lakes,55750
+Iron,55751
+Jacobson,55752
+Keewatin,55753
+Kerrick,55756
+Kettle River,55757
+Kinney,55758
+Mcgregor,55760
+Makinen,55763
+Meadowlands,55765
+Melrude,55766
+Moose Lake,55767
+Mountain Iron,55768
+Nashwauk,55769
+Orr,55771
+Nett Lake,55772
+Pengilly,55775
+Side Lake,55781
+Soudan,55782
+Sturgeon Lake,55783
+Swan River,55784
+Swatara,55785
+Taconite,55786
+Tamarack,55787
+Tower,55790
+Virginia,55792
+Warba,55793
+Willow River,55795
+Wrenshall,55797
+Wright,55798
+Altura,55910
+Blooming Prairie,55917
+Brownsdale,55918
+Dakota,55925
+Dodge Center,55927
+Eitzen,55931
+Eyota,55934
+Grand Meadow,55936
+Hayfield,55940
+Hokah,55941
+Kasson,55944
+La Crescent,55947
+Lyle,55953
+Mabel,55954
+Mantorville,55955
+Mazeppa,55956
+Minnesota City,55959
+Oronoco,55960
+Reads Landing,55968
+Rollingstone,55969
+Rose Creek,55970
+Sargeant,55973
+Stewartville,55976
+Taopi,55977
+Wabasha,55981
+Wanamingo,55983
+West Concord,55985
+Wykoff,55990
+Zumbro Falls,55991
+Zumbrota,55992
+Mankato,56001
+Albert Lea,56007
+Blue Earth,56013
+Bricelyn,56014
+Clarks Grove,56016
+Comfrey,56019
+Conger,56020
+Darfur,56022
+Elysian,56028
+Emmons,56029
+Freeborn,56032
+Frost,56033
+Good Thunder,56037
+Granada,56039
+Hanska,56041
+Huntley,56047
+Kasota,56050
+Kiester,56051
+Kilkenny,56052
+Lake Crystal,56055
+Le Center,56057
+Le Sueur,56058
+Madelia,56062
+Madison Lake,56063
+Minnesota Lake,56068
+New Prague,56071
+New Richland,56072
+New Ulm,56073
+Nicollet,56074
+Northrop,56075
+Saint Peter,56082
+Sleepy Eye,56085
+Truman,56088
+Waseca,56093
+Windom,56101
+Arco,56113
+Balaton,56115
+Beaver Creek,56116
+Bigelow,56117
+Bingham Lake,56118
+Butterfield,56120
+Ceylon,56121
+Dovray,56125
+Dunnell,56127
+Garvin,56132
+Heron Lake,56137
+Ihlen,56140
+Iona,56141
+Jeffers,56145
+Kanaranzi,56146
+Kenneth,56147
+Lake Benton,56149
+Lakefield,56150
+Lake Wilson,56151
+Lamberton,56152
+Leota,56153
+Lismore,56155
+Lynd,56157
+Mountain Lake,56159
+Odin,56160
+Okabena,56161
+Ormsby,56162
+Pipestone,56164
+Rushmore,56168
+Ruthton,56170
+Sherburn,56171
+Slayton,56172
+Steen,56173
+Storden,56174
+Trimont,56176
+Wilmont,56185
+Willmar,56201
+Barry,56210
+Beardsley,56211
+Belview,56214
+Blomkest,56216
+Browns Valley,56219
+Canby,56220
+Chokio,56221
+Clara City,56222
+Clarkfield,56223
+Clontarf,56226
+Correll,56227
+Cosmos,56228
+Danube,56230
+Donnelly,56235
+Echo,56237
+Hanley Falls,56245
+Herman,56248
+Kandiyohi,56251
+Kerkhoven,56252
+Lake Lillian,56253
+Lucan,56255
+Minneota,56264
+Montevideo,56265
+Murdock,56271
+Olivia,56277
+Pennock,56279
+Prinsburg,56281
+Redwood Falls,56283
+Renville,56284
+Sacred Heart,56285
+Seaforth,56287
+Spicer,56288
+Sunburg,56289
+Vesta,56292
+Wanda,56294
+Watson,56295
+Wheaton,56296
+Wood Lake,56297
+Barrett,56311
+Bock,56313
+Bowlus,56314
+Brooten,56316
+Burtrum,56318
+Carlos,56319
+Cyrus,56323
+Elrosa,56325
+Flensburg,56328
+Foreston,56330
+Greenwald,56335
+Grey Eagle,56336
+Holdingford,56340
+Isle,56342
+Long Prairie,56347
+Mc Grath,56350
+Milaca,56353
+Miltona,56354
+New Munich,56356
+Ogilvie,56358
+Onamia,56359
+Osakis,56360
+Parkers Prairie,56361
+Pease,56363
+Pierz,56364
+Saint Martin,56376
+Sartell,56377
+Sauk Centre,56378
+Sauk Rapids,56379
+Starbuck,56381
+Swanville,56382
+Upsala,56384
+Villard,56385
+Wahkon,56386
+Waite Park,56387
+Brainerd,56401
+Aitkin,56431
+Akeley,56433
+Aldrich,56434
+Backus,56435
+Bertha,56437
+Browerville,56438
+Clarissa,56440
+Crosslake,56442
+Deerwood,56444
+Eagle Bend,56446
+Emily,56447
+Fifty Lakes,56448
+Fort Ripley,56449
+Menahga,56464
+Merrifield,56465
+Motley,56466
+Nevis,56467
+Nisswa,56468
+Palisade,56469
+Park Rapids,56470
+Pequot Lakes,56472
+Pillager,56473
+Sebeka,56477
+Staples,56479
+Verndale,56481
+Detroit Lakes,56501
+Battle Lake,56515
+Bejou,56516
+Beltrami,56517
+Borup,56519
+Clitherall,56524
+Deer Creek,56527
+Dent,56528
+Dilworth,56529
+Elbow Lake,56531
+Erhard,56534
+Erskine,56535
+Fergus Falls,56537
+Flom,56541
+Fosston,56542
+Foxhome,56543
+Frazee,56544
+Halstad,56548
+Hendrum,56550
+Hitterdal,56552
+Mcintosh,56556
+Mahnomen,56557
+Naytahwaush,56566
+Nielsville,56568
+Ottertail,56571
+Pelican Rapids,56572
+Perley,56574
+Ponsford,56575
+Rochert,56578
+Rothsay,56579
+Sabin,56580
+Shelly,56581
+Tintah,56583
+Twin Valley,56584
+Ulen,56585
+Vergas,56587
+Waubun,56589
+White Earth,56591
+Winger,56592
+Wolf Lake,56593
+Wolverton,56594
+Bemidji,56601
+Baudette,56623
+Bena,56626
+Big Falls,56627
+Bigfork,56628
+Birchdale,56629
+Blackduck,56630
+Cass Lake,56633
+Clearbrook,56634
+Deer River,56636
+Talmoon,56637
+Effie,56639
+Federal Dam,56641
+Gonvick,56644
+Gully,56646
+Hines,56647
+International Falls,56649
+Kelliher,56650
+Lengby,56651
+Littlefork,56653
+Loman,56654
+Longville,56655
+Marcell,56657
+Margie,56658
+Max,56659
+Mizpah,56660
+Northome,56661
+Outing,56662
+Ponemah,56666
+Puposky,56667
+Ranier,56668
+Kabetogama,56669
+Redby,56670
+Redlake,56671
+Remer,56672
+Shevlin,56676
+Solway,56678
+Squaw Lake,56681
+Tenstrike,56683
+Trail,56684
+Waskish,56685
+Wirt,56688
+Thief River Falls,56701
+Alvarado,56710
+Angle Inlet,56711
+Crookston,56716
+Donaldson,56720
+East Grand Forks,56721
+Gatzke,56724
+Goodridge,56725
+Grygla,56727
+Hallock,56728
+Halma,56729
+Karlstad,56732
+Lake Bronson,56734
+Newfolden,56738
+Oklee,56742
+Oslo,56744
+Plummer,56748
+Red Lake Falls,56750
+Roseau,56751
+Saint Hilaire,56754
+Saint Vincent,56755
+Salol,56756
+Stephen,56757
+Strandquist,56758
+Strathcona,56759
+Viking,56760
+Wannaska,56761
+Warroad,56763

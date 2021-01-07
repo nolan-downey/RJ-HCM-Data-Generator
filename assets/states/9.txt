@@ -1,0 +1,350 @@
+Florida
+Fleming Island,32003
+Bryceville,32009
+Callahan,32011
+Fernandina Beach,32034
+Fort White,32038
+Glen Saint Mary,32040
+Green Cove Springs,32043
+Hilliard,32046
+Jennings,32053
+Lake Butler,32054
+Lawtey,32058
+Live Oak,32060
+Lulu,32061
+Mc Alpin,32062
+Macclenny,32063
+Orange Park,32065
+O Brien,32071
+Penney Farms,32079
+Saint Augustine,32080
+Ponte Vedra,32081
+Ponte Vedra Beach,32082
+Raiford,32083
+Sanderson,32087
+Starke,32091
+Wellborn,32094
+White Springs,32096
+Yulee,32097
+Astor,32102
+Bunnell,32110
+Crescent City,32112
+Citra,32113
+Daytona Beach,32114
+Port Orange,32127
+De Leon Springs,32130
+East Palatka,32131
+Eastlake Weir,32133
+Fort Mc Coy,32134
+Flagler Beach,32136
+Palm Coast,32137
+Florahome,32140
+Interlachen,32148
+Lady Lake,32159
+The Villages,32162
+New Smyrna Beach,32168
+Ormond Beach,32174
+Palatka,32177
+Ocklawaha,32179
+Pierson,32180
+Pomona Park,32181
+San Mateo,32187
+Satsuma,32189
+Welaka,32193
+Weirsdale,32195
+Jacksonville Beach,32250
+Saint Johns,32259
+Neptune Beach,32266
+Tallahassee,32301
+Apalachicola,32320
+Carrabelle,32322
+Lanark Village,32323
+Chattahoochee,32324
+Eastpoint,32328
+Havana,32333
+Hosford,32334
+Lamont,32336
+Panacea,32346
+Pinetta,32350
+Saint Marks,32355
+Sopchoppy,32358
+Steinhatchee,32359
+Wacissa,32361
+Panama City,32401
+Panama City Beach,32407
+Mexico Beach,32410
+Alford,32420
+Altha,32421
+Bascom,32423
+Blountstown,32424
+Bonifay,32425
+Campbellton,32426
+Caryville,32427
+Chipley,32428
+Cottondale,32431
+Cypress,32432
+Defuniak Springs,32433
+Ebro,32437
+Graceville,32440
+Grand Ridge,32442
+Lynn Haven,32444
+Wewahitchka,32449
+Ponce De Leon,32455
+Port Saint Joe,32456
+Santa Rosa Beach,32459
+Sneads,32460
+Inlet Beach,32461
+Wausau,32463
+Pensacola,32501
+Bagdad,32530
+Cantonment,32533
+Century,32535
+Crestview,32536
+Destin,32541
+Eglin Afb,32542
+Hurlburt Field,32544
+Fort Walton Beach,32547
+Miramar Beach,32550
+Gulf Breeze,32561
+Holt,32564
+Navarre,32566
+Mc David,32568
+Mary Esther,32569
+Molino,32577
+Niceville,32578
+Shalimar,32579
+Valparaiso,32580
+Alachua,32615
+Anthony,32617
+Archer,32618
+Bell,32619
+Bronson,32621
+Brooker,32622
+Cedar Key,32625
+Chiefland,32626
+Cross City,32628
+Earleton,32631
+Gulf Hammock,32639
+High Springs,32643
+Horseshoe Beach,32648
+Keystone Heights,32656
+Mc Intosh,32664
+Micanopy,32667
+Morriston,32668
+Orange Lake,32681
+Otter Creek,32683
+Reddick,32686
+Suwannee,32692
+Waldo,32694
+Worthington Springs,32697
+Altamonte Springs,32701
+Apopka,32703
+Casselberry,32707
+Winter Springs,32708
+Christmas,32709
+Debary,32713
+Deland,32720
+Deltona,32725
+Lake Helen,32744
+Lake Mary,32746
+Maitland,32751
+Mims,32754
+Mount Dora,32757
+Orange City,32763
+Osteen,32764
+Oviedo,32765
+Paisley,32767
+Tavares,32778
+Umatilla,32784
+Winter Park,32789
+Zellwood,32798
+Melbourne,32901
+Indialantic,32903
+Palm Bay,32905
+Cape Canaveral,32920
+Cocoa,32922
+Patrick Afb,32925
+Cocoa Beach,32931
+Satellite Beach,32937
+Fellsmere,32948
+Grant,32949
+Malabar,32950
+Melbourne Beach,32951
+Merritt Island,32952
+Sebastian,32958
+Vero Beach,32960
+Wabasso,32970
+Long Key,33001
+Dania,33004
+Hallandale,33009
+Hialeah,33010
+Pembroke Pines,33028
+Islamorada,33036
+Key Largo,33037
+Key West,33040
+Summerland Key,33042
+Big Pine Key,33043
+Key Colony Beach,33051
+Opa Locka,33054
+Miami Gardens,33056
+Pompano Beach,33060
+Coral Springs,33065
+Tavernier,33070
+Miami Beach,33109
+Key Biscayne,33149
+North Miami Beach,33160
+Fort Lauderdale,33301
+West Palm Beach,33401
+North Palm Beach,33408
+Palm Beach Gardens,33410
+Wellington,33414
+Boynton Beach,33426
+Boca Raton,33428
+Belle Glade,33430
+Canal Point,33438
+Clewiston,33440
+Deerfield Beach,33441
+Delray Beach,33444
+Lake Worth,33449
+Hobe Sound,33455
+Jupiter,33458
+Lake Worth Beach,33460
+Loxahatchee,33470
+Moore Haven,33471
+Pahokee,33476
+Palm Beach,33480
+South Bay,33493
+Balm,33503
+Bushnell,33513
+Center Hill,33514
+Coleman,33521
+Dade City,33523
+Gibsonton,33534
+Lake Panasoffkee,33538
+Zephyrhills,33540
+Wesley Chapel,33543
+Lithia,33547
+Lutz,33548
+Plant City,33563
+Riverview,33569
+Ruskin,33570
+Apollo Beach,33572
+Sun City Center,33573
+Seffner,33584
+Sumterville,33585
+Thonotosassa,33592
+Valrico,33594
+Wimauma,33598
+Tampa,33602
+Bay Pines,33744
+Clearwater,33755
+Clearwater Beach,33767
+Largo,33770
+Pinellas Park,33781
+Indian Rocks Beach,33785
+Belleair Beach,33786
+Avon Park,33825
+Fort Meade,33841
+Frostproof,33843
+Haines City,33844
+Homeland,33847
+Intercession City,33848
+Lake Alfred,33850
+Lake Hamilton,33851
+Lake Wales,33853
+Lakeshore,33854
+Indian Lake Estates,33855
+Nalcrest,33856
+Lorida,33857
+Mulberry,33860
+River Ranch,33867
+Polk City,33868
+Sebring,33870
+Wauchula,33873
+Winter Haven,33880
+Zolfo Springs,33890
+Fort Myers,33901
+North Fort Myers,33903
+Cape Coral,33904
+Alva,33920
+Boca Grande,33921
+Bokeelia,33922
+Captiva,33924
+Estero,33928
+Felda,33930
+Fort Myers Beach,33931
+Labelle,33935
+Lehigh Acres,33936
+Palmdale,33944
+Placida,33946
+Rotonda West,33947
+Port Charlotte,33948
+Punta Gorda,33950
+Saint James City,33956
+Sanibel,33957
+Bonita Springs,34134
+Copeland,34137
+Chokoloskee,34138
+Everglades City,34139
+Goodland,34140
+Ochopee,34141
+Immokalee,34142
+Marco Island,34145
+Bradenton,34201
+Cortez,34215
+Anna Maria,34216
+Bradenton Beach,34217
+Parrish,34219
+Longboat Key,34228
+Osprey,34229
+Sarasota,34231
+Myakka City,34251
+Nocatee,34268
+Nokomis,34275
+Venice,34285
+North Port,34286
+Belleview,34420
+Crystal River,34428
+Dunnellon,34431
+Floral City,34436
+Hernando,34442
+Holder,34445
+Homosassa,34446
+Inglis,34449
+Inverness,34450
+Lecanto,34461
+Beverly Hills,34465
+Ocala,34470
+Yankeetown,34498
+Spring Hill,34606
+Land O Lakes,34637
+New Port Richey,34652
+Nobleton,34661
+Port Richey,34668
+Oldsmar,34677
+Aripeka,34679
+Crystal Beach,34681
+Palm Harbor,34683
+Tarpon Springs,34688
+Holiday,34690
+Safety Harbor,34695
+Dunedin,34698
+Astatula,34705
+Fruitland Park,34731
+Gotha,34734
+Howey In The Hills,34737
+Kissimmee,34741
+Mascotte,34753
+Montverde,34756
+Ocoee,34761
+Okahumpka,34762
+Saint Cloud,34769
+Windermere,34786
+Winter Garden,34787
+Yalaha,34797
+Fort Pierce,34945
+Port Saint Lucie,34952
+Indiantown,34956
+Jensen Beach,34957
+Okeechobee,34972
+Palm City,34990

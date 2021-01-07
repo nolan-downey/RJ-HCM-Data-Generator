@@ -1,0 +1,198 @@
+South Dakota
+Alcester,57001
+Beresford,57004
+Brookings,57006
+Canistota,57012
+Colman,57017
+Crooks,57020
+Dell Rapids,57022
+Egan,57024
+Elk Point,57025
+Flandreau,57028
+Garretson,57030
+Gayville,57031
+Irene,57037
+Lennox,57039
+Lesterville,57040
+Menno,57045
+Mission Hill,57046
+North Sioux City,57049
+Oldham,57051
+Ramona,57054
+Renner,57055
+Sinai,57061
+Tea,57064
+Trent,57065
+Tyndall,57066
+Valley Springs,57068
+Viborg,57070
+Volin,57072
+Wakonda,57073
+Winfred,57076
+Worthing,57077
+Yankton,57078
+Sioux Falls,57103
+Big Stone City,57216
+Brandt,57218
+Claire City,57224
+De Smet,57231
+Estelline,57234
+Goodwin,57238
+Grenville,57239
+Hayti,57241
+Kranzburg,57245
+Labolt,57246
+Lake Norden,57248
+Lake Preston,57249
+Marvin,57251
+Milbank,57252
+New Effington,57255
+Ortley,57256
+Peever,57257
+Revillo,57259
+Sisseton,57262
+Strandburg,57265
+Twin Brooks,57269
+Veblen,57270
+Waubay,57273
+Willow Lake,57278
+Armour,57313
+Artesian,57314
+Bonesteel,57317
+Canova,57321
+Cavour,57324
+Emery,57332
+Ethan,57334
+Fedora,57337
+Fort Thompson,57339
+Gann Valley,57341
+Geddes,57342
+Highmore,57345
+Stephan,57346
+Hitchcock,57348
+Iroquois,57353
+Lake Andes,57356
+Marty,57361
+Miller,57362
+Oacoma,57365
+Parkston,57366
+Pickstown,57367
+Plankinton,57368
+Platte,57369
+Pukwana,57370
+Ree Heights,57371
+Saint Lawrence,57373
+Stickney,57375
+Tripp,57376
+Virgil,57379
+Wagner,57380
+Wessington,57381
+Wessington Springs,57382
+Wolsey,57384
+Akaska,57420
+Bowdle,57428
+Brentford,57429
+Conde,57434
+Cresbard,57435
+Doland,57436
+Eureka,57437
+Faulkton,57438
+Ferney,57439
+Hecla,57446
+Hosmer,57448
+Hoven,57450
+Langford,57454
+Mellette,57461
+Onaka,57466
+Rockham,57470
+Selby,57472
+Tolstoy,57475
+Tulare,57476
+Turton,57477
+Pierre,57501
+Agar,57520
+Blunt,57522
+Colome,57528
+Fort Pierre,57532
+Hamill,57534
+Harrold,57536
+Herrick,57538
+Holabird,57540
+Kadoka,57543
+Kennebec,57544
+Lower Brule,57548
+Milesville,57553
+Mission,57555
+Murdo,57559
+Okaton,57562
+Okreek,57563
+Onida,57564
+Parmelee,57566
+Philip,57567
+Presho,57568
+Rosebud,57570
+Tuthill,57574
+Vivian,57576
+Wanblee,57577
+White River,57579
+Winner,57580
+Witten,57584
+Mobridge,57601
+Bison,57620
+Bullhead,57621
+Dupree,57623
+Eagle Butte,57625
+Faith,57626
+Glencross,57630
+Herreid,57632
+Isabel,57633
+Keldron,57634
+Lantry,57636
+Lemmon,57638
+Little Eagle,57639
+Lodgepole,57640
+Mc Laughlin,57642
+Meadow,57644
+Mound City,57646
+Pollock,57648
+Timber Lake,57656
+Trail City,57657
+Wakpala,57658
+Whitehorse,57661
+Ellsworth Afb,57706
+Batesland,57716
+Belle Fourche,57717
+Black Hawk,57718
+Box Elder,57719
+Buffalo Gap,57722
+Camp Crook,57724
+Caputa,57725
+Deadwood,57732
+Edgemont,57735
+Hermosa,57744
+Howes,57748
+Interior,57750
+Kyle,57752
+Lead,57754
+Manderson,57756
+Mud Butte,57758
+Nemo,57759
+New Underwood,57761
+Nisland,57762
+Oelrichs,57763
+Oglala,57764
+Oral,57766
+Owanka,57767
+Porcupine,57772
+Pringle,57773
+Quinn,57775
+Redig,57776
+Saint Onge,57779
+Scenic,57780
+Smithwick,57782
+Spearfish,57783
+Union Center,57787
+Wall,57790
+Wasta,57791
+White Owl,57792
+Wounded Knee,57794

@@ -1,0 +1,780 @@
+Texas
+Coppell,75019
+Flower Mound,75022
+Rockwall,75032
+Sachse,75048
+Grand Prairie,75050
+The Colony,75056
+Gunter,75058
+Lake Dallas,75065
+Little Elm,75068
+Mckinney,75069
+Pottsboro,75076
+Prosper,75078
+Richardson,75080
+Rowlett,75088
+Wylie,75098
+Corsicana,75109
+Desoto,75115
+Eustace,75124
+Forney,75126
+Fruitvale,75127
+Fate,75132
+Caddo Mills,75135
+Grand Saline,75140
+Hutchins,75141
+Kaufman,75142
+Mabank,75147
+Malakoff,75148
+Mesquite,75149
+Rosser,75157
+Scurry,75158
+Seagoville,75159
+Trinidad,75163
+Waxahachie,75165
+Lavon,75166
+Wills Point,75169
+Balch Springs,75180
+Sunnyvale,75182
+Royse City,75189
+Arthur City,75411
+Bagwell,75412
+Ben Franklin,75415
+Blossom,75416
+Bogata,75417
+Bonham,75418
+Celeste,75423
+Cooper,75432
+Cumby,75433
+Deport,75435
+Dodd City,75438
+Ector,75439
+Emory,75440
+Enloe,75441
+Klondike,75448
+Ladonia,75449
+Lake Creek,75450
+Lone Oak,75453
+Melissa,75454
+Pattonville,75468
+Pecan Gap,75469
+Petty,75470
+Pickton,75471
+Point,75472
+Quinlan,75474
+Roxton,75477
+Scroggins,75480
+Sulphur Bluff,75481
+Talco,75487
+Telephone,75488
+Tom Bean,75489
+Whitewright,75491
+Van Alstyne,75495
+Wolfe City,75496
+Yantis,75497
+Annona,75550
+Avery,75554
+Bivins,75555
+Bloomburg,75556
+Cookville,75558
+Hooks,75561
+Kildare,75562
+Redwater,75573
+Avinger,75630
+Beckville,75631
+Daingerfield,75638
+De Berry,75639
+Elysian Fields,75642
+Gilmer,75644
+Gladewater,75647
+Harleton,75651
+Hughes Springs,75656
+Karnack,75661
+Laneville,75667
+Lone Star,75668
+Mount Enterprise,75681
+Ore City,75683
+Waskom,75692
+Arp,75750
+Ben Wheeler,75754
+Bullard,75757
+Cuney,75759
+Frankston,75763
+Larue,75770
+Murchison,75778
+Neches,75779
+New Summerfield,75780
+Reklaw,75784
+Rusk,75785
+Sacul,75788
+Troup,75789
+Donie,75838
+Grapeland,75844
+Kirvin,75848
+Latexo,75849
+Leona,75850
+Lovelady,75851
+Montalba,75853
+Streetman,75859
+Teague,75860
+Tennessee Colony,75861
+Lufkin,75901
+Apple Springs,75926
+Bon Wier,75928
+Broaddus,75929
+Brookeland,75931
+Call,75933
+Chireno,75937
+Colmesneil,75938
+Corrigan,75939
+Diboll,75941
+Doucette,75942
+Etoile,75944
+Hemphill,75948
+Joaquin,75954
+Milam,75959
+Nacogdoches,75961
+Pollok,75969
+San Augustine,75972
+Tenaha,75974
+Timpson,75975
+Wiergate,75977
+Zavalla,75980
+Azle,76020
+Burleson,76028
+Cleburne,76031
+Colleyville,76034
+Euless,76039
+Glen Rose,76043
+Godley,76044
+Granbury,76048
+Haslet,76052
+Joshua,76058
+Kennedale,76060
+Maypearl,76064
+Millsap,76066
+Rainbow,76077
+Rhome,76078
+Southlake,76092
+Rio Vista,76093
+Fort Worth,76102
+Haltom City,76117
+Naval Air Station Jrb,76127
+North Richland Hills,76180
+Era,76238
+Forestburg,76239
+Justin,76247
+Krum,76249
+Muenster,76252
+Myra,76253
+Nocona,76255
+Pilot Point,76258
+Ponder,76259
+Sadler,76264
+Saint Jo,76265
+Sanger,76266
+Southmayd,76268
+Wichita Falls,76301
+Sheppard Afb,76311
+Archer City,76351
+Burkburnett,76354
+Electra,76360
+Goree,76363
+Iowa Park,76367
+Megargel,76370
+Oklaunion,76373
+Weinert,76388
+Windthorst,76389
+Stephenville,76401
+Bryson,76427
+Chico,76431
+Blanket,76432
+Bluff Dale,76433
+De Leon,76444
+Desdemona,76445
+Eastland,76448
+Graford,76449
+Gorman,76454
+Gustine,76455
+Loving,76460
+Lipan,76462
+Mingus,76463
+Olden,76466
+Rising Star,76471
+Santo,76472
+Tolar,76476
+Throckmorton,76483
+Palo Pinto,76484
+Perrin,76486
+Poolville,76487
+Whitt,76490
+Buckholts,76518
+Copperas Cove,76522
+Davilla,76523
+Eddy,76524
+Evant,76525
+Jarrell,76537
+Kempner,76539
+Killeen,76541
+Fort Hood,76544
+Harker Heights,76548
+Lampasas,76550
+Little River Academy,76554
+Milano,76556
+Nolanville,76559
+Purmela,76566
+Rockdale,76567
+Salado,76571
+Schwertner,76573
+Thrall,76578
+Abbott,76621
+Aquilla,76622
+Blum,76627
+Bremond,76629
+China Spring,76633
+Cranfills Gap,76637
+Elm Mott,76640
+Groesbeck,76642
+Iredell,76649
+Italy,76651
+Kopperl,76652
+Kosse,76653
+Lorena,76655
+Lott,76656
+Marlin,76661
+Mart,76664
+Mertens,76666
+Mexia,76667
+Mount Calm,76673
+Penelope,76676
+Prairie Hill,76678
+Purdon,76679
+Riesel,76682
+Satin,76685
+Tehuacana,76686
+Valley Mills,76689
+Walnut Springs,76690
+Wortham,76693
+Woodway,76712
+Art,76820
+Ballinger,76821
+Bangs,76823
+Bend,76824
+Brookesmith,76827
+Burkett,76828
+Castell,76831
+Doole,76836
+Fort Mc Kavett,76841
+Goldthwaite,76844
+Gouldbusk,76845
+Hext,76848
+Lohn,76852
+Lometa,76853
+Menard,76859
+Millersview,76862
+Mullin,76864
+Priddy,76870
+Richland Springs,76871
+Rowena,76875
+San Saba,76877
+Santa Anna,76878
+Talpa,76882
+Valera,76884
+Valley Spring,76885
+Voca,76887
+Voss,76888
+Zephyr,76890
+San Angelo,76901
+Goodfellow Afb,76908
+Bronte,76933
+Carlsbad,76934
+Christoval,76935
+Knickerbocker,76939
+Mereta,76940
+Mertzon,76941
+Ozona,76943
+Robert Lee,76945
+Silver,76949
+Sterling City,76951
+Vancourt,76955
+Conroe,77301
+Ace,77326
+Coldspring,77331
+Huffman,77336
+Humble,77338
+Leggett,77350
+New Caney,77357
+Pointblank,77364
+Romayor,77368
+Splendora,77372
+Spring,77373
+Thicket,77374
+Tomball,77375
+Votaw,77376
+Altair,77412
+Cedar Lane,77415
+Beasley,77417
+Blessing,77419
+Boling,77420
+Brazoria,77422
+Brookshire,77423
+Chappell Hill,77426
+Collegeport,77428
+Damon,77430
+Danevang,77432
+East Bernard,77435
+El Campo,77437
+Elmaton,77440
+Fulshear,77441
+Hockley,77447
+Hungerford,77448
+Katy,77449
+Kendleton,77451
+Lane City,77453
+Lissie,77454
+Matagorda,77457
+Midfield,77458
+Nada,77460
+Needville,77461
+Palacios,77465
+Pledger,77468
+Rosenberg,77471
+San Felipe,77473
+Sealy,77474
+Simonton,77476
+Sugar Land,77478
+Sweeny,77480
+Thompsons,77481
+Van Vleck,77482
+Waller,77484
+Wallis,77485
+Anahuac,77514
+Angleton,77515
+Bacliff,77518
+Batson,77519
+Baytown,77520
+Channelview,77530
+Clute,77531
+Daisetta,77533
+Devers,77538
+Friendswood,77546
+Galena Park,77547
+Hankamer,77560
+Kemah,77565
+Lake Jackson,77566
+La Marque,77568
+League City,77573
+Mont Belvieu,77580
+Pearland,77581
+Rosharon,77583
+South Houston,77587
+Texas City,77590
+Wallisville,77597
+Bridge City,77611
+Buna,77612
+China,77613
+Deweyville,77614
+Evadale,77615
+Fred,77616
+Gilchrist,77617
+Groves,77619
+Hamshire,77622
+High Island,77623
+Hillister,77624
+Kountze,77625
+Nederland,77627
+Port Arthur,77640
+Port Bolivar,77650
+Port Neches,77651
+Sabine Pass,77655
+Silsbee,77656
+Sour Lake,77659
+Spurger,77660
+Stowell,77661
+Vidor,77662
+Village Mills,77663
+Winnie,77665
+Bedias,77831
+Brenham,77833
+College Station,77840
+Dime Box,77853
+Flynn,77855
+Gause,77857
+Hearne,77859
+Marquez,77865
+Navasota,77868
+Normangee,77871
+North Zulch,77872
+Shiro,77876
+Snook,77878
+Austwell,77950
+Cuero,77954
+Fannin,77960
+Francitas,77961
+Ganado,77962
+Goliad,77963
+Hallettsville,77964
+La Ward,77970
+Lolita,77971
+Mcfaddin,77973
+Meyersville,77974
+Nursery,77976
+Placedo,77977
+Point Comfort,77978
+Port Lavaca,77979
+Port O Connor,77982
+Seadrift,77983
+Shiner,77984
+Sweet Home,77987
+Telferner,77988
+Weesatche,77993
+Westhoff,77994
+Yoakum,77995
+Artesia Wells,78001
+Atascosa,78002
+Bandera,78003
+Bergheim,78004
+Bigfoot,78005
+Boerne,78006
+Calliham,78007
+Castroville,78009
+Cotulla,78014
+Devine,78016
+Dilley,78017
+Encinal,78019
+George West,78022
+Helotes,78023
+Ingram,78025
+Jourdanton,78026
+Kendalia,78027
+Kerrville,78028
+La Coste,78039
+Leming,78050
+Lytle,78052
+Mico,78056
+Natalia,78059
+Pearsall,78061
+Pipe Creek,78063
+Poteet,78065
+Rio Medina,78066
+San Ygnacio,78067
+Spring Branch,78070
+Von Ormy,78073
+Zapata,78076
+Adkins,78101
+Beeville,78102
+Berclair,78107
+Cibolo,78108
+Elmendorf,78112
+Floresville,78114
+Karnes City,78118
+Kenedy,78119
+La Vernia,78121
+Mc Queeney,78123
+New Braunfels,78130
+Canyon Lake,78133
+Nixon,78140
+Nordheim,78141
+Normanna,78142
+Panna Maria,78144
+Pettus,78146
+Poth,78147
+Universal City,78148
+Jbsa Randolph,78150
+Runge,78151
+Saint Hedwig,78152
+Schertz,78154
+Seguin,78155
+Smiley,78159
+Sutherland Springs,78161
+Tuleta,78162
+Bulverde,78163
+Jbsa Ft Sam Houston,78234
+Jbsa Lackland,78236
+Agua Dulce,78330
+Alice,78332
+Aransas Pass,78335
+Banquete,78339
+Benavides,78341
+Ben Bolt,78342
+Bruni,78344
+Concepcion,78349
+Edroy,78352
+Encino,78353
+Falfurrias,78355
+Freer,78357
+Hebbronville,78361
+Mathis,78368
+Mirando City,78369
+Odem,78370
+Orange Grove,78372
+Port Aransas,78373
+Premont,78375
+Realitos,78376
+Refugio,78377
+Riviera,78379
+Robstown,78380
+Sandia,78383
+San Diego,78384
+Sarita,78385
+Sinton,78387
+Tynan,78391
+Corpus Christi,78401
+Mcallen,78501
+Combes,78535
+Delmita,78536
+Donna,78537
+Edcouch,78538
+Elsa,78543
+Falcon Heights,78545
+Grulla,78548
+Hargill,78549
+Harlingen,78550
+La Blanca,78558
+La Feria,78559
+La Joya,78560
+Lasara,78561
+La Villa,78562
+Lopeno,78564
+Los Ebanos,78565
+Los Fresnos,78566
+Los Indios,78567
+Lyford,78569
+Mercedes,78570
+Olmito,78575
+Penitas,78576
+Pharr,78577
+Port Isabel,78578
+Progreso,78579
+Rio Grande City,78582
+Rio Hondo,78583
+Roma,78584
+Salineno,78585
+San Benito,78586
+San Isidro,78588
+San Perlita,78590
+Santa Elena,78591
+Santa Maria,78592
+Santa Rosa,78593
+Sullivan City,78595
+Weslaco,78596
+South Padre Island,78597
+Port Mansfield,78598
+Bertram,78605
+Briggs,78608
+Buchanan Dam,78609
+Burnet,78611
+Cedar Park,78613
+Cost,78614
+Coupland,78615
+Del Valle,78617
+Doss,78618
+Dripping Springs,78620
+Fentress,78622
+Fischer,78623
+Hutto,78634
+Hye,78635
+Leander,78641
+Llano,78643
+Mc Dade,78650
+Manchaca,78652
+Martindale,78655
+Horseshoe Bay,78657
+Paige,78659
+Pflugerville,78660
+Prairie Lea,78661
+Round Mountain,78663
+Round Rock,78664
+San Marcos,78666
+Spicewood,78669
+Tow,78672
+Wimberley,78676
+Wrightsboro,78677
+Uvalde,78801
+Asherton,78827
+Barksdale,78828
+Big Wells,78830
+Brackettville,78832
+Camp Wood,78833
+Carrizo Springs,78834
+Catarina,78836
+Concan,78838
+Laughlin Afb,78843
+D Hanis,78850
+Eagle Pass,78852
+El Indio,78860
+Hondo,78861
+Knippa,78870
+Langtry,78871
+La Pryor,78872
+Leakey,78873
+Quemado,78877
+Rio Frio,78879
+Rocksprings,78880
+Sabinal,78881
+Tarpley,78883
+Utopia,78884
+Vanderpool,78885
+Yancey,78886
+Bleiblerville,78931
+Carmine,78932
+Cat Spring,78933
+Alleyton,78935
+Ellinger,78938
+Flatonia,78941
+Giddings,78942
+Muldoon,78949
+Rosanky,78953
+Schulenburg,78956
+Waelder,78959
+Weimar,78962
+Booker,79005
+Borger,79007
+Bovina,79009
+Boys Ranch,79010
+Briscoe,79011
+Bushland,79012
+Cactus,79013
+Claude,79019
+Cotton Center,79021
+Dalhart,79022
+Darrouzett,79024
+Dimmitt,79027
+Earth,79031
+Edmonson,79032
+Farnsworth,79033
+Follett,79034
+Friona,79035
+Fritch,79036
+Groom,79039
+Gruver,79040
+Hale Center,79041
+Higgins,79046
+Kress,79052
+Lazbuddie,79053
+Lefors,79054
+Lipscomb,79056
+Masterson,79058
+Mobeetie,79061
+Olton,79064
+Pampa,79065
+Panhandle,79068
+Perryton,79070
+Skellytown,79080
+Spearman,79081
+Springlake,79082
+Sunray,79086
+Texline,79087
+Tulia,79088
+Umbarger,79091
+Vega,79092
+Waka,79093
+Wayside,79094
+Wildorado,79098
+Amarillo,79101
+Childress,79201
+Crowell,79227
+Flomot,79234
+Floydada,79235
+Hedley,79237
+Lelia Lake,79240
+Lockney,79241
+Matador,79244
+Quail,79251
+Quanah,79252
+Quitaque,79255
+Roaring Springs,79256
+Silverton,79257
+South Plains,79258
+Tell,79259
+Abernathy,79311
+Anton,79313
+Crosbyton,79322
+Denver City,79323
+Enochs,79324
+Fieldton,79326
+Idalou,79329
+Justiceburg,79330
+Lamesa,79331
+Levelland,79336
+Littlefield,79339
+Loop,79342
+Lorenzo,79343
+Muleshoe,79347
+New Deal,79350
+Odonnell,79351
+Pep,79353
+Post,79356
+Ralls,79357
+Ropesville,79358
+Seagraves,79359
+Shallowater,79363
+Slaton,79364
+Ransom Canyon,79366
+Smyer,79367
+Spade,79369
+Spur,79370
+Sudan,79371
+Sundown,79372
+Tahoka,79373
+Whiteface,79379
+Whitharral,79380
+Wolfforth,79382
+Lubbock,79401
+Aspermont,79502
+Baird,79504
+Benjamin,79505
+Colorado City,79512
+Fluvanna,79517
+Hermleigh,79526
+Jayton,79528
+Lueders,79533
+Mc Caulley,79534
+Maryneal,79535
+Merkel,79536
+Nolan,79537
+Novice,79538
+Old Glory,79540
+Ovalo,79541
+Rotan,79546
+Rule,79547
+Tye,79563
+Winters,79567
+Dyess Afb,79607
+Ackerly,79713
+Balmorhea,79718
+Big Spring,79720
+Coyanosa,79730
+Forsan,79733
+Fort Stockton,79735
+Gail,79738
+Grandfalls,79742
+Iraan,79744
+Knott,79748
+Lenorah,79749
+Mc Camey,79752
+Monahans,79756
+Notrees,79759
+Orla,79770
+Pecos,79772
+Pyote,79777
+Saragosa,79780
+Tarzan,79783
+Toyah,79785
+Wickett,79788
+Wink,79789
+Big Bend National Park,79834
+Canutillo,79835
+Clint,79836
+Dell City,79837
+Fabens,79838
+Fort Hancock,79839
+Marfa,79843
+Presidio,79845
+Salt Flat,79847
+San Elizario,79849
+Sierra Blanca,79851
+Terlingua,79852
+Tornillo,79853
+Van Horn,79855
+Fort Bliss,79916
