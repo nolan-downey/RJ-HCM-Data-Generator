@@ -43,10 +43,10 @@ def newStartEndDate(applicant):
   fromDate = datetime.datetime.now().replace(year=startYear, month=1, day=1).toordinal()
   tilDate = datetime.datetime.now().replace(year=startYear, month=12, day=31).toordinal()
 
-  startDate = datetime.date.fromordinal(randint(fromDate, tilDate))
+  startDate = datetime.datetime.fromordinal(randint(fromDate, tilDate))
 
   fromDate = datetime.datetime.now().replace(year=upperBoundYear, month=1, day=1).toordinal()
   tilDate = datetime.datetime.now().date().toordinal()
 
-  endDate = datetime.date.fromordinal(randint(fromDate, tilDate))
+  endDate = datetime.datetime.fromordinal(randint(fromDate, tilDate))
   return startDate, endDate
