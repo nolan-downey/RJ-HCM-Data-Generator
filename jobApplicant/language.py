@@ -1,15 +1,14 @@
-#This function returns a JSON Object relating to the Job Applicant's Language Experience
-#The structure of the Json is a list of dictionaries [{"Name":,"Native":,Proficiency:},{"Name":,"Native":,Proficiency:}, etc]
-#Proficiency is based from a 1-5 scale with 5 indicating essentially native proficiency
-#Native = 1 if they are a native speaker and 0 if not
-
 from random import randint
 import json
-
 import sys
 sys.path.insert(0,'/mnt/c/Users/jday7/Onedrive/Desktop/RJ/HMC_Code/RJ-HCM-Data-Generator/util')
-
 from generateBiased import generateBiased
+
+#
+# @func   languages
+# @desc   Creates a list of dictionaries representing a the details of a person's known languages
+# @param  None
+#
 
 def languages():
 
@@ -30,32 +29,34 @@ def languages():
 
 
     #Iterating through to create the languages. English is forced to be one of them.
-    i = 0
     check = 0
-    x = [""] * f_total
+    x = [] 
 
-    while(i < f_total):
+    for i in range(f_total):
 
         language = generateBiased(LANGUAGE_CODES, L_Percents)
+
+        j = LANGUAGE_CODES.index(language)
 
         if(language == "English"):
             check = 1
 
         if(i == 0):
-            x[i] = {"Name":language,"Native":1,"Profiency":5}
+            x.append({"Name":language,"Native":1,"Profiency":5})
         elif(check == 0 and i == 1):
-            x[i] = {"Name":"English","Native":0,"Profiency":randint(4,5)}
+            x.append({"Name":"English","Native":0,"Profiency":randint(4,5)})
         else:
-            x[i] = {"Name":language,"Native":0,"Profiency":randint(1,5)}
+            x.append({"Name":language,"Native":0,"Profiency":randint(1,5)})
 
         #This deletes one of the percentages while keeping them equal to 100
-        z = L_Percents[LANGUAGE_CODES.index(language)]
-        del L_Percents[LANGUAGE_CODES.index(language)]
+        z = L_Percents[j]
+
+        L_Percents.pop(j)
+
         L_Percents[0] += z
 
-        del LANGUAGE_CODES[LANGUAGE_CODES.index(language)]
+        LANGUAGE_CODES.pop(j)
 
-        i += 1
 
     #Turning it into a JSON
     y = json.dumps(x)
