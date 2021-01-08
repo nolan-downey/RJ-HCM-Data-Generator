@@ -36,9 +36,10 @@ def createJobRequisition():
   requisition['filledDate'] = newFillDate(requisition['requisitionStatusCode'], 
                                           requisition['postDate'], 
                                           requisition['projectedStartDate'])
+  requisition['remoteIndicator'] = newRemoteIndicator()
   requisition['requisitionLocations'] = {} # upon completion of location
   requisition['hiringManager'] = {} # need to decide how to integrate workers
-  requisition['remoteIndicator'] = {} # need to decide how to integrate workers
+  requisition['recruiter'] = {} # need to decide how to integrate workers
 
   return requisition
 
