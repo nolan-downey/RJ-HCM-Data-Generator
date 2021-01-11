@@ -15,7 +15,7 @@ def createPerson():
   person["highestEducationLevel"] = newEducationLevel([100/7 for _ in range(7)])
   person["birthDate"]             = newBirthDate([100/6 for _ in range(6)])
   person["genderCode"]            = newGender()
-  person["ethnicity"]             = newEthnicity([20 for _ in range(6)])
+  person["ethnicityCode"]             = newEthnicity([20 for _ in range(6)])
 
   # Address done in hcm.py file
   

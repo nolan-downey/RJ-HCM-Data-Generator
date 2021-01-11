@@ -38,7 +38,7 @@ def newStartEndDate(applicant):
     idx = idx - 10 if idx > 5 else idx
 
   upperBoundYear = currYear - 2
-  startYear = upperBoundYear - yearsExperience[idx]
+  startYear = upperBoundYear - yearsExperience[idx-1]
 
   fromDate = datetime.datetime.now().replace(year=startYear, month=1, day=1).toordinal()
   tilDate = datetime.datetime.now().replace(year=startYear, month=12, day=31).toordinal()
