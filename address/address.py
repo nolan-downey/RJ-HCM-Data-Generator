@@ -21,6 +21,7 @@ def createAddress(person):
 
   address["cityName"]       = cityInfo["name"]
   address["postalCode"]     = cityInfo["zipcode"]
+  address["county"]         = cityInfo["county"]
   address["lineOne"]        = newLineOne()
   address["geoCoordinate"]  = {"longitude": cityInfo["longitude"], "latitude": cityInfo["latitude"]}
 

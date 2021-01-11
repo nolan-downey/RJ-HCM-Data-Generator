@@ -31,10 +31,11 @@ def main():
     newAddress = createAddress(newPerson)
     newPerson["address"] = newAddress
     newWorker = createWorker(newPerson)
+    newPerson["address"].pop("county")
     newJobRequistion = createJobRequisition()
     newJobApplicant = createJobApplicant()
 
-    pprint.pprint(newPerson)
+    pprint.pprint(newWorker)
 
     addresses.append(newAddress)
     people.append(newPerson)

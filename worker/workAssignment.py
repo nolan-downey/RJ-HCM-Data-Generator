@@ -1,6 +1,10 @@
+import random
 from worker.baseRenumeration import baseRenumeration
 from worker.reportsTo import reportsTo
 from util.generateBiased import generateBiased
+
+alph = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
+                  'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
 
 #
 # @func   createWorkAssignment
@@ -11,22 +15,19 @@ def createWorkAssignment(person, workerStatus):
   workAssignment = {}
 
   workAssignment["workAssignmentID"]            = workAssignmentID()
-  workAssignment["effectiveDate"]               = {}# workerStatus["effectiveDate"]
-  workAssignment["assignmentStatus"]            = {}# workerStatus["effectiveDate"]
-  workAssignment["assignmentCostCenterID"]      = assignmentCostCenterID()
+  workAssignment["effectiveDate"]               = {} # workerStatus["effectiveDate"]
+  workAssignment["assignmentStatus"]            = {} # workerStatus["assignmentStatus"]
+  workAssignment["assignmentCostCenterID"]      = None
   workAssignment["workerTypeCode"]              = workerTypeCode()
-  workAssignment["managementPositionIndicator"] = managementPositionIndicator()
-  workAssignment["legalEntityID"]               = legalEntityID()
-  workAssignment["jobCode"]                     = {}# requisition
+  workAssignment["managementPositionIndicator"] = managementPositionIndicator(workAssignment["workAssignmentID"].split()[-1])
+  workAssignment["legalEntityID"]               = None # Organization title?
   workAssignment["fullTimeEquivalenceRatio"]    = fullTimeEquivalenceRatio()
-  workAssignment["locationID"]                  = {}# from where person lives?
+  workAssignment["locationID"]                  = location(person["address"])
   workAssignment["payCycleCode"]                = payCycleCode()
   workAssignment["standardPayPeriodHours"]      = standardPayPeriodHours()
-  workAssignment["baseRemuneration"]            = baseRenumeration(workAssignment["workerTypeCode"], workAssignment["effectiveDate"])
-  workAssignment["reportsTo"]                   = reportsTo()
+  workAssignment["baseRemuneration"]            = baseRenumeration(workAssignment["workAssignmentID"], workAssignment["effectiveDate"])
+  # workAssignment["reportsTo"]                   = reportsTo()
   workAssignment["payrollGroupCode"]            = payrollGroupCode()
-
-  print(workAssignment)
 
   return workAssignment       
 
@@ -36,19 +37,12 @@ def createWorkAssignment(person, workerStatus):
 # @param  None
 #
 def workAssignmentID():
-  workAssignment = ""
+  positions = ['Junior Marketing Associate', 'Junior Operations Associate', 'Junior HR Associate', 'Junior IT Associate', 'Marketing Associate', 'Finance Associate', 'Operations Associate', 'HR Associate', 'IT Associate', 'Lead Marketing Associate', 'Lead Marketing Manager', 'Lead Marketing Officer', 'Lead Marketing Director', 'Lead Finance Associate', 'Lead Finance Manager', 'Lead Finance Officer', 'Lead Finance Director', 'Lead Operations Associate', 'Lead Operations Manager', 'Lead Operations Officer', 'Lead Operations Director', 'Lead HR Associate', 'Lead HR Manager', 'Lead HR Officer', 'Lead HR Director', 'Lead IT Associate', 'Lead IT Manager', 'Lead IT Officer', 'Lead IT Director', 'Senior Marketing Associate', 'Senior Marketing Manager', 'Senior Marketing Officer', 'Senior Marketing Director', 'Senior Finance Associate', 'Senior Finance Manager', 'Senior Finance Officer', 'Senior Finance Director', 'Senior Operations Associate', 'Senior Operations Manager', 'Senior Operations Officer', 'Senior Operations Director', 'Senior HR Associate', 'Senior HR Manager', 'Senior HR Officer', 'Senior HR Director', 'Senior IT Associate', 'Senior IT Manager', 'Senior IT Officer', 'Senior IT Director']
+  percentages = [2.63, 2.63, 2.63, 2.63, 2.63, 10, 10, 10, 10, 10, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63]
+
+  workAssignment = generateBiased(positions, percentages)
 
   return workAssignment
-
-#
-# @func   assignmentCostCenterID
-# @desc   Creates assignmentCostCenterID
-# @param  None
-#
-def assignmentCostCenterID():
-  assignmentCostCenterID = ""
-
-  return assignmentCostCenterID
 
 #
 # @func   workerTypeCode
@@ -56,34 +50,20 @@ def assignmentCostCenterID():
 # @param  None
 #
 def workerTypeCode():
-  workerTypeCode = ""
+  types = ["employee", "contractor", "temporary"]
+  percentages = [95, 2.5, 2.5]
 
-  positions = ['Junior Marketing Associate', 'Junior Operations Associate', 'Junior HR Associate', 'Junior IT Associate', 'Marketing Associate', 'Finance Associate', 'Operations Associate', 'HR Associate', 'IT Associate', 'Lead Marketing Associate', 'Lead Marketing Manager', 'Lead Marketing Officer', 'Lead Marketing Director', 'Lead Finance Associate', 'Lead Finance Manager', 'Lead Finance Officer', 'Lead Finance Director', 'Lead Operations Associate', 'Lead Operations Manager', 'Lead Operations Officer', 'Lead Operations Director', 'Lead HR Associate', 'Lead HR Manager', 'Lead HR Officer', 'Lead HR Director', 'Lead IT Associate', 'Lead IT Manager', 'Lead IT Officer', 'Lead IT Director', 'Senior Marketing Associate', 'Senior Marketing Manager', 'Senior Marketing Officer', 'Senior Marketing Director', 'Senior Finance Associate', 'Senior Finance Manager', 'Senior Finance Officer', 'Senior Finance Director', 'Senior Operations Associate', 'Senior Operations Manager', 'Senior Operations Officer', 'Senior Operations Director', 'Senior HR Associate', 'Senior HR Manager', 'Senior HR Officer', 'Senior HR Director', 'Senior IT Associate', 'Senior IT Manager', 'Senior IT Officer', 'Senior IT Director']
-  percentages = [.5, .5, .5, .5, .5, 5, 5, 5, 5, 5, .4, .4, .4, .4, .4, .4, .4, .4, .4, .4, .4, .4, .4, .4, .4, .4, .4, .4, .4, .4, .4, .4, .4, .4, .4, .4, .4, .4, .4]
-
-  workerTypeCode = generateBiased(positions, percentages)
+  workerTypeCode = generateBiased(types, percentages)
 
   return workerTypeCode
 
 #
 # @func   managementPositionIndicator
 # @desc   Creates managementPositionIndicator
-# @param  None
+# @param  position
 #
-def managementPositionIndicator():
-  managementPositionIndicator = ""
-
-  return managementPositionIndicator
-
-#
-# @func   legalEntityID
-# @desc   Creates legalEntityID
-# @param  None
-#
-def legalEntityID():
-  legalEntityID = ""
-
-  return legalEntityID
+def managementPositionIndicator(position):
+  return True if position == "Director" or position == "Officer" or position == "Manager" else False
 
 #
 # @func   fullTimeEquivalenceRatio
@@ -91,9 +71,22 @@ def legalEntityID():
 # @param  None
 #
 def fullTimeEquivalenceRatio():
-  fullTimeEquivalenceRatio = ""
+  return 2080
 
-  return fullTimeEquivalenceRatio
+#
+# @func   location
+# @desc   Creates location from address data
+# @param  address
+#
+def location(address):
+  location = {}
+
+  location["country"] = address["countryCode"]
+  location["state"]   = address["stateCode"]
+  location["county"]  = address["county"]
+  location["city"]    = address["cityName"]
+
+  return location
 
 #
 # @func   payCycleCode
@@ -101,9 +94,7 @@ def fullTimeEquivalenceRatio():
 # @param  None
 #
 def payCycleCode():
-  payCycleCode = ""
-
-  return payCycleCode
+  return alph[random.randrange(0, 25)] + "x" + str(random.randrange(100, 10000)) + alph[random.randrange(0, 25)]
 
 #
 # @func   standardPayPeriodHours
@@ -111,9 +102,7 @@ def payCycleCode():
 # @param  None
 #
 def standardPayPeriodHours():
-  standardPayPeriodHours = ""
-
-  return standardPayPeriodHours
+  return 80
 
 #
 # @func   payrollGroupCode
@@ -121,6 +110,4 @@ def standardPayPeriodHours():
 # @param  None
 #
 def payrollGroupCode():
-  payrollGroupCode = ""
-
-  return payrollGroupCode
+  return alph[random.randrange(0, 25)]+ "y" + str(random.randrange(1, 100)) + alph[random.randrange(0, 25)] + str(random.randrange(1, 100))
