@@ -8,7 +8,7 @@ import pprint
 from address.address import createAddress 
 from person.person import createPerson
 from worker.worker import createWorker 
-from jobApplicant.jobApplicant import createJobApplicant 
+from jobApplicant.createJobApplicant import createJobApplicant 
 from jobRequisition.jobRequisition import createJobRequisition 
 
 def main():
@@ -32,7 +32,7 @@ def main():
     newPerson["address"] = newAddress
     newWorker = createWorker(newPerson)
     newJobRequistion = createJobRequisition()
-    newJobApplicant = createJobApplicant()
+    newJobApplicant = createJobApplicant(newPerson)
 
     pprint.pprint(newPerson)
 

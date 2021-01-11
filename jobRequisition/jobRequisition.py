@@ -63,7 +63,7 @@ def newPostDate():
   twoYearsAgo = datetime.datetime.now().year - 2
   dateTwoYearsAgo = datetime.datetime.now().replace(year=twoYearsAgo, month=1, day=1).toordinal()
   tilDate = datetime.datetime.now().toordinal()
-  postDate = datetime.date.fromordinal(randint(dateTwoYearsAgo, tilDate))
+  postDate = datetime.datetime.fromordinal(randint(dateTwoYearsAgo, tilDate))
 
   return postDate
 
@@ -77,8 +77,8 @@ def newProjectedStartDate():
   currDate = datetime.datetime.now()
   fromDate = currDate.replace(month=currDate.month + 1).toordinal()
   tilDate = currDate.replace(month=currDate.month + monthsInAdvance).toordinal()
-  randomDay = datetime.date.fromordinal(randint(fromDate, tilDate))
-  projectedStartDate = datetime.date.fromordinal(randomDay.toordinal() - randomDay.weekday()) # assuming weekly pay periods
+  randomDay = datetime.datetime.fromordinal(randint(fromDate, tilDate))
+  projectedStartDate = datetime.datetime.fromordinal(randomDay.toordinal() - randomDay.weekday()) # assuming weekly pay periods
 
   return projectedStartDate
 
@@ -88,14 +88,14 @@ def newProjectedEndDate(startDate):
   return projectedEndDate
 
 def newOpeningsFilledQuantity():
-  openingsFilledQuantity = FILLED_QUANTITIES[randint(0, len(FILLED_QUANTITIES)-1)]
+  openingsFilledQuantity = int(FILLED_QUANTITIES[randint(0, len(FILLED_QUANTITIES)-1)])
   return openingsFilledQuantity
 
 def newStatusCode():
   statusCode = generateBiased(STATUS_CODES, [50, 50/3, 50/3, 50/3])
   return statusCode
 
-def newFillDate(statusCode, postDate: datetime.date, projectedStartDate: datetime.date):
+def newFillDate(statusCode, postDate: datetime.datetime, projectedStartDate: datetime.datetime):
   if statusCode != 'Filled':
     return ""
   fromDate = postDate.toordinal()
