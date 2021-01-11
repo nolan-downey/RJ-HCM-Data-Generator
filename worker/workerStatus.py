@@ -7,4 +7,9 @@ from util.generateBiased import generateBiased
 # @param N/A
 #
 def workerStatus():
-    return
+
+    STATUS = ["Active","Leave","Terminated","Retired","Deceased"]
+    
+    
+    
+        return
