@@ -7,7 +7,7 @@ from util.generateBiased import generateBiased
 # @param percentages (weights to each status code)
 # For now, active employees only, but built for future development
 #
-def workerStatus(percentages):
+def createWorkerStatus(percentages):
 
     STATUS = ["Active"]
 
