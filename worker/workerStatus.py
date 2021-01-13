@@ -7,8 +7,18 @@ from util.generateBiased import generateBiased
 # @param percentages (weights to each status code)
 # For now, active employees only, but built for future development
 #
-def createWorkerStatus(percentages):
+def createWorkerStatus(workerDates):
+
+    workerStatus = {}
 
     STATUS = ["Active"]
+    
+    if workerDates.rehireDate != None:
+        effectiveDate = workerDates.rehireDate + datetime.timedelta(days=10)
+    
+    effectiveDate = workerDates.originalHireDate + datetime.timedelta(days=10)
 
-    return STATUS[0]
+    workerStatus['status'] = STATUS[0]
+    workerStatus['effectiveDate'] = effectiveDate
+
+    return workerStatus

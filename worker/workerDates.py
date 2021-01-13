@@ -10,11 +10,11 @@ from person import person
 # @desc Combines all essential dates into one object
 # @param None
 #
-def createWorkerDates():
+def createWorkerDates(person):
 
   workerDates = {}
   workerDates["originalHireDate"] = createOriginalHireDate(person)
-  workerDates["rehireDate"] = createRehireDate(originalHireDate)
+  workerDates["rehireDate"] = createRehireDate(workerDates.originalHireDate)
 
   return workerDates
 
@@ -23,7 +23,7 @@ def createWorkerDates():
 # @desc Creates originalHireDate for each worker
 # @param Person JSON Object, array of percentages
 #
-def createOriginalHireDate(person, percentages):
+def createOriginalHireDate(person):
     
   startDt = person.birthDate + datetime.timedelta(weeks=1040)
   endDt = datetime.datetime.now()
@@ -38,8 +38,12 @@ def createOriginalHireDate(person, percentages):
 #
 def createRehireDate(originalHireDate):
   
+  chance = randint(0,100)
+  if chance >= 15:
+      return None
+
   startDt = originalHireDate
   endDt = datetime.datetime.now()
   rehireDate = datetime.datetime.fromordinal(random.randint(startDt,endDt))
-
-  return randomDate
+    
+  return rehireDate
