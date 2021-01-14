@@ -11,8 +11,8 @@ def createWorker(person):
   worker = {}
 
   worker["person"]        = person
-  worker["workerDates"]   = {} # from workerDates
-  worker["workerStatus"]  = {} # from workerStatus
+  worker["workerDates"]   = workerDates
+  worker["workerStatus"]  = workerStatus
   worker["workAssigment"] = createWorkAssignment(worker["person"], worker["workerStatus"])
 
   return worker
