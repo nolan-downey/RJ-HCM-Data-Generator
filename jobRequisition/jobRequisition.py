@@ -47,7 +47,8 @@ def createJobRequisition():
 def newTitleReason():
   titleIndex = randint(0, len(TITLES)-1)
   reasonIndex = randint(0, len(REASONS)-1)
-  requisitionTitle = TITLES.pop(titleIndex).title()
+  copy = list(TITLES)
+  requisitionTitle = copy.pop(titleIndex).title()
   requisitionReason = REASONS[reasonIndex]
 
   return requisitionTitle, requisitionReason
