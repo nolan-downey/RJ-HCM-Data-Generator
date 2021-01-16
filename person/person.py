@@ -17,7 +17,7 @@ def createPerson():
   person["gender"]                = newGender()
   person["name"]                  = newName(person)
   person["highestEducationLevel"] = newEducationLevel([100/7 for _ in range(7)])
-  person["birthDate"]             = newBirthDate([100/6 for _ in range(6)])
+  person["birthDate"]             = newBirthDate([100/6 for _ in range(5)])
   person["genderCode"]            = newGender()
   person["ethnicityCode"]         = newEthnicity([20 for _ in range(6)])
 
@@ -37,8 +37,7 @@ def newGender():
 
   GENDERS = [MALE, FEMALE, OTHER]
 
-  index = random.randint(0, len(GENDERS)-1)
-  gender = GENDERS[index]
+  gender = generateBiased(GENDERS, [45, 45, 10])
   return gender
 
 
@@ -97,13 +96,13 @@ def newEthnicity(percentages):
 # @param  percentages (weights to each age range)
 #
 def newBirthDate(percentages):
-  AGE_RANGES = [20, 30, 40, 50, 60, 70]
+  AGE_RANGES = [20, 30, 40, 50, 60]
 
   lowerBound = generateBiased(AGE_RANGES, percentages)
   upperBound = lowerBound + 10
   age = random.randint(lowerBound, upperBound)
 
-  year  = datetime.datetime.now().year - age
+  year  = datetime.datetime.now().year
   month = random.randrange(1, 12)
 
   thirty = [4, 6, 9, 11]
@@ -114,8 +113,10 @@ def newBirthDate(percentages):
   else:
     day = random.randrange(1, 31)
 
-  newDate = datetime.datetime(year, month, day)
-  return newDate
+  newMonthDay = datetime.datetime(year, month, day)
+  birthDate = newMonthDay - (datetime.timedelta(weeks=(52*age)) if newMonthDay.toordinal() < datetime.datetime.today().toordinal() else datetime.timedelta(weeks=(52*(age+1))))
+
+  return birthDate
 
 #
 # @func   newEducationLevel

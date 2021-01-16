@@ -10,15 +10,15 @@ alph = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
 # @desc   Creates workAssignment, calls other functions to generate data
 # @param  person
 #
-def createWorkAssignment(person, workerStatus, title, supervisor):
+def createWorkAssignment(person, workerStatus, title, supervisor, depth):
   workAssignment = {}
 
   workAssignment["workAssignmentID"]            = title
-  workAssignment["effectiveDate"]               = {}#workerStatus["effectiveDate"]
-  workAssignment["assignmentStatus"]            = {}#workerStatus["assignmentStatus"]
+  workAssignment["effectiveDate"]               = workerStatus["effectiveDate"]
+  workAssignment["assignmentStatus"]            = workerStatus["status"]
   workAssignment["assignmentCostCenterID"]      = None
   workAssignment["workerTypeCode"]              = workerTypeCode()
-  workAssignment["managementPositionIndicator"] = managementPositionIndicator(workAssignment["workAssignmentID"].split()[-1])
+  workAssignment["managementPositionIndicator"] = managementPositionIndicator(depth)
   workAssignment["fullTimeEquivalenceRatio"]    = fullTimeEquivalenceRatio()
   workAssignment["locationID"]                  = location(person["address"])
   workAssignment["payCycleCode"]                = payCycleCode()
@@ -49,8 +49,8 @@ def workerTypeCode():
 # @desc   Creates managementPositionIndicator
 # @param  position
 #
-def managementPositionIndicator(position):
-  return True if position == "Director" or position == "Officer" or position == "Manager" else False
+def managementPositionIndicator(depth):
+  return True if depth < 6 else False
 
 #
 # @func   fullTimeEquivalenceRatio

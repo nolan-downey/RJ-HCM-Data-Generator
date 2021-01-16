@@ -1,9 +1,7 @@
 import datetime
 import random
 import sys
-sys.path.insert(0,"/mnt/c/Users/Nolan Downey/Desktop/RJReliance/RJ-HCM-Data-Generator/")
 from person import person
-
 
 #
 # @func createWorkerDates
@@ -14,7 +12,7 @@ def createWorkerDates(person):
 
   workerDates = {}
   workerDates["originalHireDate"] = createOriginalHireDate(person)
-  workerDates["rehireDate"] = createRehireDate(workerDates.originalHireDate)
+  workerDates["rehireDate"] = createRehireDate(workerDates["originalHireDate"])
 
   return workerDates
 
@@ -25,9 +23,9 @@ def createWorkerDates(person):
 #
 def createOriginalHireDate(person):
     
-  startDt = person.birthDate + datetime.timedelta(weeks=1040)
-  endDt = datetime.datetime.now()
-  originalHireDate = datetime.datetime.fromordinal(random.randint(startDt, endDt))
+  startDt = person["birthDate"] + datetime.timedelta(weeks=1040)
+  endDt = datetime.datetime.now().toordinal()
+  originalHireDate = datetime.datetime.fromordinal(random.randint(startDt.toordinal(), endDt))
 
   return originalHireDate
 
@@ -38,12 +36,12 @@ def createOriginalHireDate(person):
 #
 def createRehireDate(originalHireDate):
   
-  chance = randint(0,100)
+  chance = random.randint(0,100)
   if chance >= 15:
       return None
 
-  startDt = originalHireDate
-  endDt = datetime.datetime.now()
+  startDt = originalHireDate.toordinal()
+  endDt = datetime.datetime.now().toordinal()
   rehireDate = datetime.datetime.fromordinal(random.randint(startDt,endDt))
     
   return rehireDate

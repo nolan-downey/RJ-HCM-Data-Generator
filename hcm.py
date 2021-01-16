@@ -35,6 +35,7 @@ def main():
 
   generateHierarchy()
   
+  print("Adding data to db...")
   db["address"].insert_many(completeTable["addresses"])
   db["person"].insert_many(completeTable["people"])
   db["worker"].insert_many(completeTable["workers"])
@@ -51,7 +52,7 @@ def generateHierarchy():
   # Marketing, Finance, IT, Operations, HR
   # Recursively generate from CEO down
 
-  generateEmployee("CEO", None)
+  generateEmployee("CEO", None, 0)
   CEO = {}
   CEO["name"] = completeTable["people"][0]["address"]["nameCode"]
   CEO["positionTitle"] = "CEO"
@@ -62,6 +63,7 @@ def generateHierarchy():
   operations = ["COO", "President of Operations", "Vice-President of Operations", "Senior Operations Officer", "Senior Operations Manager", "Operations Manager", "Lead Operations Associate", "Operations Associate"]
   hr = ["President of Human Resources", "Vice-President of Human Resources", "Senior Human Resources Officer", "Senior Human Resources Manager", "Human Resources Manager", "Lead Human Resources Asscociate", "Human Resources Asscociate"]
 
+  print("Generating data...")
   generateFieldData(finances, CEO, 0)
   generateFieldData(it, CEO, 0)
   generateFieldData(marketing, CEO, 0)
@@ -82,14 +84,14 @@ def generateFieldData(positions, supervisor, depth):
 
   if depth > 2 and len(positions) > 1:
     for _ in range(random.randrange(3, 5)):
-      generateEmployee(title, supervisor)
+      generateEmployee(title, supervisor, depth)
       employee = {}
       employee["name"] = completeTable["people"][-1]["address"]["nameCode"]
       employee["positionTitle"] = title
       generateFieldData(positions[1:], employee, depth+1)
 
   else:
-    generateEmployee(title, supervisor)
+    generateEmployee(title, supervisor, depth)
     employee = {}
     employee["name"] = completeTable["people"][-1]["address"]["nameCode"]
     employee["positionTitle"] = title
@@ -102,11 +104,11 @@ def generateFieldData(positions, supervisor, depth):
 # @desc   call items to generate each table for an employee
 # @param  job title, supervisor object
 #
-def generateEmployee(title, supervisor):
+def generateEmployee(title, supervisor, depth):
   newPerson = createPerson()
   newAddress = createAddress(newPerson)
   newPerson["address"] = newAddress
-  newWorker = createWorker(newPerson, title, supervisor)
+  newWorker = createWorker(newPerson, title, supervisor, depth)
   newWorker["workAssignment"]["legalEntityID"] = company
   newPerson["address"].pop("county")
   newJobRequistion = createJobRequisition()
