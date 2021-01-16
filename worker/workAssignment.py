@@ -19,14 +19,15 @@ def createWorkAssignment(person, workerStatus, title, supervisor):
   workAssignment["assignmentCostCenterID"]      = None
   workAssignment["workerTypeCode"]              = workerTypeCode()
   workAssignment["managementPositionIndicator"] = managementPositionIndicator(workAssignment["workAssignmentID"].split()[-1])
-  workAssignment["legalEntityID"]               = None # Organization title?
   workAssignment["fullTimeEquivalenceRatio"]    = fullTimeEquivalenceRatio()
   workAssignment["locationID"]                  = location(person["address"])
   workAssignment["payCycleCode"]                = payCycleCode()
   workAssignment["standardPayPeriodHours"]      = standardPayPeriodHours()
-  workAssignment["baseRemuneration"]            = 50000 # baseRenumeration(title, workAssignment["effectiveDate"])
+  workAssignment["baseRemuneration"]            = baseRenumeration(title, workAssignment["effectiveDate"])
   workAssignment["reportsTo"]                   = supervisor
   workAssignment["payrollGroupCode"]            = payrollGroupCode()
+
+  # Legal entity id done in hcm.py
 
   return workAssignment       
 
@@ -76,11 +77,11 @@ def location(address):
 
 #
 # @func   payCycleCode
-# @desc   Creates payCycleCode
+# @desc   Creates payCycleCode (weekly, biweekly, semimonthly, monthly)
 # @param  None
 #
 def payCycleCode():
-  return alph[random.randrange(0, 25)] + "x" + str(random.randrange(100, 10000)) + alph[random.randrange(0, 25)]
+  return generateBiased(["w", "b", "s", "m"], [0, 100, 0, 0])
 
 #
 # @func   standardPayPeriodHours
@@ -96,4 +97,4 @@ def standardPayPeriodHours():
 # @param  None
 #
 def payrollGroupCode():
-  return alph[random.randrange(0, 25)]+ "y" + str(random.randrange(1, 100)) + alph[random.randrange(0, 25)] + str(random.randrange(1, 100))
+  return random.randrange(1, 5)

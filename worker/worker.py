@@ -13,6 +13,6 @@ def createWorker(person, title, supervisor):
   worker["person"]        = person
   worker["workerDates"]   = {}#createWorkerDates
   worker["workerStatus"]  = {}#createWorkerStatus
-  worker["workAssigment"] = createWorkAssignment(worker["person"], worker["workerStatus"], title, supervisor)
+  worker["workAssignment"] = createWorkAssignment(worker["person"], worker["workerStatus"], title, supervisor)
 
   return worker

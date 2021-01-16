@@ -10,10 +10,17 @@ from address.address import createAddress
 from person.person import createPerson
 from worker.worker import createWorker
 from jobApplicant.createJobApplicant import createJobApplicant 
-from jobRequisition.jobRequisition import createJobRequisition 
+from jobRequisition.jobRequisition import createJobRequisition
+from jobApplicant.PreviousEmployer import newEmployerName
 
 completeTable = {}
+company = newEmployerName()
 
+#
+# @func   main
+# @desc   Main driver - accesses mongoDB, creates data, adds it to db
+# @param  None
+#
 def main():
   uri = "mongodb+srv://{user}:{password}@cluster0.lx0nm.mongodb.net/{db}?retryWrites=true&w=majority".format(user=config("USERNAME"),password=config("PASSWORD"),db=config("DB") )
 
@@ -28,13 +35,18 @@ def main():
 
   generateHierarchy()
   
-  print("Adding data to database...")
   db["address"].insert_many(completeTable["addresses"])
   db["person"].insert_many(completeTable["people"])
   db["worker"].insert_many(completeTable["workers"])
   db["jobRequisitions"].insert_many(completeTable["jobRequisitions"])
   db["jobApplicants"].insert_many(completeTable["jobApplicants"])
 
+#
+# @func   generateHierarchy
+# @desc   Generates CEO, and from there calls the recursive function generateFieldData for each department 
+#         operating under the CEO 
+# @param  None
+#
 def generateHierarchy():
   # Marketing, Finance, IT, Operations, HR
   # Recursively generate from CEO down
@@ -50,17 +62,17 @@ def generateHierarchy():
   operations = ["COO", "President of Operations", "Vice-President of Operations", "Senior Operations Officer", "Senior Operations Manager", "Operations Manager", "Lead Operations Associate", "Operations Associate"]
   hr = ["President of Human Resources", "Vice-President of Human Resources", "Senior Human Resources Officer", "Senior Human Resources Manager", "Human Resources Manager", "Lead Human Resources Asscociate", "Human Resources Asscociate"]
 
-  print("Generating finance department...")
   generateFieldData(finances, CEO, 0)
-  print("Generating IT department...")
   generateFieldData(it, CEO, 0)
-  print("Generating Marketing department...")
   generateFieldData(marketing, CEO, 0)
-  print("Generating Operations department...")
   generateFieldData(operations, CEO, 0)
-  print("Generating HR department...")
   generateFieldData(hr, CEO, 0)
 
+#
+# @func   generateFieldData
+# @desc   Recursively generates employee data based on positions and supervisors passed down
+# @param  positions for a given department in order of highest to lowest superiority, supervisor object, depth from highest position
+#
 def generateFieldData(positions, supervisor, depth):
 
   if not positions:
@@ -85,11 +97,17 @@ def generateFieldData(positions, supervisor, depth):
 
   return
 
+#
+# @func   generateEmployee
+# @desc   call items to generate each table for an employee
+# @param  job title, supervisor object
+#
 def generateEmployee(title, supervisor):
   newPerson = createPerson()
   newAddress = createAddress(newPerson)
   newPerson["address"] = newAddress
   newWorker = createWorker(newPerson, title, supervisor)
+  newWorker["workAssignment"]["legalEntityID"] = company
   newPerson["address"].pop("county")
   newJobRequistion = createJobRequisition()
   newJobApplicant = createJobApplicant(newPerson)
@@ -99,7 +117,6 @@ def generateEmployee(title, supervisor):
   completeTable["workers"].append(newWorker)
   completeTable["jobRequisitions"].append(newJobRequistion)
   completeTable["jobApplicants"].append(newJobApplicant)
-
 
 if __name__ == "__main__":
     main()
