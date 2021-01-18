@@ -3,6 +3,10 @@ import random
 from util.generateBiased import generateBiased
 import pandas as pd
 
+male_names = pd.read_csv('assets/names/m_names.txt')['name']
+female_names = pd.read_csv('assets/names/f_names.txt')['name']
+surnames = pd.read_csv('assets/names/surnames.txt')['name']
+
 # @func   createPerson
 # @desc   Creates person, calls other functions to generate data
 # @param  None
@@ -13,14 +17,13 @@ def createPerson():
   person["gender"]                = newGender()
   person["name"]                  = newName(person)
   person["highestEducationLevel"] = newEducationLevel([100/7 for _ in range(7)])
-  person["birthDate"]             = newBirthDate([100/6 for _ in range(6)])
+  person["birthDate"]             = newBirthDate([100/6 for _ in range(5)])
   person["genderCode"]            = newGender()
-  person["ethnicityCode"]             = newEthnicity([20 for _ in range(6)])
+  person["ethnicityCode"]         = newEthnicity([20 for _ in range(6)])
 
   # Address done in hcm.py file
   
   return person
-
 
 #
 # @func   newGender
@@ -34,8 +37,7 @@ def newGender():
 
   GENDERS = [MALE, FEMALE, OTHER]
 
-  index = random.randint(0, len(GENDERS)-1)
-  gender = GENDERS[index]
+  gender = generateBiased(GENDERS, [45, 45, 10])
   return gender
 
 
@@ -49,9 +51,6 @@ def newName(Person):
   FEMALE = 'F'
   middle_initials = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
                   'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
-  male_names = pd.read_csv('assets/names/m_names.txt')['name']
-  female_names = pd.read_csv('assets/names/f_names.txt')['name']
-  surnames = pd.read_csv('assets/names/surnames.txt')['name']
 
   # index for random name out of first 100000
   name_index = random.randint(0, 100000)
@@ -97,18 +96,27 @@ def newEthnicity(percentages):
 # @param  percentages (weights to each age range)
 #
 def newBirthDate(percentages):
-  AGE_RANGES = [20, 30, 40, 50, 60, 70]
+  AGE_RANGES = [20, 30, 40, 50, 60]
 
   lowerBound = generateBiased(AGE_RANGES, percentages)
   upperBound = lowerBound + 10
   age = random.randint(lowerBound, upperBound)
 
-  year = datetime.datetime.now().year - age
-  startDt = datetime.datetime.today().replace(year=year, day=1, month=1).toordinal()
-  endDt = datetime.datetime.today().toordinal()
-  randomDate = datetime.datetime.fromordinal(random.randint(startDt, endDt)).replace(year=year)
-  return randomDate 
+  year  = datetime.datetime.now().year
+  month = random.randrange(1, 12)
 
+  thirty = [4, 6, 9, 11]
+  if month in thirty:
+    day = random.randrange(1, 30)
+  elif month == 2:
+    day = random.randrange(1, 28) if not year % 4 else random.randrange(1, 29)
+  else:
+    day = random.randrange(1, 31)
+
+  newMonthDay = datetime.datetime(year, month, day)
+  birthDate = newMonthDay - (datetime.timedelta(weeks=(52*age)) if newMonthDay.toordinal() < datetime.datetime.today().toordinal() else datetime.timedelta(weeks=(52*(age+1))))
+
+  return birthDate
 
 #
 # @func   newEducationLevel

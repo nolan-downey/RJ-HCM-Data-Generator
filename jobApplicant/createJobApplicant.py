@@ -5,6 +5,8 @@ import sys
 from util.generateBiased import generateBiased
 from jobApplicant.PreviousEmployer import createNewPreviousEmployer
 
+CERTS = open('assets/certs.txt', 'r').readlines() 
+
 #
 # @func   createJobApplicant
 # @desc   Creates job applicant, calls other functions to generate data
@@ -51,12 +53,9 @@ def newCertifications():
     total_certs = generateBiased([0,1,2,3,4,5],[25,25,20,10,10,10])
 
     if not total_certs:
-        return()
+        return
 
-    with open('assets/certs.txt', 'r') as f: 
-        certs_data = f.readlines()
-
-    certs_data = [z.strip() for z in certs_data]
+    certs_data = [z.strip() for z in CERTS]
 
     #Need Current Date
     today = date.today()
@@ -81,7 +80,7 @@ def newCertifications():
 
     y = json.dumps(x)
 
-    return(y)
+    return y
 
 #
 # @func   newLanguages

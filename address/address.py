@@ -2,6 +2,9 @@ from util.generateBiased import generateBiased
 import random
 import json
 
+streets = open("assets/Street_Names.csv", "r").readlines()
+statesCities = json.load(open('assets/statesCities.json', 'r')) 
+
 #
 # @func   createAddress
 # @desc   Creates address, calls other functions to generate data
@@ -12,8 +15,6 @@ def createAddress(person):
 
   address["nameCode"] = person["name"]["firstName"] + " " + person["name"]["lastName"]
   address["countryCode"] = "USA"
-
-  statesCities = json.load(open('assets/statesCities.json', 'r'))    
 
   address["stateCode"] = newStateCode(list(statesCities.keys()))
 
@@ -52,13 +53,10 @@ def newCityInfo(cities):
 #
 def newLineOne():
 
-  with open("assets/Street_Names.csv", "r") as streetFile:
+  lineIndex = random.randrange(0, 2668)
+  streetNumber = random.randrange(1, 999)
 
-    lineIndex = random.randrange(1, 2670)
-    streetNumber = random.randrange(1, 999)
-
-    streets = streetFile.readlines()
-    street = streets[lineIndex]
-    streetName = street.split(",")
+  street = streets[lineIndex]
+  streetName = street.split(",")
 
   return str(streetNumber) + " " + streetName[0]

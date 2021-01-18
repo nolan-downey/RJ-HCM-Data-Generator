@@ -1,6 +1,5 @@
 import random
 from worker.baseRenumeration import baseRenumeration
-from worker.reportsTo import reportsTo
 from util.generateBiased import generateBiased
 
 alph = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
@@ -11,38 +10,26 @@ alph = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
 # @desc   Creates workAssignment, calls other functions to generate data
 # @param  person
 #
-def createWorkAssignment(person, workerStatus):
+def createWorkAssignment(person, workerStatus, title, supervisor, depth):
   workAssignment = {}
 
-  workAssignment["workAssignmentID"]            = workAssignmentID()
-  workAssignment["effectiveDate"]               = {} # workerStatus["effectiveDate"]
-  workAssignment["assignmentStatus"]            = {} # workerStatus["assignmentStatus"]
+  workAssignment["workAssignmentID"]            = title
+  workAssignment["effectiveDate"]               = workerStatus["effectiveDate"]
+  workAssignment["assignmentStatus"]            = workerStatus["status"]
   workAssignment["assignmentCostCenterID"]      = None
   workAssignment["workerTypeCode"]              = workerTypeCode()
-  workAssignment["managementPositionIndicator"] = managementPositionIndicator(workAssignment["workAssignmentID"].split()[-1])
-  workAssignment["legalEntityID"]               = None # Organization title?
+  workAssignment["managementPositionIndicator"] = managementPositionIndicator(depth)
   workAssignment["fullTimeEquivalenceRatio"]    = fullTimeEquivalenceRatio()
   workAssignment["locationID"]                  = location(person["address"])
   workAssignment["payCycleCode"]                = payCycleCode()
   workAssignment["standardPayPeriodHours"]      = standardPayPeriodHours()
-  workAssignment["baseRemuneration"]            = baseRenumeration(workAssignment["workAssignmentID"], workAssignment["effectiveDate"])
-  # workAssignment["reportsTo"]                   = reportsTo()
+  workAssignment["baseRemuneration"]            = baseRenumeration(title, workAssignment["effectiveDate"])
+  workAssignment["reportsTo"]                   = supervisor
   workAssignment["payrollGroupCode"]            = payrollGroupCode()
 
+  # Legal entity id done in hcm.py
+
   return workAssignment       
-
-#
-# @func   workAssigmentID
-# @desc   Creates workAssignmentID
-# @param  None
-#
-def workAssignmentID():
-  positions = ['Junior Marketing Associate', 'Junior Operations Associate', 'Junior HR Associate', 'Junior IT Associate', 'Marketing Associate', 'Finance Associate', 'Operations Associate', 'HR Associate', 'IT Associate', 'Lead Marketing Associate', 'Lead Marketing Manager', 'Lead Marketing Officer', 'Lead Marketing Director', 'Lead Finance Associate', 'Lead Finance Manager', 'Lead Finance Officer', 'Lead Finance Director', 'Lead Operations Associate', 'Lead Operations Manager', 'Lead Operations Officer', 'Lead Operations Director', 'Lead HR Associate', 'Lead HR Manager', 'Lead HR Officer', 'Lead HR Director', 'Lead IT Associate', 'Lead IT Manager', 'Lead IT Officer', 'Lead IT Director', 'Senior Marketing Associate', 'Senior Marketing Manager', 'Senior Marketing Officer', 'Senior Marketing Director', 'Senior Finance Associate', 'Senior Finance Manager', 'Senior Finance Officer', 'Senior Finance Director', 'Senior Operations Associate', 'Senior Operations Manager', 'Senior Operations Officer', 'Senior Operations Director', 'Senior HR Associate', 'Senior HR Manager', 'Senior HR Officer', 'Senior HR Director', 'Senior IT Associate', 'Senior IT Manager', 'Senior IT Officer', 'Senior IT Director']
-  percentages = [2.63, 2.63, 2.63, 2.63, 2.63, 10, 10, 10, 10, 10, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63, 2.63]
-
-  workAssignment = generateBiased(positions, percentages)
-
-  return workAssignment
 
 #
 # @func   workerTypeCode
@@ -51,7 +38,7 @@ def workAssignmentID():
 #
 def workerTypeCode():
   types = ["employee", "contractor", "temporary"]
-  percentages = [95, 2.5, 2.5]
+  percentages = [100, 0, 0]
 
   workerTypeCode = generateBiased(types, percentages)
 
@@ -62,8 +49,8 @@ def workerTypeCode():
 # @desc   Creates managementPositionIndicator
 # @param  position
 #
-def managementPositionIndicator(position):
-  return True if position == "Director" or position == "Officer" or position == "Manager" else False
+def managementPositionIndicator(depth):
+  return True if depth < 6 else False
 
 #
 # @func   fullTimeEquivalenceRatio
@@ -90,11 +77,11 @@ def location(address):
 
 #
 # @func   payCycleCode
-# @desc   Creates payCycleCode
+# @desc   Creates payCycleCode (weekly, biweekly, semimonthly, monthly)
 # @param  None
 #
 def payCycleCode():
-  return alph[random.randrange(0, 25)] + "x" + str(random.randrange(100, 10000)) + alph[random.randrange(0, 25)]
+  return generateBiased(["w", "b", "s", "m"], [0, 100, 0, 0])
 
 #
 # @func   standardPayPeriodHours
@@ -110,4 +97,4 @@ def standardPayPeriodHours():
 # @param  None
 #
 def payrollGroupCode():
-  return alph[random.randrange(0, 25)]+ "y" + str(random.randrange(1, 100)) + alph[random.randrange(0, 25)] + str(random.randrange(1, 100))
+  return random.randrange(1, 5)
