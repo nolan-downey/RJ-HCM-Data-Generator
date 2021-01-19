@@ -9,7 +9,7 @@ COMPANY_NAMES = pd.read_csv('assets/companies.txt', '\t')['name']
 def createNewPreviousEmployer(applicant):
   previousEmployer = {}
   previousEmployer['name'] = newEmployerName()
-  previousEmployer['address'] = createAddress(applicant['person'])
+  previousEmployer['address'] = createAddress(applicant['person'], None)
 
   startDate, endDate = newStartEndDate(applicant)
 
