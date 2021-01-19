@@ -21,11 +21,15 @@ company = newEmployerName()
 # @desc   Main driver - accesses mongoDB, creates data, adds it to db
 # @param  None
 #
-def main():
+
+# addrInfo - {"state": "", "city": ""}
+def main(addrInfo=None):
   uri = "mongodb+srv://{user}:{password}@cluster0.lx0nm.mongodb.net/{db}?retryWrites=true&w=majority".format(user=config("USERNAME"),password=config("PASSWORD"),db=config("DB") )
 
   client = pymongo.MongoClient(uri, ssl_cert_reqs=ssl.CERT_NONE)
   db = client.hcmData
+
+  addrInfo = {"state": "Illinois", "city": "Chicago"}
 
   completeTable["addresses"] = []
   completeTable["people"] = []
@@ -33,7 +37,7 @@ def main():
   completeTable["jobRequisitions"] = []
   completeTable["jobApplicants"] = []
 
-  generateHierarchy()
+  generateHierarchy(addrInfo)
   
   print("Adding data to db...")
   db["address"].insert_many(completeTable["addresses"])
@@ -46,13 +50,13 @@ def main():
 # @func   generateHierarchy
 # @desc   Generates CEO, and from there calls the recursive function generateFieldData for each department 
 #         operating under the CEO 
-# @param  None
+# @param  city, state object
 #
-def generateHierarchy():
+def generateHierarchy(addrInfo):
   # Marketing, Finance, IT, Operations, HR
   # Recursively generate from CEO down
 
-  generateEmployee("CEO", None, 0)
+  generateEmployee(addrInfo, "CEO", None, 0)
   CEO = {}
   CEO["name"] = completeTable["people"][0]["address"]["nameCode"]
   CEO["positionTitle"] = "CEO"
@@ -64,18 +68,18 @@ def generateHierarchy():
   hr = ["President of Human Resources", "Vice-President of Human Resources", "Senior Human Resources Officer", "Senior Human Resources Manager", "Human Resources Manager", "Lead Human Resources Asscociate", "Human Resources Asscociate"]
 
   print("Generating data...")
-  generateFieldData(finances, CEO, 0)
-  generateFieldData(it, CEO, 0)
-  generateFieldData(marketing, CEO, 0)
-  generateFieldData(operations, CEO, 0)
-  generateFieldData(hr, CEO, 0)
+  generateFieldData(addrInfo, finances, CEO, 0)
+  generateFieldData(addrInfo, it, CEO, 0)
+  generateFieldData(addrInfo, marketing, CEO, 0)
+  generateFieldData(addrInfo, operations, CEO, 0)
+  generateFieldData(addrInfo, hr, CEO, 0)
 
 #
 # @func   generateFieldData
 # @desc   Recursively generates employee data based on positions and supervisors passed down
 # @param  positions for a given department in order of highest to lowest superiority, supervisor object, depth from highest position
 #
-def generateFieldData(positions, supervisor, depth):
+def generateFieldData(addrInfo, positions, supervisor, depth):
 
   if not positions:
     return
@@ -84,18 +88,18 @@ def generateFieldData(positions, supervisor, depth):
 
   if depth > 2 and len(positions) > 1:
     for _ in range(random.randrange(3, 5)):
-      generateEmployee(title, supervisor, depth)
+      generateEmployee(addrInfo, title, supervisor, depth)
       employee = {}
       employee["name"] = completeTable["people"][-1]["address"]["nameCode"]
       employee["positionTitle"] = title
-      generateFieldData(positions[1:], employee, depth+1)
+      generateFieldData(addrInfo, positions[1:], employee, depth+1)
 
   else:
-    generateEmployee(title, supervisor, depth)
+    generateEmployee(addrInfo, title, supervisor, depth)
     employee = {}
     employee["name"] = completeTable["people"][-1]["address"]["nameCode"]
     employee["positionTitle"] = title
-    generateFieldData(positions[1:], employee, depth+1)
+    generateFieldData(addrInfo, positions[1:], employee, depth+1)
 
   return
 
@@ -104,14 +108,14 @@ def generateFieldData(positions, supervisor, depth):
 # @desc   call items to generate each table for an employee
 # @param  job title, supervisor object
 #
-def generateEmployee(title, supervisor, depth):
+def generateEmployee(addrInfo, title, supervisor, depth):
   newPerson = createPerson()
-  newAddress = createAddress(newPerson)
+  newAddress = createAddress(newPerson, addrInfo)
   newPerson["address"] = newAddress
   newWorker = createWorker(newPerson, title, supervisor, depth)
   newWorker["workAssignment"]["legalEntityID"] = company
   newPerson["address"].pop("county")
-  newJobRequistion = createJobRequisition()
+  newJobRequistion = createJobRequisition(title)
   newJobApplicant = createJobApplicant(newPerson)
 
   completeTable["addresses"].append(newAddress)

@@ -16,9 +16,8 @@ def createPerson():
 
   person["gender"]                = newGender()
   person["name"]                  = newName(person)
-  person["highestEducationLevel"] = newEducationLevel([100/7 for _ in range(7)])
+  person["highestEducationLevel"] = newEducationLevel([2, 1, 2, 10, 65, 15, 10])
   person["birthDate"]             = newBirthDate([100/6 for _ in range(5)])
-  person["genderCode"]            = newGender()
   person["ethnicityCode"]         = newEthnicity([20 for _ in range(6)])
 
   # Address done in hcm.py file
@@ -52,8 +51,8 @@ def newName(Person):
   middle_initials = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
                   'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
 
-  # index for random name out of first 100000
-  name_index = random.randint(0, 100000)
+  # index for random name out of first 10000
+  name_index = random.randint(0, 10000)
   # index for random initial out of the alphabet
   initial_index = random.randint(0, 25)
 

@@ -20,10 +20,10 @@ STATUS_CODES = ['Pending', 'Approved', 'Filled', 'Closed']
 # @desc   Creates requisition, calls other functions to generate data
 # @param  None
 #
-def createJobRequisition():
+def createJobRequisition(positionTitle):
   requisition = {}
   title, reason = newTitleReason()
-  requisition['requisitionTitle'] = title
+  requisition['requisitionTitle'] = positionTitle
   requisition['requisitionReasonCode'] = reason
   requisition['positionTravelRequirement'] = newTravelRequirement()
   requisition['postDate'] = newPostDate()
