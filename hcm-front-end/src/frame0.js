@@ -48,33 +48,22 @@ function Frame0(props) {
 
   return (
     <div className="App">
-     <header className="App-header">
-       <label htmlFor="state" style={{display: 'block'}}>
-         Choose a database and state whose addresses you want to view
-       </label>
-       <select name="dbNames" onChange={handleChangeDB}>
-         {dbs && Array.isArray(dbs) ? 
-           dbs.length > 0 ? 
-             dbs.map((db, idx) => (
-               <option key={idx} value={db}>
-                 {db}
-               </option>))
-             : <> ... </>
-           : <> </>}
-       </select>
-       <select name="states" onChange={getStateCode}>
-         {STATENAMES.map((state, idx) => <option key={idx} value={state}>{state}</option>)}
-       </select>
-         {states && Array.isArray(states) ? 
-           states.length > 0 ? 
-             states.map((state, idx) => (
-               <span key={idx} style={{display: 'block'}}>
-                 Address {idx}: {state.cityName}, {state.stateCode} {state.countryCode}
-               </span>))
-             : <>...</>
-           : <>...</>}
-        <button onClick={props.next}>Next Frame</button>
-     </header>
+      <header className="App-header">
+        <label htmlFor="state" style={{display: 'block'}}>
+          Choose a database and state whose addresses you want to view
+        </label>
+        <select name="dbNames" onChange={handleChangeDB}>
+          {dbs && Array.isArray(dbs) ? 
+            dbs.length > 0 ? 
+              dbs.map((db, idx) => (
+                <option key={idx} value={db}>
+                  {db}
+                </option>))
+              : <> ... </>
+            : <> </>}
+        </select>
+        <button className="next-frame" onClick={props.next}>Next Frame</button>
+      </header>
     </div>
   )
 }

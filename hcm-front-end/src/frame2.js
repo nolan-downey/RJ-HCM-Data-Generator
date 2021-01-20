@@ -26,7 +26,7 @@ function Frame2({ table, previous }) {
     }
   }
 
-  const fetchJobApplicant = (selection) => {
+  const fetchData = (selection) => {
     setLoadedData(false);
     setFetchingData(true);
     selection = determineTable(selection)
@@ -53,7 +53,7 @@ function Frame2({ table, previous }) {
           {/* Spiking options here */}
           </ul>
           <div style={{positon: "absolute"}}>
-            <button onClick={() => fetchJobApplicant(table)}>Fetch Data</button>
+            <button onClick={() => fetchData(table)}>Fetch Data</button>
           </div>
         </div>
         <div className="responseView">

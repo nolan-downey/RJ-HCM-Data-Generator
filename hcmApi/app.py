@@ -56,6 +56,13 @@ def getAddress():
   singleState = json.dumps(singleState, cls=Encoder) 
   singleState = jsonify(singleState)
   return singleState
+
+@app.route('/api/person', methods=['GET'])
+def getPerson():
+  singlePerson = list(db.person.aggregate([{ "$sample": { "size": 1 }}]))[0]
+  singlePerson = json.dumps(singlePerson, cls=Encoder) 
+  singlePerson = jsonify(singlePerson)
+  return singlePerson 
   
 @app.route('/api/jobRequisition', methods=['GET'])
 def getJobReq():
