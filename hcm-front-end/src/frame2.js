@@ -45,25 +45,30 @@ function Frame2({ table, previous }) {
   }
 
   return (
-    <div className="testingMainView">
-      <div className="spikingMenu">
-        Spiking Menu
-        <div style={{positon: "absolute"}}>
-          <button onClick={() => fetchJobApplicant(table)}>Fetch Data</button>
+    <div className="content">
+      <div className="testingMainView">
+        <div className="spikingMenu">
+          <h1>Spiking Menu</h1>
+          <ul>
+          {/* Spiking options here */}
+          </ul>
+          <div style={{positon: "absolute"}}>
+            <button onClick={() => fetchJobApplicant(table)}>Fetch Data</button>
+          </div>
         </div>
-      </div>
-      <div className="responseView">
-        Sample Response 
-      {
-        fetchingData ? <Loader/> 
-          : loadedData ? 
-              <div className="responseWindow">
-                <pre>
-                  {data}
-                </pre>
-              </div>
-          : <div>...</div>
-      }
+        <div className="responseView">
+          <h1>Sample Response</h1>
+        {
+          fetchingData ? <Loader/> 
+            : loadedData ? 
+                <div className="responseWindow">
+                  <pre>
+                    {data}
+                  </pre>
+                </div>
+            : <div>...</div>
+        }
+        </div>
       </div>
       <button className="next-frame" onClick={previous}>Previous Frame</button>
     </div>
