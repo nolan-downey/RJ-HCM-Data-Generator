@@ -49,3 +49,37 @@
   font-size: 30px;
   color: #373a40;
 }
+
+.content {
+  padding: 100px;
+  text-align: center;
+}
+
+.next-frame {
+  margin-top: 80px;
+  height: 50px;
+  width: 120px;
+  border-radius: 20px;
+  background-color: #eeeeee;
+  text-align: center;
+}
+
+.table-menu button {
+  height: 100px;
+  width: 200px;
+  border-radius: 20px;
+  margin: 25px;
+  font-weight: 800;
+}
+
+.table-menu button:hover {
+  background-color: #686d76;
+}
+
+.unselected {
+  background-color: #19d3da;
+}
+
+.selected {
+  background-color: #fff8cd;
+}
