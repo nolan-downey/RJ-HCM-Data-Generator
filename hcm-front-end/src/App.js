@@ -1,6 +1,9 @@
 import { Fragment, useState } from "react";
 import './App.css';
-import TestingEndpoint from './TestingEndpoint';
+import Nav from "./nav";
+import Frame0 from "./frame0"
+import Frame1 from "./frame1"
+import Frame2 from "./frame2"
 
 function App() {
 
@@ -9,10 +12,14 @@ function App() {
 
   return (
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> frames in app.js
     <Fragment>
       <Nav/>
        {/* Package each page content into different functions in other files */}
       {frame === 0 && <Frame0 next={() => nextFrame(1)}/>}
+<<<<<<< HEAD
       {frame === 1 && <Frame1 selectTable={table => setTable(table)} next={() => nextFrame(2)}/>}
       {frame === 2 && <Frame2 table={table}/>}
     </Fragment>
@@ -47,6 +54,11 @@ function App() {
       </header>
     </div>
 >>>>>>> testing endpoint page
+=======
+      {frame === 1 && <Frame1 next={() => nextFrame(2)}/>}
+      {frame === 2 && <Frame2/>}
+    </Fragment>
+>>>>>>> frames in app.js
   )
 }
 
