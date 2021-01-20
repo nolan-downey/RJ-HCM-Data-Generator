@@ -1,13 +1,11 @@
 import { useState } from "react";
 
-
 function Frame1(props) {
-
   const [active, setActive] = useState("");
 
   function handleUpdate(table) {
     setActive(table);
-    props.selectTable("Address");
+    props.selectTable(table);
   }
 
   return (
@@ -19,6 +17,7 @@ function Frame1(props) {
         <button className={active === "Job Applicant" ? "selected" : "unselected"} onClick={() => handleUpdate("Job Applicant")}>Job Applicant</button>
         <button className={active === "Job Requisition" ? "selected" : "unselected"} onClick={() => handleUpdate("Job Requisition")}>Job Requisition</button>
       </div>
+      {active !== "" && <button className="next-frame" onClick={props.previous}>Previous Frame</button>}
       {active !== "" && <button className="next-frame" onClick={props.next}>Next Frame</button>}
     </div>
   )
