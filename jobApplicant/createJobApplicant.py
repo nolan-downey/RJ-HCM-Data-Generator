@@ -78,9 +78,9 @@ def newCertifications():
 
         certs_data.pop(certs_data.index(cert))
 
-    y = json.dumps(x)
+    # y = json.dumps(x)
 
-    return y
+    return x
 
 #
 # @func   newLanguages
@@ -133,6 +133,6 @@ def newLanguages():
       LANGUAGE_CODES.pop(j)
 
   #Turning it into a JSON
-  y = json.dumps(x)
+  # y = json.dumps(x)
 
-  return(y)
+  return(x)

@@ -1,0 +1,41 @@
+.testingMainView {
+  display: grid;
+  grid-template-columns: 1fr 7fr;
+  grid-template-rows: repeat(6, 1fr);
+  column-gap: 30%;
+  /* display: block; */
+}
+
+.spikingMenu {
+  /* position: absolute; */
+  /* grid-column: 1; */
+}
+
+.responseView {
+  /* grid-column: 6; */
+  /* display: inline-table; */
+  /* position: absolute; */
+}
+
+div {
+  /* border: 1px solid red; */
+}
+
+pre {
+  white-space: pre-wrap;
+  text-align:left;
+}
+
+.responseWindow {
+  position: absolute;
+  font-size: 12px;
+  color: black;
+  width: 50%;
+  overflow-y: scroll;
+  margin: 0 auto;
+  max-height: 33vh;
+  padding: 10px 16px;
+  border-radius: 5px;
+  background-color: #f5f5f5;
+  font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+}
