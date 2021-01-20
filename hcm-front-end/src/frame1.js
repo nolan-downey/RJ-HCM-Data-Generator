@@ -10,6 +10,7 @@ function Frame1(props) {
 
   return (
     <div className="content">
+      <h1>Select a Table to View:</h1>
       <div className="table-menu">
         <button className={active === "Address" ? "selected" : "unselected"} onClick={() => handleUpdate("Address")}>Address</button>
         <button className={active === "Person" ? "selected" : "unselected"} onClick={() => handleUpdate("Person")}>Person</button>
@@ -17,8 +18,8 @@ function Frame1(props) {
         <button className={active === "Job Applicant" ? "selected" : "unselected"} onClick={() => handleUpdate("Job Applicant")}>Job Applicant</button>
         <button className={active === "Job Requisition" ? "selected" : "unselected"} onClick={() => handleUpdate("Job Requisition")}>Job Requisition</button>
       </div>
-      {active !== "" && <button className="next-frame" onClick={props.previous}>Previous Frame</button>}
-      {active !== "" && <button className="next-frame" onClick={props.next}>Next Frame</button>}
+      <button className="next-frame" onClick={props.previous}>Back</button>
+      {active !== "" && <button className="next-frame" onClick={props.next}>Next</button>}
     </div>
   )
 }
