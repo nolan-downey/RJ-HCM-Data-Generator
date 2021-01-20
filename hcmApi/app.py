@@ -50,27 +50,21 @@ def getDBs():
   resp = jsonify(databases)
   return resp
 
-@app.route('/api/addresses', methods=['GET'])
+@app.route('/api/address', methods=['GET'])
 def getAddress():
-  stateCode = request.args.get('stateCode')
-  states = db.address.find_one({"stateCode": stateCode})
-  stateToReturn = []
-  states = json.dumps(states, cls=Encoder) 
-  stateToReturn.append(states)
-  # for state in states:
-  #   state['_id'] = str(state['_id'])
-  #   stateToReturn.append(state)
-  stateToReturn = jsonify(stateToReturn)
-  return stateToReturn
+  singleState = list(db.address.aggregate([{ "$sample": { "size": 1 }}]))[0]
+  singleState = json.dumps(singleState, cls=Encoder) 
+  singleState = jsonify(singleState)
+  return singleState
   
-@app.route('/api/jobRequisitions', methods=['GET'])
+@app.route('/api/jobRequisition', methods=['GET'])
 def getJobReq():
   singleJobReq = list(db.jobRequisitions.aggregate([{ "$sample": { "size": 1 }}]))[0]
   singleJobReq = json.dumps(singleJobReq, cls=Encoder)
   singleJobReq = jsonify(singleJobReq)
   return singleJobReq
   
-@app.route('/api/jobApplicants', methods=['GET'])
+@app.route('/api/jobApplicant', methods=['GET'])
 def getJobApplicant():
   singleJobApplicant = list((db.jobApplicants.aggregate([{ "$sample": { "size": 1 }}])))[0]
   singleJobApplicant = json.dumps(singleJobApplicant, cls=Encoder)
