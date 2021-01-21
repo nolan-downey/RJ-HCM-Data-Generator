@@ -19,7 +19,7 @@ function Frame1(props) {
         <button className={active === "Job Requisition" ? "selected" : "unselected"} onClick={() => handleUpdate("Job Requisition")}>Job Requisition</button>
       </div>
       <button className="next-frame" onClick={props.previous}>Back</button>
-      {active !== "" && <button className="next-frame" onClick={props.next}>Next</button>}
+      {active !== "" && <button className="next-frame" onClick={props.next}>Continue</button>}
     </div>
   )
 }

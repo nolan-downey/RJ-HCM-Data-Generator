@@ -70,7 +70,7 @@ function Frame2({ table, previous }) {
         }
         </div>
       </div>
-      <button className="next-frame" onClick={previous}>Previous Frame</button>
+      <button className="next-frame" onClick={previous}>Back</button>
     </div>
   )
 }

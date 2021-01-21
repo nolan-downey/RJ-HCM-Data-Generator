@@ -62,7 +62,7 @@ function Frame0(props) {
               : <> ... </>
             : <> </>}
         </select>
-        <button className="next-frame" onClick={props.next}>Next Frame</button>
+        <button className="next-frame" onClick={props.next}>Continue</button>
       </header>
     </div>
   )
