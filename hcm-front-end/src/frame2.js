@@ -26,11 +26,32 @@ function Frame2({ table, previous }) {
     }
   }
 
-  const fetchData = (selection) => {
+  const fetchData = async (selection) => {
     setLoadedData(false);
     setFetchingData(true);
+
+    // Grab spiked fields from HTML
+    let data = {
+      companyName: "",
+      companyLocation: {state: "", city: ""},
+      age: 0,
+      ethnicity: "",
+      gender: "",
+      workerType: "", // Employee, Temp, Contractor
+      fullTimeEquivalency: "" // Full Time, Part Time
+    }
+
+    // Create new DB with spiked fields
+    await axios.post(`${APIURL}/api/newDB`, data)
+    .then(res => {
+      console.log(res)
+    })
+    .catch(err => {
+      console.log(err)
+    })
+
     selection = determineTable(selection)
-    axios.get(`${APIURL}/api/${selection}`)
+    await axios.get(`${APIURL}/api/${selection}`)
       .then(res => {
         if (res) {
           setLoadedData(true);
