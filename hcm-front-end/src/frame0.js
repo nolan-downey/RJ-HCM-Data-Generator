@@ -1,23 +1,10 @@
 import { useEffect, useRef, useState } from 'react';
-import { APIURL, STATENAMES } from './literals';
+import { APIURL } from './literals';
 import axios from 'axios';
 
 function Frame0(props) {
 
-  const [states, setStates] = useState();
   const [dbs, setDbs] = useState();
-  
-  const getStateCode = (selection) => {
-    if (typeof(selection) !== 'string')
-      selection = selection.target.value;
-    axios.get(`${APIURL}/api/addresses?stateCode=${selection}`)
-      .then(response => {
-        setStates(response.data || 'No addresses');
-      })
-      .catch(error => {
-        setStates(error);
-      });
-  }
 
   const handleChangeDB = (selection) => {
     selection = selection.target.value;
@@ -42,7 +29,6 @@ function Frame0(props) {
   };
 
   useEffect(() => {
-    getStateCode(STATENAMES[0]);
     getDBNames.current();
   }, []);
 
