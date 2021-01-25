@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+## HCM Data Generator Front End README
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### Structure
 
-## Available Scripts
+This app is written using ReactJS and the `create-react-app` tool. Prior to development,
+(1) ensure you have the latest version of NodeJS installed and (2) make sure to run `npm i` 
+in the root directory of the project.
 
-In the project directory, you can run:
+`public
+This contains all of the public resources for the app. Add logos and favicons as seen fit.
 
-### `npm start`
+`src`
+This contains all of the core functionality of the app in the form of React components and 
+their stylesheets. Currently, all CSS is contained in `App.css`.
+Put all additional functions and components into this folder.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+#### Components
+To add new components, simply refer to the ReactJS documentation. All components in this 
+project are functional components rather than class components,
+so it's best advised to keep following this style.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+`App.js`
+This is the app's main entry point after `index.js`. Instead of implementing routing, this project
+uses the `useState` hook to keep track of which page the user is on. 
+To add new views, you can either implement routing with a library like `react-router` 
+or add additional frames via conditional rendering like so: `{frame === N && <FrameN />}`
+passing props to FrameN as seen fit.
 
-### `npm test`
+`frame0.js`, `frame1.js`, `frame2.js`
+All of these are the various screens that will be displayed in the app. Add more frames as deemed necessary.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+`nav.js`
+This is the navbar heading the front end application. Feel free to add functionality to the navbar
+as deemed necessary.
 
-### `npm run build`
+`literals.js`
+This contains any magic strings or other literals that come handy in other files such as the 
+API url.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+`Loader.js`
+This is the spinning wheel that displays when a query is running. Reuse this for any similar case.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#### To Start Development
+To start development, simply clone this repository and run `npm i` in its root directory.
+Run `npm start` to view the project at `localhost:3000`. To build the project
+for deployment to Heroku, simply run `npm run build` and a `build` folder will appear
+containing the assembled and minified app.
