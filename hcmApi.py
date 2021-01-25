@@ -119,6 +119,7 @@ def newDB():
   spikedData["workerTypes"] = request.get_json()['workerTypes']
   spikedData["fullTimeEquivalency"] = request.get_json()['fullTimeEquivalency']
 
+
   generateHierarchy(spikedData)
   
   db["address"].insert_many(completeTable["addresses"])
@@ -192,13 +193,15 @@ def generateFieldData(spikedData, positions, supervisor, depth):
 # @param  job title, supervisor object
 #
 def generateEmployee(spikedData, title, supervisor, depth):
-  newPerson = createPerson()
+  newPerson = createPerson(list(map(lambda x: int(x), spikedData["gender"].values())) if spikedData["gender"] else None, 
+  list(map(lambda x: int(x), spikedData["age"].values())) if spikedData["age"] else None, 
+  list(map(lambda x: int(x), spikedData["ethnicity"].values())) if spikedData["ethnicity"] else None)
   newAddress = createAddress(newPerson, spikedData["addrInfo"])
   newPerson["address"] = newAddress
   newWorker = createWorker(newPerson, title, supervisor, depth, {"workerTypes": list(map(lambda x: int(x), spikedData["workerTypes"].values()))} if spikedData["workerTypes"] else None)
   newWorker["workAssignment"]["legalEntityID"] = spikedData["companyName"] if spikedData["companyName"] else company
   newPerson["address"].pop("county")
-  newJobRequistion = createJobRequisition(title)
+  newJobRequistion = createJobRequisition(title, list(map(lambda x: int(x), spikedData["fullTimeEquivalency"].values())) if spikedData["fullTimeEquivalency"] else None )
   newJobApplicant = createJobApplicant(newPerson)
 
   completeTable["addresses"].append(newAddress)

@@ -3,6 +3,7 @@ import numpy as np
 import datetime
 from pprint import pprint
 from random import randint
+from jobRequisition.standardHours import standardHours
 
 from worker.worker import createWorker
 from util.generateBiased import generateBiased
@@ -20,14 +21,14 @@ STATUS_CODES = ['Pending', 'Approved', 'Filled', 'Closed']
 # @desc   Creates requisition, calls other functions to generate data
 # @param  None
 #
-def createJobRequisition(positionTitle):
+def createJobRequisition(positionTitle, fullTimePercentages):
   requisition = {}
   title, reason = newTitleReason()
   requisition['requisitionTitle'] = positionTitle
   requisition['requisitionReasonCode'] = reason
   requisition['positionTravelRequirement'] = newTravelRequirement()
   requisition['postDate'] = newPostDate()
-  requisition['standardHours'] = {} # upon completion of standardHours
+  requisition['standardHours'] = standardHours(fullTimePercentages if fullTimePercentages else None) # upon completion of standardHours
   requisition['bonusEligibleIndicator'] = newBonusEligIndicator()
   requisition['projectedStartDate'] = newProjectedStartDate()
   requisition['projectedEndDate'] = newProjectedEndDate(requisition['projectedStartDate'])

@@ -18,7 +18,7 @@ def createJobApplicant(Person):
   jobApplicant['certifications'] = newCertifications()
   jobApplicant['languages'] = newLanguages()
   jobApplicant['previousEmployer'] = createNewPreviousEmployer(jobApplicant)
-  jobApplicant['ethnicityCode'] = Person['ethnicityCode']
+  jobApplicant['ethnicity'] = Person['ethnicity']
   jobApplicant['internalApplicantIndicator'] = newInternalApplicantIndicator()
   jobApplicant['workAuthorizationIndicator'] = newWorkAuthIndicator()
   return jobApplicant
