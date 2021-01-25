@@ -16,9 +16,9 @@ def createAddress(person, addrInfo):
   address["nameCode"] = person["name"]["firstName"] + " " + person["name"]["lastName"]
   address["countryCode"] = "USA"
 
-  address["stateCode"] = newStateCode(list(statesCities.keys())) if addrInfo is None else addrInfo["state"]
+  address["stateCode"] = newStateCode(list(statesCities.keys())) if addrInfo["state"] == "" else addrInfo["state"]
 
-  cityInfo = newCityInfo(statesCities[address["stateCode"]]) if addrInfo is None else list(filter(lambda x: x["name"] == addrInfo["city"], statesCities[address["stateCode"]]))[0]
+  cityInfo = newCityInfo(statesCities[address["stateCode"]]) if addrInfo["city"] == "" else list(filter(lambda x: x["name"] == addrInfo["city"], statesCities[address["stateCode"]]))[0]
 
   address["cityName"]       = cityInfo["name"]
   address["postalCode"]     = cityInfo["zipcode"]

@@ -7,12 +7,12 @@ from worker.workerStatus import createWorkerStatus
 # @desc   Creates worker, calls other functions to generate data
 # @param  person object, position title, supervisor name
 #
-def createWorker(person, title, supervisor, depth):
+def createWorker(person, title, supervisor, depth, probabilities):
   worker = {}
 
   worker["person"]          = person
   worker["workerDates"]     = createWorkerDates(person)
   worker["workerStatus"]    = createWorkerStatus(worker["workerDates"])
-  worker["workAssignment"]  = createWorkAssignment(worker["person"], worker["workerStatus"], title, supervisor, depth)
+  worker["workAssignment"]  = createWorkAssignment(worker["person"], worker["workerStatus"], title, supervisor, depth, probabilities)
 
   return worker

@@ -9,6 +9,47 @@ function Frame2({ table, previous }) {
   const [fetchingData, setFetchingData] = useState(false);
   const [data, setData] = useState();
 
+  // Spike options state
+  const [companyName, newName] = useState("");
+  const [state, newState] = useState("");
+  const [city, newCity] = useState("");
+  const [age, newAge] = useState("");
+  const [ethnicity, newEthnicity] = useState("");
+  const [gender, newGender] = useState("");
+  const [workerTypes, newWorkerTypes] = useState({});
+  const [fullTimeEquivalency, newFullTimeEquivalency] = useState("");
+
+  let spikeOptions = (
+    <ul className="spikeList">
+      <li>Company Name<input onChange={e => newName(e.target.value)}></input></li>
+      <li>State<input onChange={e => newState(e.target.value)}></input></li>
+      <li>City<input onChange={e => newCity(e.target.value)}></input></li>
+      {/* <li>Age<input onChange={e => newAge(e.target.value)}></input></li>
+      <li>Ethnicity<input onChange={e => newEthnicity(e.target.value)}></input></li>
+      <li>Gender<input onChange={e => newGender(e.target.value)}></input></li> */}
+      <li className="colHeader">Worker Type (%)
+        <ul className="spikeList">
+          <li>Employee<input onChange={e => {
+            let temp = workerTypes
+            temp["employee"] = e.target.value
+            newWorkerTypes(temp)
+          }}></input></li>
+          <li>Contract<input onChange={e => {
+            let temp = workerTypes
+            temp["contract"] = e.target.value
+            newWorkerTypes(temp)
+          }}></input></li>              
+          <li>Temporary<input onChange={e => {
+            let temp = workerTypes
+            temp["temporary"] = e.target.value
+            newWorkerTypes(temp)
+          }}></input></li>            
+        </ul>
+      </li>
+      {/* <li>Time Status<select onChange={e => newFullTimeEquivalency(e.target.value)}></select></li> */}
+    </ul>
+  )
+
   const determineTable = (tableString) => {
     switch(tableString) {
       case "Address":
@@ -32,13 +73,13 @@ function Frame2({ table, previous }) {
 
     // Grab spiked fields from HTML
     let data = {
-      companyName: "",
-      companyLocation: {state: "", city: ""},
-      age: 0,
-      ethnicity: "",
-      gender: "",
-      workerType: "", // Employee, Temp, Contractor
-      fullTimeEquivalency: "" // Full Time, Part Time
+      companyName: companyName === "" ? "" : companyName,
+      addrInfo: {state: state === "" ? "" : state, city: city === "" ? "" : city},
+      age: age === "" ? 0 : age,
+      ethnicity: ethnicity === "" ? "" : ethnicity,
+      gender: gender === "" ? "" : gender,
+      workerTypes: workerTypes === {} ? "" : workerTypes, // Employee, Temp, Contractor
+      fullTimeEquivalency: fullTimeEquivalency === "" ? "" : fullTimeEquivalency // Full Time, Part Time
     }
 
     // Create new DB with spiked fields
@@ -70,9 +111,7 @@ function Frame2({ table, previous }) {
       <div className="testingMainView">
         <div className="spikingMenu">
           <h1>Spiking Menu</h1>
-          <ul>
-          {/* Spiking options here */}
-          </ul>
+          {spikeOptions}
           <div style={{positon: "absolute"}}>
             <button onClick={() => fetchData(table)}>Fetch Data</button>
           </div>

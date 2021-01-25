@@ -10,14 +10,14 @@ alph = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
 # @desc   Creates workAssignment, calls other functions to generate data
 # @param  person
 #
-def createWorkAssignment(person, workerStatus, title, supervisor, depth):
+def createWorkAssignment(person, workerStatus, title, supervisor, depth, probabilities):
   workAssignment = {}
 
   workAssignment["workAssignmentID"]            = title
   workAssignment["effectiveDate"]               = workerStatus["effectiveDate"]
   workAssignment["assignmentStatus"]            = workerStatus["status"]
   workAssignment["assignmentCostCenterID"]      = None
-  workAssignment["workerTypeCode"]              = workerTypeCode()
+  workAssignment["workerTypeCode"]              = workerTypeCode(probabilities["workerTypes"] if probabilities else None)
   workAssignment["managementPositionIndicator"] = managementPositionIndicator(depth)
   workAssignment["fullTimeEquivalenceRatio"]    = fullTimeEquivalenceRatio()
   workAssignment["locationID"]                  = location(person["address"])
@@ -36,11 +36,11 @@ def createWorkAssignment(person, workerStatus, title, supervisor, depth):
 # @desc   Creates workerTypeCode
 # @param  None
 #
-def workerTypeCode():
+def workerTypeCode(probabilities):
   types = ["employee", "contractor", "temporary"]
   percentages = [100, 0, 0]
 
-  workerTypeCode = generateBiased(types, percentages)
+  workerTypeCode = generateBiased(types, probabilities if probabilities else percentages)
 
   return workerTypeCode
 
