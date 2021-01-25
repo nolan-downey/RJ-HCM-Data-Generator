@@ -49,7 +49,6 @@ def changeDbName(dbName):
 def changeDB():
   dbName = request.get_json()['dbName']
   changeDbName(dbName)
-  print(f'hitting changeDB; dbName: {db.name}')
   resp = jsonify(success=True)
   return resp
 
@@ -104,18 +103,23 @@ def newDB():
   client.drop_database(dbName)
   db = client[dbName]
 
-  # Fields go here - grab from request
-  # [var] = request.get_json()['fieldName']
-
-  addrInfo = {"state": "Illinois", "city": "Chicago"}
-
   completeTable["addresses"] = []
   completeTable["people"] = []
   completeTable["workers"] = []
   completeTable["jobRequisitions"] = []
   completeTable["jobApplicants"] = []
 
-  generateHierarchy(addrInfo)
+  # Initialize spiked fields from request
+  spikedData = {}
+  spikedData["companyName"] = request.get_json()['companyName']
+  spikedData["addrInfo"] = request.get_json()['addrInfo']
+  spikedData["age"] = request.get_json()['age']
+  spikedData["ethnicity"] = request.get_json()['ethnicity']
+  spikedData["gender"] = request.get_json()['gender']
+  spikedData["workerTypes"] = request.get_json()['workerTypes']
+  spikedData["fullTimeEquivalency"] = request.get_json()['fullTimeEquivalency']
+
+  generateHierarchy(spikedData)
   
   db["address"].insert_many(completeTable["addresses"])
   db["person"].insert_many(completeTable["people"])
@@ -132,11 +136,11 @@ def newDB():
 #         operating under the CEO 
 # @param  city, state object
 #
-def generateHierarchy(addrInfo):
+def generateHierarchy(spikedData):
   # Marketing, Finance, IT, Operations, HR
   # Recursively generate from CEO down
 
-  generateEmployee(addrInfo, "CEO", None, 0)
+  generateEmployee(spikedData, "CEO", None, 0)
   CEO = {}
   CEO["name"] = completeTable["people"][0]["address"]["nameCode"]
   CEO["positionTitle"] = "CEO"
@@ -147,18 +151,18 @@ def generateHierarchy(addrInfo):
   operations = ["COO", "President of Operations", "Vice-President of Operations", "Senior Operations Officer", "Senior Operations Manager", "Operations Manager", "Lead Operations Associate", "Operations Associate"]
   hr = ["President of Human Resources", "Vice-President of Human Resources", "Senior Human Resources Officer", "Senior Human Resources Manager", "Human Resources Manager", "Lead Human Resources Asscociate", "Human Resources Asscociate"]
 
-  generateFieldData(addrInfo, finances, CEO, 0)
-  generateFieldData(addrInfo, it, CEO, 0)
-  generateFieldData(addrInfo, marketing, CEO, 0)
-  generateFieldData(addrInfo, operations, CEO, 0)
-  generateFieldData(addrInfo, hr, CEO, 0)
+  generateFieldData(spikedData, finances, CEO, 0)
+  generateFieldData(spikedData, it, CEO, 0)
+  generateFieldData(spikedData, marketing, CEO, 0)
+  generateFieldData(spikedData, operations, CEO, 0)
+  generateFieldData(spikedData, hr, CEO, 0)
 
 #
 # @func   generateFieldData
 # @desc   Recursively generates employee data based on positions and supervisors passed down
 # @param  positions for a given department in order of highest to lowest superiority, supervisor object, depth from highest position
 #
-def generateFieldData(addrInfo, positions, supervisor, depth):
+def generateFieldData(spikedData, positions, supervisor, depth):
 
   if not positions:
     return
@@ -167,18 +171,18 @@ def generateFieldData(addrInfo, positions, supervisor, depth):
 
   if depth > 2 and len(positions) > 1:
     for _ in range(random.randrange(3, 5)):
-      generateEmployee(addrInfo, title, supervisor, depth)
+      generateEmployee(spikedData, title, supervisor, depth)
       employee = {}
       employee["name"] = completeTable["people"][-1]["address"]["nameCode"]
       employee["positionTitle"] = title
-      generateFieldData(addrInfo, positions[1:], employee, depth+1)
+      generateFieldData(spikedData, positions[1:], employee, depth+1)
 
   else:
-    generateEmployee(addrInfo, title, supervisor, depth)
+    generateEmployee(spikedData, title, supervisor, depth)
     employee = {}
     employee["name"] = completeTable["people"][-1]["address"]["nameCode"]
     employee["positionTitle"] = title
-    generateFieldData(addrInfo, positions[1:], employee, depth+1)
+    generateFieldData(spikedData, positions[1:], employee, depth+1)
 
   return
 
@@ -187,12 +191,12 @@ def generateFieldData(addrInfo, positions, supervisor, depth):
 # @desc   call items to generate each table for an employee
 # @param  job title, supervisor object
 #
-def generateEmployee(addrInfo, title, supervisor, depth):
+def generateEmployee(spikedData, title, supervisor, depth):
   newPerson = createPerson()
-  newAddress = createAddress(newPerson, addrInfo)
+  newAddress = createAddress(newPerson, spikedData["addrInfo"])
   newPerson["address"] = newAddress
-  newWorker = createWorker(newPerson, title, supervisor, depth)
-  newWorker["workAssignment"]["legalEntityID"] = company
+  newWorker = createWorker(newPerson, title, supervisor, depth, {"workerTypes": list(map(lambda x: int(x), spikedData["workerTypes"].values()))} if spikedData["workerTypes"] else None)
+  newWorker["workAssignment"]["legalEntityID"] = spikedData["companyName"] if spikedData["companyName"] else company
   newPerson["address"].pop("county")
   newJobRequistion = createJobRequisition(title)
   newJobApplicant = createJobApplicant(newPerson)
