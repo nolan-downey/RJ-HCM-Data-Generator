@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 import './App.css';
-import { APIURL } from './literals';
+import { APIURL, toCamelCase } from './helpers';
 import Loader from './Loader';
 
 function Frame2({ table, previous }) {
@@ -50,23 +50,6 @@ function Frame2({ table, previous }) {
     </ul>
   )
 
-  const determineTable = (tableString) => {
-    switch(tableString) {
-      case "Address":
-        return "address";
-      case "Person":
-        return "person";
-      case "Worker":
-        return "worker";
-      case "Job Applicant":
-        return "jobApplicant";
-      case "Job Requisition":
-        return 'jobRequisition';
-      default:
-        return "";
-    }
-  }
-
   const fetchData = async (selection) => {
     setLoadedData(false);
     setFetchingData(true);
@@ -91,7 +74,8 @@ function Frame2({ table, previous }) {
       console.log(err)
     })
 
-    selection = determineTable(selection)
+    // selection = determineTable(selection)
+    selection = toCamelCase(selection);
     await axios.get(`${APIURL}/api/${selection}`)
       .then(res => {
         if (res) {
