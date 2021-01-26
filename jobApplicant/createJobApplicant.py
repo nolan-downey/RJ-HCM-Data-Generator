@@ -100,8 +100,8 @@ def newLanguages():
   #If they know only one, it has to be English
   if(f_total == 1):
       x = [{"Name":"English","Native":1,"Proficiency":5}]
-      y = json.dumps(x)
-      return(y)
+      # y = json.dumps(x)
+      return(x)
 
   #Iterating through to create the languages. English is forced to be one of them.
   check = 0

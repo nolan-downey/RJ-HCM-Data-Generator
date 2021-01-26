@@ -1,6 +1,4 @@
-from flask import Flask
-from flask import jsonify
-from flask import request
+from flask import Flask, jsonify, request
 from flask_cors import CORS, cross_origin
 from bson.objectid import ObjectId
 from datetime import datetime
@@ -198,7 +196,7 @@ def generateEmployee(spikedData, title, supervisor, depth):
   newWorker = createWorker(newPerson, title, supervisor, depth, {"workerTypes": list(map(lambda x: int(x), spikedData["workerTypes"].values()))} if spikedData["workerTypes"] else None)
   newWorker["workAssignment"]["legalEntityID"] = spikedData["companyName"] if spikedData["companyName"] else company
   newPerson["address"].pop("county")
-  newJobRequistion = createJobRequisition(title)
+  newJobRequistion = createJobRequisition(title, newWorker['workAssignment'], newWorker)
   newJobApplicant = createJobApplicant(newPerson)
 
   completeTable["addresses"].append(newAddress)
