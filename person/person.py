@@ -65,7 +65,11 @@ def newName(Person):
   else:
       names['firstName'] = male_names[name_index] if name_index % 2 == 0 else female_names[name_index]
 
-  names['lastName'] = surnames[name_index].lower().capitalize()
+  try:
+    names['lastName'] = surnames[name_index].lower().capitalize()
+  except TypeError:
+    names['lastName'] = surnames[0].lower().capitalize()
+
   names['middleName'] = middle_initials[initial_index]
 
   return names

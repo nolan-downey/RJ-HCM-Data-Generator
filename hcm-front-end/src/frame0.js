@@ -1,12 +1,11 @@
 import { useEffect, useRef, useState } from 'react';
-import { APIURL } from './literals';
+import { APIURL } from './helpers';
 import axios from 'axios';
 
-function Frame0(props) {
-
+function Frame0({ next }) {
   const [dbs, setDbs] = useState();
 
-  const handleChangeDB = (selection) => {
+  const handleDBchange = (selection) => {
     selection = selection.target.value;
     axios.post(`${APIURL}/api/changeDB`, {"dbName": selection})
       .then(response => {
@@ -38,17 +37,29 @@ function Frame0(props) {
         <label htmlFor="state" style={{display: 'block'}}>
           Choose a database and state whose addresses you want to view
         </label>
-        <select name="dbNames" onChange={handleChangeDB}>
+        <select 
+          name="dbNames" 
+          onChange={handleDBchange}
+        >
           {dbs && Array.isArray(dbs) ? 
             dbs.length > 0 ? 
               dbs.map((db, idx) => (
-                <option key={idx} value={db}>
+                <option 
+                  key={idx} 
+                  value={db}
+                >
                   {db}
                 </option>))
               : <> ... </>
             : <> </>}
         </select>
-        <button className="next-frame" onClick={props.next}>Continue</button>
+        <button 
+          className="next-frame" 
+          onClick={next}
+          disabled={!dbs}
+        > 
+          Continue
+        </button>
       </header>
     </div>
   )
