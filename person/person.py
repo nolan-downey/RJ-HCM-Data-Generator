@@ -11,14 +11,14 @@ surnames = pd.read_csv('assets/names/surnames.txt')['name']
 # @desc   Creates person, calls other functions to generate data
 # @param  None
 #
-def createPerson():
+def createPerson(genderPercentages, agePercentages, ethnicityPercentages):
   person = {}
 
-  person["gender"]                = newGender()
+  person["gender"]                = newGender(genderPercentages if genderPercentages else None)
   person["name"]                  = newName(person)
   person["highestEducationLevel"] = newEducationLevel([2, 1, 2, 10, 65, 15, 10])
-  person["birthDate"]             = newBirthDate([100/6 for _ in range(5)])
-  person["ethnicityCode"]         = newEthnicity([20 for _ in range(6)])
+  person["birthDate"]             = newBirthDate(agePercentages if agePercentages else None)
+  person["ethnicity"]         = newEthnicity(ethnicityPercentages if ethnicityPercentages else None)
 
   # Address done in hcm.py file
   
@@ -29,14 +29,14 @@ def createPerson():
 # @desc   Creates gender
 # @param  None
 #
-def newGender():
+def newGender(genderPercentages):
   MALE = 'M'
   FEMALE = 'F'
   OTHER = 'Other'
 
   GENDERS = [MALE, FEMALE, OTHER]
 
-  gender = generateBiased(GENDERS, [45, 45, 10])
+  gender = generateBiased(GENDERS, genderPercentages if genderPercentages else [45, 45, 10])
   return gender
 
 
@@ -80,7 +80,7 @@ def newName(Person):
 # @desc   Creates ethnicity
 # @param  percentages (weights to each race)
 #
-def newEthnicity(percentages):
+def newEthnicity(ethnicityPercentages):
   ETHNICITY_CODES = [
     'Non-Hispanic/Latino White',
     'Pacific Islander',
@@ -89,7 +89,7 @@ def newEthnicity(percentages):
     'Non-white Hispanic/Latino',
     'African or African American (Non-Hispanic/Latino)'
   ]
-  ethnicity = generateBiased(ETHNICITY_CODES, percentages)
+  ethnicity = generateBiased(ETHNICITY_CODES, ethnicityPercentages if ethnicityPercentages else  [20 for _ in range(6)])
   return ethnicity
 
 
@@ -98,10 +98,9 @@ def newEthnicity(percentages):
 # @desc   Gives a random birthday.
 # @param  percentages (weights to each age range)
 #
-def newBirthDate(percentages):
+def newBirthDate(agePercentages):
   AGE_RANGES = [20, 30, 40, 50, 60]
-
-  lowerBound = generateBiased(AGE_RANGES, percentages)
+  lowerBound = generateBiased(AGE_RANGES,  agePercentages if agePercentages else [100/6 for _ in range(5)])
   upperBound = lowerBound + 10
   age = random.randint(lowerBound, upperBound)
 
