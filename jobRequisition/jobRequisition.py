@@ -38,9 +38,25 @@ def createJobRequisition(positionTitle, fullTimePercentages):
                                           requisition['postDate'], 
                                           requisition['projectedStartDate'])
   requisition['remoteIndicator'] = newRemoteIndicator()
-  requisition['requisitionLocations'] = {} # upon completion of location
-  requisition['hiringManager'] = {} # need to decide how to integrate workers
-  requisition['recruiter'] = {} # need to decide how to integrate workers
+  requisition['requisitionLocations'] = workAssignment['locationID']
+
+  n_ancestors = 0
+  temp_worker = worker
+  while temp_worker['workAssignment']['reportsTo'] != None:
+    if 'workAssignmnet' not in temp_worker:
+      break
+    if 'reportsTo' not in temp_worker['workAssignment']:
+      break
+    temp_worker = temp_worker['workAssignment']['reportsTo']
+    n_ancestors += 1
+
+  rand_ancestor = randint(0, n_ancestors)
+  manager = worker
+  for _ in range(rand_ancestor):
+    manager = manager['workAssignment']['reportsTo']
+
+  requisition['hiringManager'] = manager
+  requisition['recruiter'] = manager
 
   return requisition
 
