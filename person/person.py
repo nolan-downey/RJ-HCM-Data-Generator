@@ -67,7 +67,7 @@ def newName(Person):
 
   try:
     names['lastName'] = surnames[name_index].lower().capitalize()
-  except TypeError:
+  except AttributeError:
     names['lastName'] = surnames[0].lower().capitalize()
 
   names['middleName'] = middle_initials[initial_index]
