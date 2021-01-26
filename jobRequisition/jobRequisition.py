@@ -21,7 +21,8 @@ STATUS_CODES = ['Pending', 'Approved', 'Filled', 'Closed']
 # @desc   Creates requisition, calls other functions to generate data
 # @param  None
 #
-def createJobRequisition(positionTitle, fullTimePercentages):
+def createJobRequisition(positionTitle, fullTimePercentages, worker):
+  workAssignment = worker['workAssignment']
   requisition = {}
   title, reason = newTitleReason()
   requisition['requisitionTitle'] = positionTitle

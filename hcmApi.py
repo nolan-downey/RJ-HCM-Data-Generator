@@ -199,7 +199,7 @@ def generateEmployee(spikedData, title, supervisor, depth):
   newWorker = createWorker(newPerson, title, supervisor, depth, {"workerTypes": list(map(lambda x: int(x), spikedData["workerTypes"].values()))} if spikedData["workerTypes"] else None)
   newWorker["workAssignment"]["legalEntityID"] = spikedData["companyName"] if spikedData["companyName"] else company
   newPerson["address"].pop("county")
-  newJobRequistion = createJobRequisition(title, list(map(lambda x: int(x), spikedData["fullTimeEquivalency"].values())) if spikedData["fullTimeEquivalency"] else None )
+  newJobRequistion = createJobRequisition(title, list(map(lambda x: int(x), spikedData["fullTimeEquivalency"].values())) if spikedData["fullTimeEquivalency"] else None, newWorker)
   newJobApplicant = createJobApplicant(newPerson)
 
   completeTable["addresses"].append(newAddress)
